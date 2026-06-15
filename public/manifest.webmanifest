@@ -1,0 +1,17 @@
+{
+  "name": "Japanese Study",
+  "short_name": "JP Study",
+  "description": "A small Japanese study app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#145c58",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

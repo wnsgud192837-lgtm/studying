@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+
+.next-dev.out.log
+.next-dev.err.log
+
+.env
+.env.local
+.env.*.local
+
+npm-debug.log*
