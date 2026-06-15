@@ -3,7 +3,16 @@ import "./globals.css";
 export const metadata = {
   title: "Japanese Study",
   description: "A small Japanese study app",
-  manifest: "/manifest.webmanifest"
+  manifest: "/manifest.webmanifest",
+  icons: {
+    icon: "/icon.svg",
+    apple: "/icon.svg"
+  },
+  appleWebApp: {
+    capable: true,
+    title: "Japanese Study",
+    statusBarStyle: "default"
+  }
 };
 
 export const viewport = {

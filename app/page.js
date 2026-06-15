@@ -81,12 +81,32 @@ function nextProgress(current, isCorrect) {
 export default function Home() {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isRevealed, setIsRevealed] = useState(false);
+  const [installPrompt, setInstallPrompt] = useState(null);
   const [progress, setProgress] = useState(() => getInitialProgress(starterItems));
 
   useEffect(() => {
     if ("serviceWorker" in navigator) {
       navigator.serviceWorker.register("/sw.js").catch(() => {});
     }
+  }, []);
+
+  useEffect(() => {
+    function onBeforeInstallPrompt(event) {
+      event.preventDefault();
+      setInstallPrompt(event);
+    }
+
+    function onAppInstalled() {
+      setInstallPrompt(null);
+    }
+
+    window.addEventListener("beforeinstallprompt", onBeforeInstallPrompt);
+    window.addEventListener("appinstalled", onAppInstalled);
+
+    return () => {
+      window.removeEventListener("beforeinstallprompt", onBeforeInstallPrompt);
+      window.removeEventListener("appinstalled", onAppInstalled);
+    };
   }, []);
 
   useEffect(() => {
@@ -127,6 +147,16 @@ export default function Home() {
     setActiveIndex(0);
   }
 
+  async function installApp() {
+    if (!installPrompt) {
+      return;
+    }
+
+    installPrompt.prompt();
+    await installPrompt.userChoice;
+    setInstallPrompt(null);
+  }
+
   return (
     <main className="app-shell">
       <section className="study-panel" aria-label="일본어 카드 학습">
@@ -135,9 +165,16 @@ export default function Home() {
             <p className="eyebrow">Japanese Study</p>
             <h1>오늘의 카드</h1>
           </div>
-          <button className="ghost-button" type="button" onClick={resetProgress}>
-            초기화
-          </button>
+          <div className="topbar-actions">
+            {installPrompt ? (
+              <button className="install-button" type="button" onClick={installApp}>
+                설치
+              </button>
+            ) : null}
+            <button className="ghost-button" type="button" onClick={resetProgress}>
+              초기화
+            </button>
+          </div>
         </header>
 
         <div className="stats-grid" aria-label="학습 통계">
