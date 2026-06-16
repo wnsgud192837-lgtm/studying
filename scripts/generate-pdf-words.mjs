@@ -5,6 +5,7 @@ import { PDFParse } from "pdf-parse";
 const docsDir = path.join(process.cwd(), "docs");
 const outFile = path.join(process.cwd(), "app", "generatedWords.js");
 const timePattern = /\b(?:\d{2}:\d{2}|1:\d{2}:\d{2})\b/g;
+const hasTimePattern = /\b(?:\d{2}:\d{2}|1:\d{2}:\d{2})\b/;
 
 function slug(value) {
   return value
@@ -57,8 +58,7 @@ function isEntryStart(line) {
 
   const [head, ...rest] = line.split(/\s+/);
   if (!head) return false;
-  if (timePattern.test(head)) return false;
-  timePattern.lastIndex = 0;
+  if (hasTimePattern.test(head)) return false;
 
   if (hasJapanese(head) || /^\d+\([ぁ-んァ-ンー]+\)$/.test(head)) {
     return rest.length > 0 || /[(（][^()（）]+[)）]$/u.test(head);
