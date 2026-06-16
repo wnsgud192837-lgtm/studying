@@ -1,6 +1,6 @@
 [
   {
-    "id": "pdf-20260603-カット-かっと",
+    "id": "word-カット-かっと",
     "japanese": "カット",
     "reading": "かっと",
     "meaningKo": "cut, cutting, haircut, (continuous) shot (in a film or TV show), illustration (in a book, newspaper, etc.)",
@@ -11,10 +11,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "カット かっと cut, cutting, haircut, (continuous) shot (in a film or TV show), illustration (in a book, newspaper, etc.) PDF 20260603"
+    "searchText": "カット かっと cut, cutting, haircut, (continuous) shot (in a film or TV show), illustration (in a book, newspaper, etc.) N1 PDF 20260603 ちゃんとね、みんなには僕の咳が聞こえないように、ちゃんとカットするので、ご安心ください。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ちゃんとね、みんなには僕の咳が聞こえないように、ちゃんとカットするので、ご安心ください。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-育ち-そた-ち",
+    "id": "word-育ち-そだち",
     "japanese": "育ち",
     "reading": "そだち",
     "meaningKo": "breeding, growth, growing up (in, as), upbringing",
@@ -25,10 +42,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "育ち そだち breeding, growth, growing up (in, as), upbringing PDF 20260603"
+    "searchText": "育ち そだち breeding, growth, growing up (in, as), upbringing N1 PDF 20260603 で、日本人なんですけど、僕、一応僕、日本生まれ、日本育ちの日本人なんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、日本人なんですけど、僕、一応僕、日本生まれ、日本育ちの日本人なんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-発言-はつけ-ん",
+    "id": "word-発言-はつげん",
     "japanese": "発言",
     "reading": "はつげん",
     "meaningKo": "observation, proposal, remark, speech, statement,,",
@@ -39,10 +73,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "発言 はつげん observation, proposal, remark, speech, statement, PDF 20260603"
+    "searchText": "発言 はつげん observation, proposal, remark, speech, statement,, N1 PDF 20260603 でね、で、とあるニュース記事でですね、何人か、外国の方で、日本の街並みについて、 発言していて、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "でね、で、とあるニュース記事でですね、何人か、外国の方で、日本の街並みについて、 発言していて、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-掲載-けいさい",
+    "id": "word-掲載-けいさい",
     "japanese": "掲載",
     "reading": "けいさい",
     "meaningKo": "carrying (e.g. a story), insertion (e.g. of an advertisement), posting (e.g. on the web), printing, publication (e.g. of an article in a newspaper)",
@@ -53,10 +104,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "掲載 けいさい carrying (e.g. a story), insertion (e.g. of an advertisement), posting (e.g. on the web), printing, publication (e.g. of an article in a newspaper) PDF 20260603"
+    "searchText": "掲載 けいさい carrying (e.g. a story), insertion (e.g. of an advertisement), posting (e.g. on the web), printing, publication (e.g. of an article in a newspaper) N1 PDF 20260603 それが掲載されていたので、それを見ていきたいなと思います。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "それが掲載されていたので、それを見ていきたいなと思います。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-母国-ほ-こく",
+    "id": "word-母国-ぼこく",
     "japanese": "母国",
     "reading": "ぼこく",
     "meaningKo": "one's home country, one's homeland",
@@ -67,10 +135,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "母国 ぼこく one's home country, one's homeland PDF 20260603"
+    "searchText": "母国 ぼこく one's home country, one's homeland N1 PDF 20260603 この人はね、母国では使用済みのトイレットペーパーはゴミ箱に捨てるのが普通らしいんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "この人はね、母国では使用済みのトイレットペーパーはゴミ箱に捨てるのが普通らしいんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-発生-はっせい",
+    "id": "word-発生-はっせい",
     "japanese": "発生",
     "reading": "はっせい",
     "meaningKo": "birth (e.g. of civilization), incidence, occurrence, outbreak, generation (of power, heat, etc.)",
@@ -81,10 +166,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "発生 はっせい birth (e.g. of civilization), incidence, occurrence, outbreak, generation (of power, heat, etc.) PDF 20260603"
+    "searchText": "発生 はっせい birth (e.g. of civilization), incidence, occurrence, outbreak, generation (of power, heat, etc.) N1 PDF 20260603 何かの香りが発生するように多分、いろんなものを置いてると思うんだけど。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "何かの香りが発生するように多分、いろんなものを置いてると思うんだけど。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-共感-きょうかん",
+    "id": "word-共感-きょうかん",
     "japanese": "共感",
     "reading": "きょうかん",
     "meaningKo": "empathy, identification (with someone), response, sympathy",
@@ -92,13 +194,32 @@
     "exampleJapanese": "そうだな、普通に毎日トイレットペーパーを、トイレに流してる人なら、共感してくれると思うんだけど、",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260611",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "共感 きょうかん empathy, identification (with someone), response, sympathy PDF 20260603"
+    "searchText": "共感 きょうかん empathy, identification (with someone), response, sympathy N1 PDF 20260603 PDF 20260611 そうだな、普通に毎日トイレットペーパーを、トイレに流してる人なら、共感してくれると思うんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そうだな、普通に毎日トイレットペーパーを、トイレに流してる人なら、共感してくれると思うんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-詳細-しょうさい",
+    "id": "word-詳細-しょうさい",
     "japanese": "詳細",
     "reading": "しょうさい",
     "meaningKo": "details, particulars, specifics, close-up view (of a digitally displayed map), zoomed-in view",
@@ -106,13 +227,37 @@
     "exampleJapanese": "だから僕はね、あまり、詳細には覚えてないけど、",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260611",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "詳細 しょうさい details, particulars, specifics, close-up view (of a digitally displayed map), zoomed-in view PDF 20260603"
+    "searchText": "詳細 しょうさい details, particulars, specifics, close-up view (of a digitally displayed map), zoomed-in view N1 PDF 20260603 PDF 20260611 だから僕はね、あまり、詳細には覚えてないけど、 で、ここまで、日本の告白文化について、その特徴と細かいところ、その詳細までね、話 してきたんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "だから僕はね、あまり、詳細には覚えてないけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      },
+      {
+        "exampleJapanese": "で、ここまで、日本の告白文化について、その特徴と細かいところ、その詳細までね、話 してきたんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-扱い-あつかい",
+    "id": "word-扱い-あつかい",
     "japanese": "扱い",
     "reading": "あつかい",
     "meaningKo": "dealing (with), handling, management, service, treatment",
@@ -123,10 +268,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "扱い あつかい dealing (with), handling, management, service, treatment PDF 20260603"
+    "searchText": "扱い あつかい dealing (with), handling, management, service, treatment N1 PDF 20260603 そう、だから、世界共通でね、トイレットペーパーの扱いって、統一してほしいなって思 うんだけどさ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そう、だから、世界共通でね、トイレットペーパーの扱いって、統一してほしいなって思 うんだけどさ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-流通-りゅうつう",
+    "id": "word-流通-りゅうつう",
     "japanese": "流通",
     "reading": "りゅうつう",
     "meaningKo": "circulation (of money, goods, etc.), distribution, circulation (of air, water, etc.), flow, ventilation",
@@ -137,10 +299,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "流通 りゅうつう circulation (of money, goods, etc.), distribution, circulation (of air, water, etc.), flow, ventilation PDF 20260603"
+    "searchText": "流通 りゅうつう circulation (of money, goods, etc.), distribution, circulation (of air, water, etc.), flow, ventilation N1 PDF 20260603 流通しているトイレットペーパーが、水に溶けるか溶けないかの問題だと思うんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "流通しているトイレットペーパーが、水に溶けるか溶けないかの問題だと思うんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-衝撃-しょうけ-き",
+    "id": "word-衝撃-しょうげき",
     "japanese": "衝撃",
     "reading": "しょうげき",
     "meaningKo": "impact, impulse, shock, (psychological) shock,",
@@ -151,10 +330,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "衝撃 しょうげき impact, impulse, shock, (psychological) shock, PDF 20260603"
+    "searchText": "衝撃 しょうげき impact, impulse, shock, (psychological) shock, N1 PDF 20260603 結構日本だと有名な... というか、日本社会に衝撃を与えた事件なんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "結構日本だと有名な... というか、日本社会に衝撃を与えた事件なんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-信者-しんし-ゃ",
+    "id": "word-信者-しんじゃ",
     "japanese": "信者",
     "reading": "しんじゃ",
     "meaningKo": "adherent, believer, devotee, follower, fanatic",
@@ -165,10 +361,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "信者 しんじゃ adherent, believer, devotee, follower, fanatic PDF 20260603"
+    "searchText": "信者 しんじゃ adherent, believer, devotee, follower, fanatic N1 PDF 20260603 当時すごい数の信者がいた信仰宗教で、今はね、オウム真理教自体はもうなくなってるんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "当時すごい数の信者がいた信仰宗教で、今はね、オウム真理教自体はもうなくなってるんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-世代-せた-い",
+    "id": "word-世代-せだい",
     "japanese": "世代",
     "reading": "せだい",
     "meaningKo": "generation,",
@@ -176,13 +389,37 @@
     "exampleJapanese": "で、僕の世代はね、実際にその光景を見た人っていうのはいないんだけど、",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260611",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "世代 せだい generation, PDF 20260603"
+    "searchText": "世代 せだい generation, N1 PDF 20260603 PDF 20260611 で、僕の世代はね、実際にその光景を見た人っていうのはいないんだけど、 例えばさ、60万人の人が... 各世代60万人いたとして、100歳までいたとしてもさ、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、僕の世代はね、実際にその光景を見た人っていうのはいないんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      },
+      {
+        "exampleJapanese": "例えばさ、60万人の人が... 各世代60万人いたとして、100歳までいたとしてもさ、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-爆弾-は-くた-ん",
+    "id": "word-爆弾-ばくだん",
     "japanese": "爆弾",
     "reading": "ばくだん",
     "meaningKo": "bomb, alcohol with liquor added (esp. wine-based shōchū highball, also beer with whiskey),,",
@@ -193,10 +430,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "爆弾 ばくだん bomb, alcohol with liquor added (esp. wine-based shōchū highball, also beer with whiskey), PDF 20260603"
+    "searchText": "爆弾 ばくだん bomb, alcohol with liquor added (esp. wine-based shōchū highball, also beer with whiskey),, N1 PDF 20260603 なんでかっていうとね、ゴミ箱があると、そこにね、爆弾とかが仕掛けられたりするかもしれない。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "なんでかっていうとね、ゴミ箱があると、そこにね、爆弾とかが仕掛けられたりするかもしれない。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-仕掛ける-しかける",
+    "id": "word-仕掛ける-しかける",
     "japanese": "仕掛ける",
     "reading": "しかける",
     "meaningKo": "to begin, to commence, to start, to challenge, to draw (a reaction) from,",
@@ -207,10 +461,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "仕掛ける しかける to begin, to commence, to start, to challenge, to draw (a reaction) from, PDF 20260603"
+    "searchText": "仕掛ける しかける to begin, to commence, to start, to challenge, to draw (a reaction) from, N1 PDF 20260603 なんでかっていうとね、ゴミ箱があると、そこにね、爆弾とかが仕掛けられたりするかもしれない。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "なんでかっていうとね、ゴミ箱があると、そこにね、爆弾とかが仕掛けられたりするかもしれない。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-設置-せっち",
+    "id": "word-設置-せっち",
     "japanese": "設置",
     "reading": "せっち",
     "meaningKo": "establishment, institution, installation (of a machine or equipment),,,,,,,,,,,,,,",
@@ -221,10 +492,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "設置 せっち establishment, institution, installation (of a machine or equipment),,,,,,, PDF 20260603"
+    "searchText": "設置 せっち establishment, institution, installation (of a machine or equipment),,,,,,,,,,,,,, N1 PDF 20260603 さっき話した化学兵器とかも、ゴミ箱に設置されちゃうかもしれない。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "さっき話した化学兵器とかも、ゴミ箱に設置されちゃうかもしれない。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-反する-はんする",
+    "id": "word-反する-はんする",
     "japanese": "反する",
     "reading": "はんする",
     "meaningKo": "to be contrary (to), to be opposite (to), to contradict, to go against, to run counter (to)",
@@ -235,10 +523,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "反する はんする to be contrary (to), to be opposite (to), to contradict, to go against, to run counter (to) PDF 20260603"
+    "searchText": "反する はんする to be contrary (to), to be opposite (to), to contradict, to go against, to run counter (to) N1 PDF 20260603 でも、それと反してね、地下鉄サリン事件は、ゴミ箱撤去の直接的な要因ではないって考 える人もいるんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "でも、それと反してね、地下鉄サリン事件は、ゴミ箱撤去の直接的な要因ではないって考 える人もいるんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-要因-よういん",
+    "id": "word-要因-よういん",
     "japanese": "要因",
     "reading": "よういん",
     "meaningKo": "main cause, primary factor,",
@@ -249,10 +554,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "要因 よういん main cause, primary factor, PDF 20260603"
+    "searchText": "要因 よういん main cause, primary factor, N1 PDF 20260603 でも、それと反してね、地下鉄サリン事件は、ゴミ箱撤去の直接的な要因ではないって考 える人もいるんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "でも、それと反してね、地下鉄サリン事件は、ゴミ箱撤去の直接的な要因ではないって考 える人もいるんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-映像-えいそ-う",
+    "id": "word-映像-えいぞう",
     "japanese": "映像",
     "reading": "えいぞう",
     "meaningKo": "image (on a screen), picture (e.g. on a TV), film, footage, video",
@@ -263,10 +585,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "映像 えいぞう image (on a screen), picture (e.g. on a TV), film, footage, video PDF 20260603"
+    "searchText": "映像 えいぞう image (on a screen), picture (e.g. on a TV), film, footage, video N1 PDF 20260603 僕はね、まあアメリカに行ったことはないんだけど、そういう映像を見たことがある気がするんだよな。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "僕はね、まあアメリカに行ったことはないんだけど、そういう映像を見たことがある気がするんだよな。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-有力-ゆうりょく",
+    "id": "word-有力-ゆうりょく",
     "japanese": "有力",
     "reading": "ゆうりょく",
     "meaningKo": "influential, leading, prominent, convincing, likely",
@@ -277,10 +616,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "有力 ゆうりょく influential, leading, prominent, convincing, likely PDF 20260603"
+    "searchText": "有力 ゆうりょく influential, leading, prominent, convincing, likely N1 PDF 20260603 あ、地下鉄サリン事件、ゴミ箱撤去に直接的な要因がない説というのが結構有力なんだけど。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "あ、地下鉄サリン事件、ゴミ箱撤去に直接的な要因がない説というのが結構有力なんだけど。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-もたらす-no-reading",
+    "id": "word-もたらす-no-reading",
     "japanese": "もたらす",
     "reading": "",
     "meaningKo": "to bring (news, knowledge, etc.), to introduce, to bring about, to cause, to produce (e.g. results)",
@@ -288,13 +644,37 @@
     "exampleJapanese": "事件が、日本の地下鉄とか、駅のゴミ箱撤去に影響をもたらしたということなんだけど、",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260606",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "もたらす to bring (news, knowledge, etc.), to introduce, to bring about, to cause, to produce (e.g. results) PDF 20260603"
+    "searchText": "もたらす to bring (news, knowledge, etc.), to introduce, to bring about, to cause, to produce (e.g. results) N1 PDF 20260603 PDF 20260606 事件が、日本の地下鉄とか、駅のゴミ箱撤去に影響をもたらしたということなんだけど、 で、そのセロトニンって呼ばれるホルモンは、精神の安定をもたらすとされてるじゃん。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "事件が、日本の地下鉄とか、駅のゴミ箱撤去に影響をもたらしたということなんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      },
+      {
+        "exampleJapanese": "で、そのセロトニンって呼ばれるホルモンは、精神の安定をもたらすとされてるじゃん。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-乏しい-とほ-しい",
+    "id": "word-乏しい-とぼしい",
     "japanese": "乏しい",
     "reading": "とぼしい",
     "meaningKo": "destitute, hard up, lacking, limited, meager",
@@ -305,10 +685,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "乏しい とぼしい destitute, hard up, lacking, limited, meager PDF 20260603"
+    "searchText": "乏しい とぼしい destitute, hard up, lacking, limited, meager N1 PDF 20260603 ちょっとね、僕の知識がちょっと乏しくて、知らなかった事件です。すいません。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ちょっとね、僕の知識がちょっと乏しくて、知らなかった事件です。すいません。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-爆破-は-くは",
+    "id": "word-爆破-ばくは",
     "japanese": "爆破",
     "reading": "ばくは",
     "meaningKo": "blowing up, destructive blast, explosion",
@@ -319,10 +716,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "爆破 ばくは blowing up, destructive blast, explosion PDF 20260603"
+    "searchText": "爆破 ばくは blowing up, destructive blast, explosion N1 PDF 20260603 ヨーロッパで、というかスペインで起きた、列車爆破テロ事件ですね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ヨーロッパで、というかスペインで起きた、列車爆破テロ事件ですね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-対応-たいおう",
+    "id": "word-対応-たいおう",
     "japanese": "対応",
     "reading": "たいおう",
     "meaningKo": "correspondence (to), equivalence, being appropriate (for), coordination, matching",
@@ -333,10 +747,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "対応 たいおう correspondence (to), equivalence, being appropriate (for), coordination, matching PDF 20260603"
+    "searchText": "対応 たいおう correspondence (to), equivalence, being appropriate (for), coordination, matching N1 PDF 20260603 それに対応するために、ゴミ箱を撤去したっていうことなんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "それに対応するために、ゴミ箱を撤去したっていうことなんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-要請-ようせい",
+    "id": "word-要請-ようせい",
     "japanese": "要請",
     "reading": "ようせい",
     "meaningKo": "appeal, call for something, claim, demand, request,",
@@ -347,10 +778,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "要請 ようせい appeal, call for something, claim, demand, request, PDF 20260603"
+    "searchText": "要請 ようせい appeal, call for something, claim, demand, request, N1 PDF 20260603 で、この時、東急電鉄はね、国土交通省と、警視庁から、協力要請を受けたって言ってるんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、この時、東急電鉄はね、国土交通省と、警視庁から、協力要請を受けたって言ってるんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-メテ-ィア-めて-ぃあ",
+    "id": "word-メディア-めでぃあ",
     "japanese": "メディア",
     "reading": "めでぃあ",
     "meaningKo": "media,",
@@ -361,10 +809,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "メディア めでぃあ media, PDF 20260603"
+    "searchText": "メディア めでぃあ media, N1 PDF 20260603 日本のテレビとかメディアで地下鉄サリン事件のことが取り上げられるんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "日本のテレビとかメディアで地下鉄サリン事件のことが取り上げられるんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-受け継く-うけつく",
+    "id": "word-受け継ぐ-うけつぐ",
     "japanese": "受け継ぐ",
     "reading": "うけつぐ",
     "meaningKo": "to inherit, to succeed, to take over",
@@ -375,10 +840,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "受け継ぐ うけつぐ to inherit, to succeed, to take over PDF 20260603"
+    "searchText": "受け継ぐ うけつぐ to inherit, to succeed, to take over N1 PDF 20260603 後世に受け継いでいく、語り継いでいくっていうことは、すごい大事なことだと思うんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "後世に受け継いでいく、語り継いでいくっていうことは、すごい大事なことだと思うんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-感染-かんせん",
+    "id": "word-感染-かんせん",
     "japanese": "感染",
     "reading": "かんせん",
     "meaningKo": "becoming infected, contagion, infection, being infected (e.g. with harmful ideas), being influenced (by)",
@@ -389,10 +871,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "感染 かんせん becoming infected, contagion, infection, being infected (e.g. with harmful ideas), being influenced (by) PDF 20260603"
+    "searchText": "感染 かんせん becoming infected, contagion, infection, being infected (e.g. with harmful ideas), being influenced (by) N1 PDF 20260603 そこから、他の人に感染する恐れがあるって、そういう理屈なんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そこから、他の人に感染する恐れがあるって、そういう理屈なんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-恐れ-おそれ",
+    "id": "word-恐れ-おそれ",
     "japanese": "恐れ",
     "reading": "おそれ",
     "meaningKo": "anxiety, concern, fear, horror, reverence",
@@ -403,10 +902,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "恐れ おそれ anxiety, concern, fear, horror, reverence PDF 20260603"
+    "searchText": "恐れ おそれ anxiety, concern, fear, horror, reverence N1 PDF 20260603 そこから、他の人に感染する恐れがあるって、そういう理屈なんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そこから、他の人に感染する恐れがあるって、そういう理屈なんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-理屈-りくつ",
+    "id": "word-理屈-りくつ",
     "japanese": "理屈",
     "reading": "りくつ",
     "meaningKo": "logic, reason, theory, (unreasonable) argument, excuse",
@@ -417,10 +933,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "理屈 りくつ logic, reason, theory, (unreasonable) argument, excuse PDF 20260603"
+    "searchText": "理屈 りくつ logic, reason, theory, (unreasonable) argument, excuse N1 PDF 20260603 そこから、他の人に感染する恐れがあるって、そういう理屈なんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そこから、他の人に感染する恐れがあるって、そういう理屈なんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-未知-みち",
+    "id": "word-未知-みち",
     "japanese": "未知",
     "reading": "みち",
     "meaningKo": "not yet known, strange, unknown",
@@ -431,10 +964,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "未知 みち not yet known, strange, unknown PDF 20260603"
+    "searchText": "未知 みち not yet known, strange, unknown N1 PDF 20260603 で、これからも未知のウイルスが、流行るかもしれないから、ゴミ箱は設置しない。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、これからも未知のウイルスが、流行るかもしれないから、ゴミ箱は設置しない。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-スヘ-ース-すへ-ーす",
+    "id": "word-スペース-すぺーす",
     "japanese": "スペース",
     "reading": "すぺーす",
     "meaningKo": "room, space, space (between letters, words, etc.), space (piece of type), (outer) space",
@@ -445,10 +995,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "スペース すぺーす room, space, space (between letters, words, etc.), space (piece of type), (outer) space PDF 20260603"
+    "searchText": "スペース すぺーす room, space, space (between letters, words, etc.), space (piece of type), (outer) space N1 PDF 20260603 じゃあ、なんで、その他の場所、駅以外の街中とか、その他の公共スペースに、ゴミ箱がないの?",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "じゃあ、なんで、その他の場所、駅以外の街中とか、その他の公共スペースに、ゴミ箱がないの?",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-指摘-してき",
+    "id": "word-指摘-してき",
     "japanese": "指摘",
     "reading": "してき",
     "meaningKo": "identification, pointing out",
@@ -459,10 +1026,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "指摘 してき identification, pointing out PDF 20260603"
+    "searchText": "指摘 してき identification, pointing out N1 PDF 20260603 この記事が指摘していることによるとね、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "この記事が指摘していることによるとね、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-群か-る-むらか-る",
+    "id": "word-群がる-むらがる",
     "japanese": "群がる",
     "reading": "むらがる",
     "meaningKo": "to gather, to swarm,,",
@@ -473,10 +1057,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "群がる むらがる to gather, to swarm, PDF 20260603"
+    "searchText": "群がる むらがる to gather, to swarm,, N1 PDF 20260603 ゴミ箱からあふれてカラスが群がるという光景は、当時の多くの自治体で問題になっていました。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ゴミ箱からあふれてカラスが群がるという光景は、当時の多くの自治体で問題になっていました。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-動き-うこ-き",
+    "id": "word-動き-うごき",
     "japanese": "動き",
     "reading": "うごき",
     "meaningKo": "motion, move, movement, change, development,",
@@ -487,10 +1088,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "動き うごき motion, move, movement, change, development, PDF 20260603"
+    "searchText": "動き うごき motion, move, movement, change, development, N1 PDF 20260603 このような状況に対し、1990年代から、ゴミ箱を撤去して美化につなげる動きが、自治体 や企業で、見られるようになります。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "このような状況に対し、1990年代から、ゴミ箱を撤去して美化につなげる動きが、自治体 や企業で、見られるようになります。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-回収-かいしゅう",
+    "id": "word-回収-かいしゅう",
     "japanese": "回収",
     "reading": "かいしゅう",
     "meaningKo": "collection, recovery, retrieval, withdrawal,,,,,",
@@ -501,10 +1119,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "回収 かいしゅう collection, recovery, retrieval, withdrawal,,, PDF 20260603"
+    "searchText": "回収 かいしゅう collection, recovery, retrieval, withdrawal,,,,, N1 PDF 20260603 毎週何曜日にゴミを回収するっていうのが決められてるんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "毎週何曜日にゴミを回収するっていうのが決められてるんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-荒らす-あらす",
+    "id": "word-荒らす-あらす",
     "japanese": "荒らす",
     "reading": "あらす",
     "meaningKo": "to damage, to devastate, to lay waste, to break into, to invade,",
@@ -515,10 +1150,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "荒らす あらす to damage, to devastate, to lay waste, to break into, to invade, PDF 20260603"
+    "searchText": "荒らす あらす to damage, to devastate, to lay waste, to break into, to invade, N1 PDF 20260603 カラスがね、その袋をつついたりして、穴を開けて、荒らすんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "カラスがね、その袋をつついたりして、穴を開けて、荒らすんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-保つ-たもつ",
+    "id": "word-保つ-たもつ",
     "japanese": "保つ",
     "reading": "たもつ",
     "meaningKo": "to hold, to keep, to maintain, to preserve, to retain",
@@ -526,13 +1178,32 @@
     "exampleJapanese": "で、カラスはね、人間みたいに、この街を綺麗に保とうとか、そういう意識が全くないわけじゃん。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260606",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "保つ たもつ to hold, to keep, to maintain, to preserve, to retain PDF 20260603"
+    "searchText": "保つ たもつ to hold, to keep, to maintain, to preserve, to retain N1 PDF 20260603 PDF 20260606 で、カラスはね、人間みたいに、この街を綺麗に保とうとか、そういう意識が全くないわけじゃん。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、カラスはね、人間みたいに、この街を綺麗に保とうとか、そういう意識が全くないわけじゃん。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-いっそ-no-reading",
+    "id": "word-いっそ-no-reading",
     "japanese": "いっそ",
     "reading": "",
     "meaningKo": "just, might as well, preferably, rather, sooner",
@@ -543,10 +1214,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "いっそ just, might as well, preferably, rather, sooner PDF 20260603"
+    "searchText": "いっそ just, might as well, preferably, rather, sooner N1 PDF 20260603 ということは、いっそのこと、ゴミ箱がない方がいいっていう、そういう考え方が、広まってくるのも、理解できるよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ということは、いっそのこと、ゴミ箱がない方がいいっていう、そういう考え方が、広まってくるのも、理解できるよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-決断-けつた-ん",
+    "id": "word-決断-けつだん",
     "japanese": "決断",
     "reading": "けつだん",
     "meaningKo": "decision, determination",
@@ -557,10 +1245,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "決断 けつだん decision, determination PDF 20260603"
+    "searchText": "決断 けつだん decision, determination N1 PDF 20260603 だから、思い切って、ゴミ箱撤去っていう決断を下せるんだろうなって、思う。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "だから、思い切って、ゴミ箱撤去っていう決断を下せるんだろうなって、思う。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-参照-さんしょう",
+    "id": "word-参照-さんしょう",
     "japanese": "参照",
     "reading": "さんしょう",
     "meaningKo": "comparison, consultation, reference (e.g. to a dictionary, passage, footnotes), browsing (to a file or folder)",
@@ -571,10 +1276,27 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "参照 さんしょう comparison, consultation, reference (e.g. to a dictionary, passage, footnotes), browsing (to a file or folder) PDF 20260603"
+    "searchText": "参照 さんしょう comparison, consultation, reference (e.g. to a dictionary, passage, footnotes), browsing (to a file or folder) N1 PDF 20260603 この機関は、EUの国とのデータを比較したわけだから、EuroStatっていうもののデータを 参照してるらしいんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "この機関は、EUの国とのデータを比較したわけだから、EuroStatっていうもののデータを 参照してるらしいんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-領域-りょういき",
+    "id": "word-領域-りょういき",
     "japanese": "領域",
     "reading": "りょういき",
     "meaningKo": "domain, territory, area, field, realm",
@@ -582,13 +1304,37 @@
     "exampleJapanese": "「うわ、かっこいいな、ヨーロッパはやっぱり、こういう領域だと、結構進んでるんだな 」って思ったんだよね。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260611",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "領域 りょういき domain, territory, area, field, realm PDF 20260603"
+    "searchText": "領域 りょういき domain, territory, area, field, realm N1 PDF 20260603 PDF 20260611 「うわ、かっこいいな、ヨーロッパはやっぱり、こういう領域だと、結構進んでるんだな 」って思ったんだよね。 家族社会学っていう、そういう領域があるらしくてね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "「うわ、かっこいいな、ヨーロッパはやっぱり、こういう領域だと、結構進んでるんだな 」って思ったんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      },
+      {
+        "exampleJapanese": "家族社会学っていう、そういう領域があるらしくてね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-取り除く-とりのそ-く",
+    "id": "word-取り除く-とりのぞく",
     "japanese": "取り除く",
     "reading": "とりのぞく",
     "meaningKo": "to deinstall, to remove, to set apart, to take away",
@@ -599,24 +1345,60 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "取り除く とりのぞく to deinstall, to remove, to set apart, to take away PDF 20260603"
+    "searchText": "取り除く とりのぞく to deinstall, to remove, to set apart, to take away N1 PDF 20260603 だって、このゴミ箱がないっていう不満を取り除けば、結構多くの人が満足するっていうことじゃん。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "だって、このゴミ箱がないっていう不満を取り除けば、結構多くの人が満足するっていうことじゃん。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260603"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-前提-せ-んてい",
+    "id": "word-前提-ぜんてい",
     "japanese": "前提",
     "reading": "ぜんてい",
     "meaningKo": "assumption, condition, hypothesis, prerequisite, aim,",
     "meaningEn": "assumption, condition, hypothesis, prerequisite, aim,",
-    "exampleJapanese": "",
+    "exampleJapanese": "それとも、結婚を前提に付き合ってるのかっていうのが、区別できなくなっちゃうような 感じだったらしいんだよ。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260611",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "前提 ぜんてい assumption, condition, hypothesis, prerequisite, aim, PDF 20260603"
+    "searchText": "前提 ぜんてい assumption, condition, hypothesis, prerequisite, aim, N1 PDF 20260603 PDF 20260611 それとも、結婚を前提に付き合ってるのかっていうのが、区別できなくなっちゃうような 感じだったらしいんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "それとも、結婚を前提に付き合ってるのかっていうのが、区別できなくなっちゃうような 感じだったらしいんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-煙たい-けむたい",
+    "id": "word-煙たい-けむたい",
     "japanese": "煙たい",
     "reading": "けむたい",
     "meaningKo": "smoky, awkward, ill at ease, uncomfortable",
@@ -627,10 +1409,21 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "煙たい けむたい smoky, awkward, ill at ease, uncomfortable PDF 20260603"
+    "searchText": "煙たい けむたい smoky, awkward, ill at ease, uncomfortable N1 PDF 20260603",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-徴収-ちょうしゅう",
+    "id": "word-徴収-ちょうしゅう",
     "japanese": "徴収",
     "reading": "ちょうしゅう",
     "meaningKo": "collection (of fees, taxes, etc.), levy,",
@@ -641,10 +1434,21 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "徴収 ちょうしゅう collection (of fees, taxes, etc.), levy, PDF 20260603"
+    "searchText": "徴収 ちょうしゅう collection (of fees, taxes, etc.), levy, N1 PDF 20260603",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-監視-かんし",
+    "id": "word-監視-かんし",
     "japanese": "監視",
     "reading": "かんし",
     "meaningKo": "guarding, lookout, monitoring, observation, supervision",
@@ -655,10 +1459,21 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "監視 かんし guarding, lookout, monitoring, observation, supervision PDF 20260603"
+    "searchText": "監視 かんし guarding, lookout, monitoring, observation, supervision N1 PDF 20260603",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-報道-ほうと-う",
+    "id": "word-報道-ほうどう",
     "japanese": "報道",
     "reading": "ほうどう",
     "meaningKo": "(media) coverage, information, news, report (of news), reporting",
@@ -669,38 +1484,94 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "報道 ほうどう (media) coverage, information, news, report (of news), reporting PDF 20260603"
+    "searchText": "報道 ほうどう (media) coverage, information, news, report (of news), reporting N1 PDF 20260603",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260603-導入-と-うにゅう",
+    "id": "word-導入-どうにゅう",
     "japanese": "導入",
     "reading": "どうにゅう",
-    "meaningKo": "bringing in, importation, installation, introduction, setting up",
-    "meaningEn": "bringing in, importation, installation, introduction, setting up",
-    "exampleJapanese": "",
+    "meaningKo": "bringing in, importation, installation, introduction, setting up / bringing in, importation, installation, introduction, setting up,",
+    "meaningEn": "bringing in, importation, installation, introduction, setting up / bringing in, importation, installation, introduction, setting up,",
+    "exampleJapanese": "「AIを使ったこのツールを導入しないと、競合に負けちゃう」とかね。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260606, PDF 20260611",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "導入 どうにゅう bringing in, importation, installation, introduction, setting up PDF 20260603"
+    "searchText": "導入 どうにゅう bringing in, importation, installation, introduction, setting up / bringing in, importation, installation, introduction, setting up, N1 PDF 20260603 PDF 20260606 PDF 20260611 「AIを使ったこのツールを導入しないと、競合に負けちゃう」とかね。 で、しかもね、変動相場制というものが導入されまして。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260606",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260606",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "「AIを使ったこのツールを導入しないと、競合に負けちゃう」とかね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      },
+      {
+        "exampleJapanese": "で、しかもね、変動相場制というものが導入されまして。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 3
   },
   {
-    "id": "pdf-20260603-促進-そくしん",
+    "id": "word-促進-そくしん",
     "japanese": "促進",
     "reading": "そくしん",
-    "meaningKo": "acceleration, encouragement, facilitation, promotion, spurring on",
-    "meaningEn": "acceleration, encouragement, facilitation, promotion, spurring on",
-    "exampleJapanese": "",
+    "meaningKo": "acceleration, encouragement, facilitation, promotion, spurring on / acceleration, encouragement, facilitation, promotion, spurring on,,",
+    "meaningEn": "acceleration, encouragement, facilitation, promotion, spurring on / acceleration, encouragement, facilitation, promotion, spurring on,,",
+    "exampleJapanese": "日光はね、幸せホルモンのセロトニンっていうやつの分泌を促進するらしいんだよ。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260603",
+    "source": "PDF 20260603, PDF 20260606",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "促進 そくしん acceleration, encouragement, facilitation, promotion, spurring on PDF 20260603"
+    "searchText": "促進 そくしん acceleration, encouragement, facilitation, promotion, spurring on / acceleration, encouragement, facilitation, promotion, spurring on,, N1 PDF 20260603 PDF 20260606 日光はね、幸せホルモンのセロトニンっていうやつの分泌を促進するらしいんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603",
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260603",
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "日光はね、幸せホルモンのセロトニンっていうやつの分泌を促進するらしいんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260603-天才-てんさい",
+    "id": "word-天才-てんさい",
     "japanese": "天才",
     "reading": "てんさい",
     "meaningKo": "genius, natural gift, prodigy",
@@ -711,10 +1582,21 @@
     "source": "PDF 20260603",
     "sourceDate": "20260603",
     "reviewType": "word",
-    "searchText": "天才 てんさい genius, natural gift, prodigy PDF 20260603"
+    "searchText": "天才 てんさい genius, natural gift, prodigy N1 PDF 20260603",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260603"
+    ],
+    "sourceDates": [
+      "20260603"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-日焼け-ひやけ",
+    "id": "word-日焼け-ひやけ",
     "japanese": "日焼け",
     "reading": "ひやけ",
     "meaningKo": "sunburn, suntan, tan, becoming discolored from the sun (e.g. of paper), yellowing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
@@ -725,10 +1607,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "日焼け ひやけ sunburn, suntan, tan, becoming discolored from the sun (e.g. of paper), yellowing,,,,,,,,,,,,,,,,,,,,, PDF 20260606"
+    "searchText": "日焼け ひやけ sunburn, suntan, tan, becoming discolored from the sun (e.g. of paper), yellowing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, N1 PDF 20260606 日差しが強くなるとさ、日焼けをしちゃう可能性が高まるじゃん。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "日差しが強くなるとさ、日焼けをしちゃう可能性が高まるじゃん。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-正解-せいかい",
+    "id": "word-正解-せいかい",
     "japanese": "正解",
     "reading": "せいかい",
     "meaningKo": "correct answer, correct interpretation, right solution, appropriate judgement, right choice,",
@@ -739,10 +1638,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "正解 せいかい correct answer, correct interpretation, right solution, appropriate judgement, right choice, PDF 20260606"
+    "searchText": "正解 せいかい correct answer, correct interpretation, right solution, appropriate judgement, right choice, N1 PDF 20260606 で、どっちが正解なのかも、よくわかってない。多分、正解はないんだと思う。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、どっちが正解なのかも、よくわかってない。多分、正解はないんだと思う。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-冒頭-ほ-うとう",
+    "id": "word-冒頭-ぼうとう",
     "japanese": "冒頭",
     "reading": "ぼうとう",
     "meaningKo": "beginning, opening, outset, start",
@@ -753,10 +1669,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "冒頭 ぼうとう beginning, opening, outset, start PDF 20260606"
+    "searchText": "冒頭 ぼうとう beginning, opening, outset, start N1 PDF 20260606 このポッドキャストの、冒頭に話した通り、僕は日焼けをしたくないうちの一人です。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "このポッドキャストの、冒頭に話した通り、僕は日焼けをしたくないうちの一人です。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-サイクル-さいくる",
+    "id": "word-サイクル-さいくる",
     "japanese": "サイクル",
     "reading": "さいくる",
     "meaningKo": "cycle",
@@ -767,10 +1700,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "サイクル さいくる cycle PDF 20260606"
+    "searchText": "サイクル さいくる cycle N1 PDF 20260606 流行り廃りってさ、サイクルだから、ヒゲがない方がいいっていう、そういうトレンドになってから、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "流行り廃りってさ、サイクルだから、ヒゲがない方がいいっていう、そういうトレンドになってから、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-日頃-ひこ-ろ",
+    "id": "word-日頃-ひごろ",
     "japanese": "日頃",
     "reading": "ひごろ",
     "meaningKo": "always, habitually, usually, for a long time",
@@ -781,10 +1731,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "日頃 ひごろ always, habitually, usually, for a long time PDF 20260606"
+    "searchText": "日頃 ひごろ always, habitually, usually, for a long time N1 PDF 20260606 日焼けをしたくない皆さん、日頃からどんな日焼け対策をしてますか?",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "日焼けをしたくない皆さん、日頃からどんな日焼け対策をしてますか?",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-現地-け-んち",
+    "id": "word-現地-げんち",
     "japanese": "現地",
     "reading": "げんち",
     "meaningKo": "(on) site, actual location, actual place, the field, the scene",
@@ -795,10 +1762,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "現地 げんち (on) site, actual location, actual place, the field, the scene PDF 20260606"
+    "searchText": "現地 げんち (on) site, actual location, actual place, the field, the scene N1 PDF 20260606 で、ラオスの現地の、薬局に行って、日焼け止めを、買おうとしました。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、ラオスの現地の、薬局に行って、日焼け止めを、買おうとしました。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-コーナー-こーなー",
+    "id": "word-コーナー-こーなー",
     "japanese": "コーナー",
     "reading": "こーなー",
     "meaningKo": "bend, corner, turn, column (newspaper, etc.), segment (within a radio or TV program)",
@@ -809,10 +1793,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "コーナー こーなー bend, corner, turn, column (newspaper, etc.), segment (within a radio or TV program) PDF 20260606"
+    "searchText": "コーナー こーなー bend, corner, turn, column (newspaper, etc.), segment (within a radio or TV program) N1 PDF 20260606 そもそもね、店員の方に、「あ、これが日焼け止めコーナーだよ」って言ってもらって、 その場所に行ったんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そもそもね、店員の方に、「あ、これが日焼け止めコーナーだよ」って言ってもらって、 その場所に行ったんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-メーカー-めーかー",
+    "id": "word-メーカー-めーかー",
     "japanese": "メーカー",
     "reading": "めーかー",
     "meaningKo": "maker, manufacturer (esp. a major company), producer, maker (person or device that makes something)",
@@ -823,10 +1824,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "メーカー めーかー maker, manufacturer (esp. a major company), producer, maker (person or device that makes something) PDF 20260606"
+    "searchText": "メーカー めーかー maker, manufacturer (esp. a major company), producer, maker (person or device that makes something) N1 PDF 20260606 だから、日焼け止めを作っているメーカーのマーケティングにね、踊らされているだけっていう、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "だから、日焼け止めを作っているメーカーのマーケティングにね、踊らされているだけっていう、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-手法-しゅほう",
+    "id": "word-手法-しゅほう",
     "japanese": "手法",
     "reading": "しゅほう",
     "meaningKo": "method, technique,",
@@ -837,24 +1855,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "手法 しゅほう method, technique, PDF 20260606"
+    "searchText": "手法 しゅほう method, technique, N1 PDF 20260606 で、実際にさ、不安を煽るマーケティング手法って、多分かなり効果的、なんだろうね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、実際にさ、不安を煽るマーケティング手法って、多分かなり効果的、なんだろうね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-導入-と-うにゅう",
-    "japanese": "導入",
-    "reading": "どうにゅう",
-    "meaningKo": "bringing in, importation, installation, introduction, setting up,",
-    "meaningEn": "bringing in, importation, installation, introduction, setting up,",
-    "exampleJapanese": "「AIを使ったこのツールを導入しないと、競合に負けちゃう」とかね。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260606",
-    "sourceDate": "20260606",
-    "reviewType": "word",
-    "searchText": "導入 どうにゅう bringing in, importation, installation, introduction, setting up, PDF 20260606"
-  },
-  {
-    "id": "pdf-20260606-焦る-あせる",
+    "id": "word-焦る-あせる",
     "japanese": "焦る",
     "reading": "あせる",
     "meaningKo": "to be anxious (to do), to be impatient, to be in a hurry, to fret, to be startled",
@@ -865,10 +1886,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "焦る あせる to be anxious (to do), to be impatient, to be in a hurry, to fret, to be startled PDF 20260606"
+    "searchText": "焦る あせる to be anxious (to do), to be impatient, to be in a hurry, to fret, to be startled N1 PDF 20260606 ちょっとね、焦ったりしてた時期もあったんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ちょっとね、焦ったりしてた時期もあったんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-類-たく-い",
+    "id": "word-類-たぐい",
     "japanese": "類",
     "reading": "たぐい",
     "meaningKo": "kind, sort, type, equal, match,",
@@ -879,10 +1917,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "類 たぐい kind, sort, type, equal, match, PDF 20260606"
+    "searchText": "類 たぐい kind, sort, type, equal, match, N1 PDF 20260606 そういう、類の広告が、ちゃんと成果を上げてるのか、っていうのは、分からないんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そういう、類の広告が、ちゃんと成果を上げてるのか、っていうのは、分からないんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-成果-せいか",
+    "id": "word-成果-せいか",
     "japanese": "成果",
     "reading": "せいか",
     "meaningKo": "(good) result, accomplishment, fruits (of one's labors), outcome, product",
@@ -893,10 +1948,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "成果 せいか (good) result, accomplishment, fruits (of one's labors), outcome, product PDF 20260606"
+    "searchText": "成果 せいか (good) result, accomplishment, fruits (of one's labors), outcome, product N1 PDF 20260606 そういう、類の広告が、ちゃんと成果を上げてるのか、っていうのは、分からないんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そういう、類の広告が、ちゃんと成果を上げてるのか、っていうのは、分からないんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-概念-か-いねん",
+    "id": "word-概念-がいねん",
     "japanese": "概念",
     "reading": "がいねん",
     "meaningKo": "concept, general idea, notion",
@@ -904,13 +1976,37 @@
     "exampleJapanese": "多分だけどさ、日焼け止めっていう概念、昔はなかったんじゃないかな、って思うんだよね。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260606",
+    "source": "PDF 20260606, PDF 20260611",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "概念 がいねん concept, general idea, notion PDF 20260606"
+    "searchText": "概念 がいねん concept, general idea, notion N1 PDF 20260606 PDF 20260611 多分だけどさ、日焼け止めっていう概念、昔はなかったんじゃないかな、って思うんだよね。 僕の親世代からするとね、LINEで告白するっていうそういう概念はなかったんじゃないかなって思うよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260606",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "多分だけどさ、日焼け止めっていう概念、昔はなかったんじゃないかな、って思うんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      },
+      {
+        "exampleJapanese": "僕の親世代からするとね、LINEで告白するっていうそういう概念はなかったんじゃないかなって思うよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260606-開発-かいはつ",
+    "id": "word-開発-かいはつ",
     "japanese": "開発",
     "reading": "かいはつ",
     "meaningKo": "development, exploitation (of resources)",
@@ -921,10 +2017,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "開発 かいはつ development, exploitation (of resources) PDF 20260606"
+    "searchText": "開発 かいはつ development, exploitation (of resources) N1 PDF 20260606 そうだね、でも、現代はね、様々な、便利なものとか、人々の利益につながるようなもの 、開発されてるからね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そうだね、でも、現代はね、様々な、便利なものとか、人々の利益につながるようなもの 、開発されてるからね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-抑制-よくせい",
+    "id": "word-抑制-よくせい",
     "japanese": "抑制",
     "reading": "よくせい",
     "meaningKo": "check, constraint, control, curb, curtailment",
@@ -935,10 +2048,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "抑制 よくせい check, constraint, control, curb, curtailment PDF 20260606"
+    "searchText": "抑制 よくせい check, constraint, control, curb, curtailment N1 PDF 20260606 ああいうのは、感染症流行の抑制につながるから、いいことだから、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ああいうのは、感染症流行の抑制につながるから、いいことだから、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-配分-はいふ-ん",
+    "id": "word-配分-はいぶん",
     "japanese": "配分",
     "reading": "はいぶん",
     "meaningKo": "allotment, distribution",
@@ -949,10 +2079,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "配分 はいぶん allotment, distribution PDF 20260606"
+    "searchText": "配分 はいぶん allotment, distribution N1 PDF 20260606 栄養の配分に... とか、その摂取する、栄養に普段から気を使っている人だったら、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "栄養の配分に... とか、その摂取する、栄養に普段から気を使っている人だったら、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-極端-きょくたん",
+    "id": "word-極端-きょくたん",
     "japanese": "極端",
     "reading": "きょくたん",
     "meaningKo": "extreme, extremity",
@@ -963,38 +2110,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "極端 きょくたん extreme, extremity PDF 20260606"
+    "searchText": "極端 きょくたん extreme, extremity N1 PDF 20260606 ビタミンDのサプリだったんだね、多分だけど。冬の北欧ってさ、日照時間が、極端に短いでしょ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ビタミンDのサプリだったんだね、多分だけど。冬の北欧ってさ、日照時間が、極端に短いでしょ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-促進-そくしん",
-    "japanese": "促進",
-    "reading": "そくしん",
-    "meaningKo": "acceleration, encouragement, facilitation, promotion, spurring on,,",
-    "meaningEn": "acceleration, encouragement, facilitation, promotion, spurring on,,",
-    "exampleJapanese": "日光はね、幸せホルモンのセロトニンっていうやつの分泌を促進するらしいんだよ。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260606",
-    "sourceDate": "20260606",
-    "reviewType": "word",
-    "searchText": "促進 そくしん acceleration, encouragement, facilitation, promotion, spurring on, PDF 20260606"
-  },
-  {
-    "id": "pdf-20260606-もたらす-no-reading",
-    "japanese": "もたらす",
-    "reading": "",
-    "meaningKo": "to bring (news, knowledge, etc.), to introduce, to bring about, to cause, to produce (e.g. results)",
-    "meaningEn": "to bring (news, knowledge, etc.), to introduce, to bring about, to cause, to produce (e.g. results)",
-    "exampleJapanese": "で、そのセロトニンって呼ばれるホルモンは、精神の安定をもたらすとされてるじゃん。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260606",
-    "sourceDate": "20260606",
-    "reviewType": "word",
-    "searchText": "もたらす to bring (news, knowledge, etc.), to introduce, to bring about, to cause, to produce (e.g. results) PDF 20260606"
-  },
-  {
-    "id": "pdf-20260606-実家-し-っか",
+    "id": "word-実家-じっか",
     "japanese": "実家",
     "reading": "じっか",
     "meaningKo": "(one's parents') home,",
@@ -1005,10 +2141,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "実家 じっか (one's parents') home, PDF 20260606"
+    "searchText": "実家 じっか (one's parents') home, N1 PDF 20260606 そういうようなビデオがね、いくつも実家には、残ってるんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そういうようなビデオがね、いくつも実家には、残ってるんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-終始-しゅうし",
+    "id": "word-終始-しゅうし",
     "japanese": "終始",
     "reading": "しゅうし",
     "meaningKo": "consistently, from beginning to end, the whole time, throughout",
@@ -1019,10 +2172,27 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "終始 しゅうし consistently, from beginning to end, the whole time, throughout PDF 20260606"
+    "searchText": "終始 しゅうし consistently, from beginning to end, the whole time, throughout N1 PDF 20260606 僕の様子がどうだったかっていうと、もう、終始不機嫌。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "僕の様子がどうだったかっていうと、もう、終始不機嫌。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-革命-かくめい",
+    "id": "word-革命-かくめい",
     "japanese": "革命",
     "reading": "かくめい",
     "meaningKo": "revolution, 58th year of the sexagenary cycle (in Onmyōdō)",
@@ -1033,24 +2203,60 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "革命 かくめい revolution, 58th year of the sexagenary cycle (in Onmyōdō) PDF 20260606"
+    "searchText": "革命 かくめい revolution, 58th year of the sexagenary cycle (in Onmyōdō) N1 PDF 20260606 これは革命だって思ったよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "これは革命だって思ったよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260606"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-タイミンク-たいみんく",
+    "id": "word-タイミング-たいみんぐ",
     "japanese": "タイミング",
     "reading": "たいみんぐ",
     "meaningKo": "timing",
     "meaningEn": "timing",
-    "exampleJapanese": "",
+    "exampleJapanese": "ちょっと好意がある人に、告白、いつのタイミングがいいかなって考えてる人がいるとしたら、3回目にしてください。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260606",
+    "source": "PDF 20260606, PDF 20260611",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "タイミング たいみんぐ timing PDF 20260606"
+    "searchText": "タイミング たいみんぐ timing N1 PDF 20260606 PDF 20260611 ちょっと好意がある人に、告白、いつのタイミングがいいかなって考えてる人がいるとしたら、3回目にしてください。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260606",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "ちょっと好意がある人に、告白、いつのタイミングがいいかなって考えてる人がいるとしたら、3回目にしてください。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260606-モニター-もにたー",
+    "id": "word-モニター-もにたー",
     "japanese": "モニター",
     "reading": "もにたー",
     "meaningKo": "monitor (device, software or person), monitoring, customer panel participant, person who gives feedback on products, television programs, etc., (computer) monitor",
@@ -1061,10 +2267,21 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "モニター もにたー monitor (device, software or person), monitoring, customer panel participant, person who gives feedback on products, television programs, etc., (computer) monitor PDF 20260606"
+    "searchText": "モニター もにたー monitor (device, software or person), monitoring, customer panel participant, person who gives feedback on products, television programs, etc., (computer) monitor N1 PDF 20260606",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-追跡-ついせき",
+    "id": "word-追跡-ついせき",
     "japanese": "追跡",
     "reading": "ついせき",
     "meaningKo": "chase, pursuit, stalking, tracking, following up,",
@@ -1075,24 +2292,54 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "追跡 ついせき chase, pursuit, stalking, tracking, following up, PDF 20260606"
+    "searchText": "追跡 ついせき chase, pursuit, stalking, tracking, following up, N1 PDF 20260606",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-認識-にんしき",
+    "id": "word-認識-にんしき",
     "japanese": "認識",
     "reading": "にんしき",
-    "meaningKo": "awareness, cognisance, cognition, cognizance, knowledge",
-    "meaningEn": "awareness, cognisance, cognition, cognizance, knowledge",
-    "exampleJapanese": "",
+    "meaningKo": "awareness, cognisance, cognition, cognizance, knowledge / awareness, cognisance, cognition, cognizance, knowledge,",
+    "meaningEn": "awareness, cognisance, cognition, cognizance, knowledge / awareness, cognisance, cognition, cognizance, knowledge,",
+    "exampleJapanese": "自分たちの中でも認識しておかなきゃいけない、そういう状況になったらしいんだよ。",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260606",
+    "source": "PDF 20260606, PDF 20260611",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "認識 にんしき awareness, cognisance, cognition, cognizance, knowledge PDF 20260606"
+    "searchText": "認識 にんしき awareness, cognisance, cognition, cognizance, knowledge / awareness, cognisance, cognition, cognizance, knowledge, N1 PDF 20260606 PDF 20260611 自分たちの中でも認識しておかなきゃいけない、そういう状況になったらしいんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260606",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "自分たちの中でも認識しておかなきゃいけない、そういう状況になったらしいんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260606-良質-りょうしつ",
+    "id": "word-良質-りょうしつ",
     "japanese": "良質",
     "reading": "りょうしつ",
     "meaningKo": "fine quality, good quality, high quality, superior quality",
@@ -1103,10 +2350,21 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "良質 りょうしつ fine quality, good quality, high quality, superior quality PDF 20260606"
+    "searchText": "良質 りょうしつ fine quality, good quality, high quality, superior quality N1 PDF 20260606",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-購入-こうにゅう",
+    "id": "word-購入-こうにゅう",
     "japanese": "購入",
     "reading": "こうにゅう",
     "meaningKo": "buying, purchase",
@@ -1117,10 +2375,21 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "購入 こうにゅう buying, purchase PDF 20260606"
+    "searchText": "購入 こうにゅう buying, purchase N1 PDF 20260606",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-漏れる-もれる",
+    "id": "word-漏れる-もれる",
     "japanese": "漏れる",
     "reading": "もれる",
     "meaningKo": "to come through, to escape, to filter out, to leak out, to shine through",
@@ -1131,10 +2400,21 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "漏れる もれる to come through, to escape, to filter out, to leak out, to shine through PDF 20260606"
+    "searchText": "漏れる もれる to come through, to escape, to filter out, to leak out, to shine through N1 PDF 20260606",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-専用-せんよう",
+    "id": "word-専用-せんよう",
     "japanese": "専用",
     "reading": "せんよう",
     "meaningKo": "(one's) exclusive use, personal use, private use, dedicated use, use for a particular purpose",
@@ -1145,38 +2425,54 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "専用 せんよう (one's) exclusive use, personal use, private use, dedicated use, use for a particular purpose PDF 20260606"
+    "searchText": "専用 せんよう (one's) exclusive use, personal use, private use, dedicated use, use for a particular purpose N1 PDF 20260606",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260606-一気-いっき",
+    "id": "word-一気-いっき",
     "japanese": "一気",
     "reading": "いっき",
     "meaningKo": "one breath",
     "meaningEn": "one breath",
-    "exampleJapanese": "",
+    "exampleJapanese": "で、円高になると、日本の輸出品っていうのは競争力が一気に失われて、",
     "exampleMeaningKo": "",
     "level": "N1",
-    "source": "PDF 20260606",
+    "source": "PDF 20260606, PDF 20260611",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "一気 いっき one breath PDF 20260606"
+    "searchText": "一気 いっき one breath N1 PDF 20260606 PDF 20260611 で、円高になると、日本の輸出品っていうのは競争力が一気に失われて、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606",
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260606",
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、円高になると、日本の輸出品っていうのは競争力が一気に失われて、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 2
   },
   {
-    "id": "pdf-20260606-保つ-たもつ",
-    "japanese": "保つ",
-    "reading": "たもつ",
-    "meaningKo": "to hold, to keep, to maintain, to preserve, to retain",
-    "meaningEn": "to hold, to keep, to maintain, to preserve, to retain",
-    "exampleJapanese": "",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260606",
-    "sourceDate": "20260606",
-    "reviewType": "word",
-    "searchText": "保つ たもつ to hold, to keep, to maintain, to preserve, to retain PDF 20260606"
-  },
-  {
-    "id": "pdf-20260606-重宝-ちょうほう",
+    "id": "word-重宝-ちょうほう",
     "japanese": "重宝",
     "reading": "ちょうほう",
     "meaningKo": "convenient, handy, helpful, useful, coming in handy",
@@ -1187,10 +2483,21 @@
     "source": "PDF 20260606",
     "sourceDate": "20260606",
     "reviewType": "word",
-    "searchText": "重宝 ちょうほう convenient, handy, helpful, useful, coming in handy PDF 20260606"
+    "searchText": "重宝 ちょうほう convenient, handy, helpful, useful, coming in handy N1 PDF 20260606",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260606"
+    ],
+    "sourceDates": [
+      "20260606"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-恋愛-れんあい",
+    "id": "word-恋愛-れんあい",
     "japanese": "恋愛",
     "reading": "れんあい",
     "meaningKo": "affections, emotion, love, love-making, passion,,,,,,,,,,,,,,,,,,,,,,,",
@@ -1201,10 +2508,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "恋愛 れんあい affections, emotion, love, love-making, passion,,,,,,,,,,,, PDF 20260611"
+    "searchText": "恋愛 れんあい affections, emotion, love, love-making, passion,,,,,,,,,,,,,,,,,,,,,,, N1 PDF 20260611 みんなはさ、日本の恋愛における告白文化って知ってるかな?",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "みんなはさ、日本の恋愛における告白文化って知ってるかな?",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-告白-こくはく",
+    "id": "word-告白-こくはく",
     "japanese": "告白",
     "reading": "こくはく",
     "meaningKo": "admission, confession (to a crime, wrongdoing, etc.), declaration of love, professing one's feelings (to someone one wants to go out with), profession (of faith),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
@@ -1215,10 +2539,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "告白 こくはく admission, confession (to a crime, wrongdoing, etc.), declaration of love, professing one's feelings (to someone one wants to go out with), profession (of faith),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, PDF 20260611"
+    "searchText": "告白 こくはく admission, confession (to a crime, wrongdoing, etc.), declaration of love, professing one's feelings (to someone one wants to go out with), profession (of faith),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, N1 PDF 20260611 みんなはさ、日本の恋愛における告白文化って知ってるかな?",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "みんなはさ、日本の恋愛における告白文化って知ってるかな?",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-取り扱う-とりあつかう",
+    "id": "word-取り扱う-とりあつかう",
     "japanese": "取り扱う",
     "reading": "とりあつかう",
     "meaningKo": "to handle, to operate (a machine, etc.), to use, to deal with (an issue), to manage,",
@@ -1229,10 +2570,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "取り扱う とりあつかう to handle, to operate (a machine, etc.), to use, to deal with (an issue), to manage, PDF 20260611"
+    "searchText": "取り扱う とりあつかう to handle, to operate (a machine, etc.), to use, to deal with (an issue), to manage, N1 PDF 20260611 今回も日本語の情報だけを取り扱います。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "今回も日本語の情報だけを取り扱います。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-ソース-そーす",
+    "id": "word-ソース-そーす",
     "japanese": "ソース",
     "reading": "そーす",
     "meaningKo": "1. sauce, Worcestershire sauce 2. source (of information), source code",
@@ -1243,10 +2601,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "ソース そーす 1. sauce, Worcestershire sauce 2. source (of information), source code PDF 20260611"
+    "searchText": "ソース そーす 1. sauce, Worcestershire sauce 2. source (of information), source code N1 PDF 20260611 僕が話す情報の、ソースが気になる人がいたらね、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "僕が話す情報の、ソースが気になる人がいたらね、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-頻繁-ひんは-ん",
+    "id": "word-頻繁-ひんぱん",
     "japanese": "頻繁",
     "reading": "ひんぱん",
     "meaningKo": "frequent, incessant,,",
@@ -1257,10 +2632,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "頻繁 ひんぱん frequent, incessant, PDF 20260611"
+    "searchText": "頻繁 ひんぱん frequent, incessant,, N1 PDF 20260611 告白して付き合ってから手を繋いだりとか、あとは頻繁にデートに行ったりとか、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "告白して付き合ってから手を繋いだりとか、あとは頻繁にデートに行ったりとか、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-把握-はあく",
+    "id": "word-把握-はあく",
     "japanese": "把握",
     "reading": "はあく",
     "meaningKo": "control, grasp (of the situation, meaning, etc.), grip, hold, understanding",
@@ -1271,10 +2663,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "把握 はあく control, grasp (of the situation, meaning, etc.), grip, hold, understanding PDF 20260611"
+    "searchText": "把握 はあく control, grasp (of the situation, meaning, etc.), grip, hold, understanding N1 PDF 20260611 結構な、かなり高い確率で、二人の記念日、その人たち把握してると思うんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "結構な、かなり高い確率で、二人の記念日、その人たち把握してると思うんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-了承-りょうしょう",
+    "id": "word-了承-りょうしょう",
     "japanese": "了承",
     "reading": "りょうしょう",
     "meaningKo": "acknowledgement, acknowledgment, approval, consent, understanding",
@@ -1285,10 +2694,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "了承 りょうしょう acknowledgement, acknowledgment, approval, consent, understanding PDF 20260611"
+    "searchText": "了承 りょうしょう acknowledgement, acknowledgment, approval, consent, understanding N1 PDF 20260611 片方の人が告白して、 もう片方の人が了承した日が、付き合い始めた日で、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "片方の人が告白して、 もう片方の人が了承した日が、付き合い始めた日で、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-起点-きてん",
+    "id": "word-起点-きてん",
     "japanese": "起点",
     "reading": "きてん",
     "meaningKo": "origin, starting point",
@@ -1299,10 +2725,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "起点 きてん origin, starting point PDF 20260611"
+    "searchText": "起点 きてん origin, starting point N1 PDF 20260611 で、その記念日を起点とした、一年記念日とか、二年記念日とか、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、その記念日を起点とした、一年記念日とか、二年記念日とか、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-好意-こうい",
+    "id": "word-好意-こうい",
     "japanese": "好意",
     "reading": "こうい",
     "meaningKo": "favor, favour, friendliness, kindness, affection,,",
@@ -1313,24 +2756,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "好意 こうい favor, favour, friendliness, kindness, affection, PDF 20260611"
+    "searchText": "好意 こうい favor, favour, friendliness, kindness, affection,, N1 PDF 20260611 自分が好意を抱いている人に言うっていうことが、告白なんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "自分が好意を抱いている人に言うっていうことが、告白なんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-領域-りょういき",
-    "japanese": "領域",
-    "reading": "りょういき",
-    "meaningKo": "domain, territory, area, field, realm",
-    "meaningEn": "domain, territory, area, field, realm",
-    "exampleJapanese": "家族社会学っていう、そういう領域があるらしくてね。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "領域 りょういき domain, territory, area, field, realm PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-著書-ちょしょ",
+    "id": "word-著書-ちょしょ",
     "japanese": "著書",
     "reading": "ちょしょ",
     "meaningKo": "(written) work, book, writings",
@@ -1341,10 +2787,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "著書 ちょしょ (written) work, book, writings PDF 20260611"
+    "searchText": "著書 ちょしょ (written) work, book, writings N1 PDF 20260611 この人が、著書の、「結婚不要社会」っていう本で、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "この人が、著書の、「結婚不要社会」っていう本で、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-記述-きし-ゅつ",
+    "id": "word-記述-きじゅつ",
     "japanese": "記述",
     "reading": "きじゅつ",
     "meaningKo": "account, description,",
@@ -1355,10 +2818,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "記述 きじゅつ account, description, PDF 20260611"
+    "searchText": "記述 きじゅつ account, description, N1 PDF 20260611 その朝日新聞出版のウェブページで、その内容の一部が記述されておりました。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "その朝日新聞出版のウェブページで、その内容の一部が記述されておりました。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-依存-いそ-ん",
+    "id": "word-依存-いぞん",
     "japanese": "依存",
     "reading": "いぞん",
     "meaningKo": "dependence, reliance",
@@ -1369,10 +2849,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "依存 いぞん dependence, reliance PDF 20260611"
+    "searchText": "依存 いぞん dependence, reliance N1 PDF 20260611 日本はね、中東の地域の石油にずっと依存していたので、大打撃を受けたと。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "日本はね、中東の地域の石油にずっと依存していたので、大打撃を受けたと。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-打撃-た-け-き",
+    "id": "word-打撃-だげき",
     "japanese": "打撃",
     "reading": "だげき",
     "meaningKo": "blow, damage, shock, strike, batting",
@@ -1383,38 +2880,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "打撃 だげき blow, damage, shock, strike, batting PDF 20260611"
+    "searchText": "打撃 だげき blow, damage, shock, strike, batting N1 PDF 20260611 日本はね、中東の地域の石油にずっと依存していたので、大打撃を受けたと。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "日本はね、中東の地域の石油にずっと依存していたので、大打撃を受けたと。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-導入-と-うにゅう",
-    "japanese": "導入",
-    "reading": "どうにゅう",
-    "meaningKo": "bringing in, importation, installation, introduction, setting up",
-    "meaningEn": "bringing in, importation, installation, introduction, setting up",
-    "exampleJapanese": "で、しかもね、変動相場制というものが導入されまして。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "導入 どうにゅう bringing in, importation, installation, introduction, setting up PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-一気-いっき",
-    "japanese": "一気",
-    "reading": "いっき",
-    "meaningKo": "one breath",
-    "meaningEn": "one breath",
-    "exampleJapanese": "で、円高になると、日本の輸出品っていうのは競争力が一気に失われて、",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "一気 いっき one breath PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-達成-たっせい",
+    "id": "word-達成-たっせい",
     "japanese": "達成",
     "reading": "たっせい",
     "meaningKo": "accomplishment, achievement, attainment, realization",
@@ -1425,10 +2911,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "達成 たっせい accomplishment, achievement, attainment, realization PDF 20260611"
+    "searchText": "達成 たっせい accomplishment, achievement, attainment, realization N1 PDF 20260611 そういうね、経済成長が毎年、すごい勢いで達成されてるっていう、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "そういうね、経済成長が毎年、すごい勢いで達成されてるっていう、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-体験-たいけん",
+    "id": "word-体験-たいけん",
     "japanese": "体験",
     "reading": "たいけん",
     "meaningKo": "(practical) experience, first-hand experience, hands-on experience, personal experience",
@@ -1439,24 +2942,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "体験 たいけん (practical) experience, first-hand experience, hands-on experience, personal experience PDF 20260611"
+    "searchText": "体験 たいけん (practical) experience, first-hand experience, hands-on experience, personal experience N1 PDF 20260611 それをね、僕も体験してみたかったな、って思うんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "それをね、僕も体験してみたかったな、って思うんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-世代-せた-い",
-    "japanese": "世代",
-    "reading": "せだい",
-    "meaningKo": "generation,",
-    "meaningEn": "generation,",
-    "exampleJapanese": "例えばさ、60万人の人が... 各世代60万人いたとして、100歳までいたとしてもさ、",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "世代 せだい generation, PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-未婚-みこん",
+    "id": "word-未婚-みこん",
     "japanese": "未婚",
     "reading": "みこん",
     "meaningKo": "not yet married, unmarried",
@@ -1467,10 +2973,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "未婚 みこん not yet married, unmarried PDF 20260611"
+    "searchText": "未婚 みこん not yet married, unmarried N1 PDF 20260611 で、その理由が、未婚の男性とか女性が集う組織が、たくさん存在したかららしいんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、その理由が、未婚の男性とか女性が集う組織が、たくさん存在したかららしいんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-異性-いせい",
+    "id": "word-異性-いせい",
     "japanese": "異性",
     "reading": "いせい",
     "meaningKo": "the opposite sex, isomerism,,,,,,",
@@ -1481,10 +3004,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "異性 いせい the opposite sex, isomerism,,, PDF 20260611"
+    "searchText": "異性 いせい the opposite sex, isomerism,,,,,, N1 PDF 20260611 だからね、例えば学校とかで、好きな異性に出会うことができなくても、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "だからね、例えば学校とかで、好きな異性に出会うことができなくても、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-トラフ-ル-とらふ-る",
+    "id": "word-トラブル-とらぶる",
     "japanese": "トラブル",
     "reading": "とらぶる",
     "meaningKo": "conflict, difficulty, dispute, fight, problem",
@@ -1495,24 +3035,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "トラブル とらぶる conflict, difficulty, dispute, fight, problem PDF 20260611"
+    "searchText": "トラブル とらぶる conflict, difficulty, dispute, fight, problem N1 PDF 20260611 「こんな人だとは思わなかったよ」っていうようなトラブルは起きなかったらしいんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "「こんな人だとは思わなかったよ」っていうようなトラブルは起きなかったらしいんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-前提-せ-んてい",
-    "japanese": "前提",
-    "reading": "ぜんてい",
-    "meaningKo": "assumption, condition, hypothesis, prerequisite, aim,",
-    "meaningEn": "assumption, condition, hypothesis, prerequisite, aim,",
-    "exampleJapanese": "それとも、結婚を前提に付き合ってるのかっていうのが、区別できなくなっちゃうような 感じだったらしいんだよ。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "前提 ぜんてい assumption, condition, hypothesis, prerequisite, aim, PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-共学-きょうか-く",
+    "id": "word-共学-きょうがく",
     "japanese": "共学",
     "reading": "きょうがく",
     "meaningKo": "coeducation,",
@@ -1523,10 +3066,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "共学 きょうがく coeducation, PDF 20260611"
+    "searchText": "共学 きょうがく coeducation, N1 PDF 20260611 学校の共学化によっても増えていったんじゃないかなって考えられていて、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "学校の共学化によっても増えていったんじゃないかなって考えられていて、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-確保-かくほ",
+    "id": "word-確保-かくほ",
     "japanese": "確保",
     "reading": "かくほ",
     "meaningKo": "ensuring, guarantee, maintaining, obtaining, securing",
@@ -1537,24 +3097,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "確保 かくほ ensuring, guarantee, maintaining, obtaining, securing PDF 20260611"
+    "searchText": "確保 かくほ ensuring, guarantee, maintaining, obtaining, securing N1 PDF 20260611 生徒を確保できないっていう、そういう、理由もあるんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "生徒を確保できないっていう、そういう、理由もあるんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-認識-にんしき",
-    "japanese": "認識",
-    "reading": "にんしき",
-    "meaningKo": "awareness, cognisance, cognition, cognizance, knowledge,",
-    "meaningEn": "awareness, cognisance, cognition, cognizance, knowledge,",
-    "exampleJapanese": "自分たちの中でも認識しておかなきゃいけない、そういう状況になったらしいんだよ。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "認識 にんしき awareness, cognisance, cognition, cognizance, knowledge, PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-活発-かっは-つ",
+    "id": "word-活発-かっぱつ",
     "japanese": "活発",
     "reading": "かっぱつ",
     "meaningKo": "active, animated, brisk, lively, vigorous,,",
@@ -1565,10 +3128,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "活発 かっぱつ active, animated, brisk, lively, vigorous, PDF 20260611"
+    "searchText": "活発 かっぱつ active, animated, brisk, lively, vigorous,, N1 PDF 20260611 田舎だとまだ青年部とかがあって、活発に活動してるのかな、どうなんだろう。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "田舎だとまだ青年部とかがあって、活発に活動してるのかな、どうなんだろう。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-いし-る-no-reading",
+    "id": "word-いじる-no-reading",
     "japanese": "いじる",
     "reading": "",
     "meaningKo": "to fiddle with, to finger, to play with, to touch, to toy with",
@@ -1579,10 +3159,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "いじる to fiddle with, to finger, to play with, to touch, to toy with PDF 20260611"
+    "searchText": "いじる to fiddle with, to finger, to play with, to touch, to toy with N1 PDF 20260611 で、今は、家でゴロゴロしてね、スマホいじるのがみんな一番幸せだと思うからさ、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、今は、家でゴロゴロしてね、スマホいじるのがみんな一番幸せだと思うからさ、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-主観-しゅかん",
+    "id": "word-主観-しゅかん",
     "japanese": "主観",
     "reading": "しゅかん",
     "meaningKo": "ego, subject (philosophical), subjectivity, one's own idea, one's personal opinion",
@@ -1593,10 +3190,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "主観 しゅかん ego, subject (philosophical), subjectivity, one's own idea, one's personal opinion PDF 20260611"
+    "searchText": "主観 しゅかん ego, subject (philosophical), subjectivity, one's own idea, one's personal opinion N1 PDF 20260611 これは僕の主観なんだけど、思うんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "これは僕の主観なんだけど、思うんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-長々-なか-なか",
+    "id": "word-長々-ながなが",
     "japanese": "長々",
     "reading": "ながなが",
     "meaningKo": "at (great) length, for a long time, lengthily, long-windedly, tediously",
@@ -1607,10 +3221,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "長々 ながなが at (great) length, for a long time, lengthily, long-windedly, tediously PDF 20260611"
+    "searchText": "長々 ながなが at (great) length, for a long time, lengthily, long-windedly, tediously N1 PDF 20260611 で、告白文化というものが日本の恋愛においてある理由について、今結構長々と喋ってきたんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、告白文化というものが日本の恋愛においてある理由について、今結構長々と喋ってきたんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-とりあえす-no-reading",
+    "id": "word-とりあえず-no-reading",
     "japanese": "とりあえず",
     "reading": "",
     "meaningKo": "at once, first of all, right away, for now, for the time being",
@@ -1621,10 +3252,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "とりあえず at once, first of all, right away, for now, for the time being PDF 20260611"
+    "searchText": "とりあえず at once, first of all, right away, for now, for the time being N1 PDF 20260611 とりあえず、この告白っていう行為がね、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "とりあえず、この告白っていう行為がね、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-行為-こうい",
+    "id": "word-行為-こうい",
     "japanese": "行為",
     "reading": "こうい",
     "meaningKo": "act, conduct, deed,",
@@ -1635,10 +3283,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "行為 こうい act, conduct, deed, PDF 20260611"
+    "searchText": "行為 こうい act, conduct, deed, N1 PDF 20260611 とりあえず、この告白っていう行為がね、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "とりあえず、この告白っていう行為がね、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-わさ-わさ-no-reading",
+    "id": "word-わざわざ-no-reading",
     "japanese": "わざわざ",
     "reading": "",
     "meaningKo": "especially, expressly, going out of one's way (to do), going to the trouble of (doing), specially",
@@ -1649,10 +3314,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "わざわざ especially, expressly, going out of one's way (to do), going to the trouble of (doing), specially PDF 20260611"
+    "searchText": "わざわざ especially, expressly, going out of one's way (to do), going to the trouble of (doing), specially N1 PDF 20260611 だから、好きっていう思いを伝える、その告白をするのにも、わざわざ、対面でやる必要 は、ないんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "だから、好きっていう思いを伝える、その告白をするのにも、わざわざ、対面でやる必要 は、ないんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-対面-たいめん",
+    "id": "word-対面-たいめん",
     "japanese": "対面",
     "reading": "たいめん",
     "meaningKo": "meeting face-to-face, seeing in person, confronting, facing (each other), opposing (traffic, etc.),,",
@@ -1663,10 +3345,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "対面 たいめん meeting face-to-face, seeing in person, confronting, facing (each other), opposing (traffic, etc.), PDF 20260611"
+    "searchText": "対面 たいめん meeting face-to-face, seeing in person, confronting, facing (each other), opposing (traffic, etc.),, N1 PDF 20260611 だから、好きっていう思いを伝える、その告白をするのにも、わざわざ、対面でやる必要 は、ないんだよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "だから、好きっていう思いを伝える、その告白をするのにも、わざわざ、対面でやる必要 は、ないんだよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-修学-しゅうか-く",
+    "id": "word-修学-しゅうがく",
     "japanese": "修学",
     "reading": "しゅうがく",
     "meaningKo": "learning",
@@ -1677,10 +3376,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "修学 しゅうがく learning PDF 20260611"
+    "searchText": "修学 しゅうがく learning N1 PDF 20260611 例えば、そうだな、学生時代は、修学旅行先とかでね、告白をする人が、多かったよね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "例えば、そうだな、学生時代は、修学旅行先とかでね、告白をする人が、多かったよね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-空間-くうかん",
+    "id": "word-空間-くうかん",
     "japanese": "空間",
     "reading": "くうかん",
     "meaningKo": "airspace, room, space",
@@ -1691,10 +3407,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "空間 くうかん airspace, room, space PDF 20260611"
+    "searchText": "空間 くうかん airspace, room, space N1 PDF 20260611 非日常空間だからね、なんかちょっと、ロマンチックな、雰囲気になるんだと思うんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "非日常空間だからね、なんかちょっと、ロマンチックな、雰囲気になるんだと思うんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-ロマンチック-ろまんちっく",
+    "id": "word-ロマンチック-ろまんちっく",
     "japanese": "ロマンチック",
     "reading": "ろまんちっく",
     "meaningKo": "romantic",
@@ -1705,24 +3438,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "ロマンチック ろまんちっく romantic PDF 20260611"
+    "searchText": "ロマンチック ろまんちっく romantic N1 PDF 20260611 非日常空間だからね、なんかちょっと、ロマンチックな、雰囲気になるんだと思うんだけど、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "非日常空間だからね、なんかちょっと、ロマンチックな、雰囲気になるんだと思うんだけど、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-概念-か-いねん",
-    "japanese": "概念",
-    "reading": "がいねん",
-    "meaningKo": "concept, general idea, notion",
-    "meaningEn": "concept, general idea, notion",
-    "exampleJapanese": "僕の親世代からするとね、LINEで告白するっていうそういう概念はなかったんじゃないかなって思うよね。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "概念 がいねん concept, general idea, notion PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-上位-し-ょうい",
+    "id": "word-上位-じょうい",
     "japanese": "上位",
     "reading": "じょうい",
     "meaningKo": "ranking, superior (in rank), top, higher order (e.g. byte), host computer (of connected device)",
@@ -1733,24 +3469,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "上位 じょうい ranking, superior (in rank), top, higher order (e.g. byte), host computer (of connected device) PDF 20260611"
+    "searchText": "上位 じょうい ranking, superior (in rank), top, higher order (e.g. byte), host computer (of connected device) N1 PDF 20260611 で、先ほど結構上位に来てた、というか2番手に来ていたLINEでの告白はここだと4番手だね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "で、先ほど結構上位に来てた、というか2番手に来ていたLINEでの告白はここだと4番手だね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-タイミンク-たいみんく",
-    "japanese": "タイミング",
-    "reading": "たいみんぐ",
-    "meaningKo": "timing",
-    "meaningEn": "timing",
-    "exampleJapanese": "ちょっと好意がある人に、告白、いつのタイミングがいいかなって考えてる人がいるとしたら、3回目にしてください。",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "タイミング たいみんぐ timing PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-独自-と-くし",
+    "id": "word-独自-どくじ",
     "japanese": "独自",
     "reading": "どくじ",
     "meaningKo": "characteristic, distinctive, original, peculiar, unique,",
@@ -1761,10 +3500,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "独自 どくじ characteristic, distinctive, original, peculiar, unique, PDF 20260611"
+    "searchText": "独自 どくじ characteristic, distinctive, original, peculiar, unique, N1 PDF 20260611 もう、この日本独自に発展した告白文化はね、",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "もう、この日本独自に発展した告白文化はね、",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-遂け-る-とけ-る",
+    "id": "word-遂げる-とげる",
     "japanese": "遂げる",
     "reading": "とげる",
     "meaningKo": "to accomplish, to achieve, to carry out, to arrive at (a certain outcome), to come to,",
@@ -1775,10 +3531,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "遂げる とげる to accomplish, to achieve, to carry out, to arrive at (a certain outcome), to come to, PDF 20260611"
+    "searchText": "遂げる とげる to accomplish, to achieve, to carry out, to arrive at (a certain outcome), to come to, N1 PDF 20260611 もう、ずっと独自の発展を遂げてるね。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "もう、ずっと独自の発展を遂げてるね。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-風習-ふうしゅう",
+    "id": "word-風習-ふうしゅう",
     "japanese": "風習",
     "reading": "ふうしゅう",
     "meaningKo": "custom,",
@@ -1789,10 +3562,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "風習 ふうしゅう custom, PDF 20260611"
+    "searchText": "風習 ふうしゅう custom, N1 PDF 20260611 3回目に告白するみたいな、そういう風習は多分なかったんじゃないかなって思う。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "3回目に告白するみたいな、そういう風習は多分なかったんじゃないかなって思う。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-形成-けいせい",
+    "id": "word-形成-けいせい",
     "japanese": "形成",
     "reading": "けいせい",
     "meaningKo": "formation, giving form to, making (up), molding, taking form",
@@ -1803,24 +3593,27 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "形成 けいせい formation, giving form to, making (up), molding, taking form PDF 20260611"
+    "searchText": "形成 けいせい formation, giving form to, making (up), molding, taking form N1 PDF 20260611 その作法みたいなものが、形成されつつ、あると思うんだよ。",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [
+      {
+        "exampleJapanese": "その作法みたいなものが、形成されつつ、あると思うんだよ。",
+        "exampleMeaningKo": "",
+        "source": "PDF 20260611"
+      }
+    ],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-詳細-しょうさい",
-    "japanese": "詳細",
-    "reading": "しょうさい",
-    "meaningKo": "details, particulars, specifics, close-up view (of a digitally displayed map), zoomed-in view",
-    "meaningEn": "details, particulars, specifics, close-up view (of a digitally displayed map), zoomed-in view",
-    "exampleJapanese": "で、ここまで、日本の告白文化について、その特徴と細かいところ、その詳細までね、話 してきたんだけど、",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "詳細 しょうさい details, particulars, specifics, close-up view (of a digitally displayed map), zoomed-in view PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-観点-かんてん",
+    "id": "word-観点-かんてん",
     "japanese": "観点",
     "reading": "かんてん",
     "meaningKo": "angle, perspective, point of view, standpoint, viewpoint",
@@ -1831,10 +3624,21 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "観点 かんてん angle, perspective, point of view, standpoint, viewpoint PDF 20260611"
+    "searchText": "観点 かんてん angle, perspective, point of view, standpoint, viewpoint N1 PDF 20260611",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-圧力-あつりょく",
+    "id": "word-圧力-あつりょく",
     "japanese": "圧力",
     "reading": "あつりょく",
     "meaningKo": "pressure, stress, arm-twisting, coercion, pressure (e.g. political)",
@@ -1845,10 +3649,21 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "圧力 あつりょく pressure, stress, arm-twisting, coercion, pressure (e.g. political) PDF 20260611"
+    "searchText": "圧力 あつりょく pressure, stress, arm-twisting, coercion, pressure (e.g. political) N1 PDF 20260611",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-ヒ-シ-ネス-ひ-し-ねす",
+    "id": "word-ビジネス-びじねす",
     "japanese": "ビジネス",
     "reading": "びじねす",
     "meaningKo": "business",
@@ -1859,10 +3674,21 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "ビジネス びじねす business PDF 20260611"
+    "searchText": "ビジネス びじねす business N1 PDF 20260611",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-担う-になう",
+    "id": "word-担う-になう",
     "japanese": "担う",
     "reading": "になう",
     "meaningKo": "to bear, to carry on one's shoulder, to shoulder, to bear (a burden, responsibility, etc.), to take upon oneself",
@@ -1873,24 +3699,21 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "担う になう to bear, to carry on one's shoulder, to shoulder, to bear (a burden, responsibility, etc.), to take upon oneself PDF 20260611"
+    "searchText": "担う になう to bear, to carry on one's shoulder, to shoulder, to bear (a burden, responsibility, etc.), to take upon oneself N1 PDF 20260611",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   },
   {
-    "id": "pdf-20260611-共感-きょうかん",
-    "japanese": "共感",
-    "reading": "きょうかん",
-    "meaningKo": "empathy, identification (with someone), response, sympathy",
-    "meaningEn": "empathy, identification (with someone), response, sympathy",
-    "exampleJapanese": "",
-    "exampleMeaningKo": "",
-    "level": "N1",
-    "source": "PDF 20260611",
-    "sourceDate": "20260611",
-    "reviewType": "word",
-    "searchText": "共感 きょうかん empathy, identification (with someone), response, sympathy PDF 20260611"
-  },
-  {
-    "id": "pdf-20260611-共存-きょうそ-ん",
+    "id": "word-共存-きょうぞん",
     "japanese": "共存",
     "reading": "きょうぞん",
     "meaningKo": "coexistence",
@@ -1901,6 +3724,17 @@
     "source": "PDF 20260611",
     "sourceDate": "20260611",
     "reviewType": "word",
-    "searchText": "共存 きょうぞん coexistence PDF 20260611"
+    "searchText": "共存 きょうぞん coexistence N1 PDF 20260611",
+    "levels": [
+      "N1"
+    ],
+    "sources": [
+      "PDF 20260611"
+    ],
+    "sourceDates": [
+      "20260611"
+    ],
+    "examples": [],
+    "duplicateCount": 1
   }
 ]

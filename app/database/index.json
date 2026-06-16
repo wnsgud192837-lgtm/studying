@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-06-16T05:32:06.582Z",
+  "generatedAt": "2026-06-16T05:35:37.304Z",
   "words": {
-    "total": 2484,
+    "total": 1772,
+    "rawTotal": 2484,
+    "duplicateItemsRemoved": 712,
     "byLevel": {
-      "N5": 499,
-      "N4": 327,
-      "N3": 570,
-      "N2": 119,
-      "N1": 136,
-      "Other": 833
+      "N5": 272,
+      "N4": 202,
+      "N3": 410,
+      "N2": 95,
+      "N1": 122,
+      "Other": 671
     }
   },
   "kanji": {
