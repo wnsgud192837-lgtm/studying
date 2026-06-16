@@ -173,6 +173,33 @@ function RatingButtons({ onRate }) {
   );
 }
 
+function PhoneStatus() {
+  return (
+    <div className="phone-status" aria-hidden="true">
+      <span>9:41</span>
+      <span>●●●  Wi-Fi  ▰</span>
+    </div>
+  );
+}
+
+function BottomNav({ onHome, active = "home" }) {
+  return (
+    <nav className="bottom-nav" aria-label="하단 메뉴">
+      {[
+        ["home", "홈"],
+        ["review", "복습"],
+        ["record", "기록"],
+        ["profile", "마이"]
+      ].map(([key, label]) => (
+        <button key={key} className={active === key ? "active" : ""} type="button" onClick={key === "home" ? onHome : undefined}>
+          <span>{key === "home" ? "⌂" : key === "review" ? "◇" : key === "record" ? "✎" : "○"}</span>
+          {label}
+        </button>
+      ))}
+    </nav>
+  );
+}
+
 function StatStrip({ stats }) {
   return (
     <div className="stats-grid" aria-label="학습 통계">
@@ -199,9 +226,30 @@ function StatStrip({ stats }) {
 function HomeScreen({ onSelect }) {
   return (
     <main className="home-screen">
-      <section className="home-inner" aria-label="학습 선택">
-        <p className="eyebrow">Japanese Study</p>
-        <h1>오늘은 무엇을 공부할까요?</h1>
+      <section className="phone-shell home-inner" aria-label="학습 선택">
+        <PhoneStatus />
+        <div className="home-hero">
+          <p className="eyebrow">おはようございます</p>
+          <h1>오늘도 함께<br />일본어를 배워요</h1>
+          <p>매일 조금씩, 나의 일본어를 키워요.</p>
+          <div className="window-scene" aria-hidden="true">
+            <span className="sun" />
+            <span className="plant one" />
+            <span className="plant two" />
+            <span className="book" />
+            <span className="cup" />
+          </div>
+        </div>
+        <div className="daily-card">
+          <div className="progress-ring">
+            <strong>65%</strong>
+          </div>
+          <div>
+            <p className="eyebrow">오늘의 학습</p>
+            <strong>20 / 30분</strong>
+            <small>목표까지 조금만 더</small>
+          </div>
+        </div>
         <div className="home-actions">
           <button type="button" onClick={() => onSelect("kanji")}>
             한자 공부하기
@@ -210,6 +258,7 @@ function HomeScreen({ onSelect }) {
             일본어 공부하기
           </button>
         </div>
+        <BottomNav onHome={() => onSelect("home")} />
       </section>
     </main>
   );
@@ -287,10 +336,11 @@ function JapaneseStudy({ state, onBack }) {
 
   return (
     <main className="app-shell">
-      <section className="study-panel wide" aria-label="일본어 공부">
+      <section className="phone-shell study-panel wide" aria-label="일본어 공부">
+        <PhoneStatus />
         <header className="section-header">
           <button className="ghost-button" type="button" onClick={onBack}>
-            처음으로
+            ‹
           </button>
           <div>
             <p className="eyebrow">Japanese Words</p>
@@ -399,6 +449,7 @@ function JapaneseStudy({ state, onBack }) {
             </div>
           </section>
         ) : null}
+        <BottomNav onHome={onBack} active={tab === "review" ? "review" : "home"} />
       </section>
     </main>
   );
@@ -525,10 +576,11 @@ function KanjiStudy({ state, onBack }) {
 
   return (
     <main className="app-shell">
-      <section className="study-panel wide" aria-label="한자 공부">
+      <section className="phone-shell study-panel wide" aria-label="한자 공부">
+        <PhoneStatus />
         <header className="section-header">
           <button className="ghost-button" type="button" onClick={onBack}>
-            처음으로
+            ‹
           </button>
           <div>
             <p className="eyebrow">Kanji Study</p>
@@ -623,6 +675,7 @@ function KanjiStudy({ state, onBack }) {
             </div>
           </section>
         ) : null}
+        <BottomNav onHome={onBack} active={tab === "review" ? "review" : "home"} />
       </section>
     </main>
   );
