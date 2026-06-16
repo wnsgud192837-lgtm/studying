@@ -1,3 +1,5 @@
+import { generatedPdfWords } from "./generatedWords.js";
+
 export const reviewIntervals = {
   forgot: 1,
   hard: 3,
@@ -5,7 +7,9 @@ export const reviewIntervals = {
   perfect: 30
 };
 
-export const initialWords = [
+export const initialWords = generatedPdfWords;
+
+export const starterWords = [
   {
     id: "pdf-gomibako",
     japanese: "ゴミ箱",

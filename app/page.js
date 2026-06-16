@@ -12,7 +12,7 @@ const STORE = {
   dataVersion: "japanese-study:data-version"
 };
 
-const DATA_VERSION = "2026-06-16-seed-v2";
+const DATA_VERSION = "2026-06-16-pdf-full-v1";
 
 const ratingLabels = {
   forgot: "모름",
