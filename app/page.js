@@ -264,6 +264,7 @@ function HomeScreen({ onSelect }) {
 function JapaneseStudy({ state, onBack }) {
   const [tab, setTab] = useState("search");
   const [query, setQuery] = useState("");
+  const [wordLevel, setWordLevel] = useState("all");
   const [cardIndex, setCardIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [editing, setEditing] = useState(null);
@@ -277,9 +278,11 @@ function JapaneseStudy({ state, onBack }) {
 
   const stats = useMemo(() => getStats(state.progress, state.studyDates), [state.progress, state.studyDates]);
   const savedSet = new Set(state.savedWords);
+  const wordLevels = ["all", "N5", "N4", "N3", "N2", "N1", "Other"];
   const savedItems = state.words.filter((word) => savedSet.has(word.id));
   const searchable = query.trim().toLowerCase();
   const searchResults = state.words.filter((word) => {
+    if (wordLevel !== "all" && word.level !== wordLevel) return false;
     if (!searchable) return true;
     return [word.meaningKo, word.japanese, word.reading, word.exampleMeaningKo]
       .join(" ")
@@ -363,6 +366,13 @@ function JapaneseStudy({ state, onBack }) {
 
         {tab === "search" ? (
           <section className="stack">
+            <div className="level-list" aria-label="단어 난이도 필터">
+              {wordLevels.map((level) => (
+                <button key={level} className={wordLevel === level ? "active" : ""} type="button" onClick={() => setWordLevel(level)}>
+                  {level === "all" ? "전체" : level}
+                </button>
+              ))}
+            </div>
             <input
               className="search-input"
               value={query}

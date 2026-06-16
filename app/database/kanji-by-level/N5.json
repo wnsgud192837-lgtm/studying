@@ -1,0 +1,149 @@
+[
+  {
+    "id": "kanji-hi",
+    "character": "日",
+    "level": "N5",
+    "meaningKo": "날, 해, 일본",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, か",
+    "examples": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "meaningKo": "일본"
+      },
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "meaningKo": "오늘"
+      }
+    ],
+    "note": "해가 떠 있는 모양에서 온 한자라 날짜와 태양의 뜻으로 자주 쓰인다."
+  },
+  {
+    "id": "kanji-hon",
+    "character": "本",
+    "level": "N5",
+    "meaningKo": "책, 근본",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "examples": [
+      {
+        "word": "本",
+        "reading": "ほん",
+        "meaningKo": "책"
+      },
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "meaningKo": "일본"
+      }
+    ],
+    "note": "나무의 뿌리 부분을 표시한 모양에서 근본, 책의 뜻으로 넓어졌다."
+  },
+  {
+    "id": "kanji-go",
+    "character": "語",
+    "level": "N5",
+    "meaningKo": "말, 언어",
+    "onyomi": "ゴ",
+    "kunyomi": "かたる",
+    "examples": [
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "meaningKo": "일본어"
+      },
+      {
+        "word": "英語",
+        "reading": "えいご",
+        "meaningKo": "영어"
+      }
+    ],
+    "note": "말씀 언(言)이 들어가서 말과 언어에 관련된 단어에 많이 쓰인다."
+  },
+  {
+    "id": "kanji-mizu",
+    "character": "水",
+    "level": "N5",
+    "meaningKo": "물",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "examples": [
+      {
+        "word": "水",
+        "reading": "みず",
+        "meaningKo": "물"
+      },
+      {
+        "word": "水曜日",
+        "reading": "すいようび",
+        "meaningKo": "수요일"
+      }
+    ],
+    "note": "흐르는 물의 모양에서 온 한자다."
+  },
+  {
+    "id": "kanji-tabemono",
+    "character": "食",
+    "level": "N5",
+    "meaningKo": "먹다, 음식",
+    "onyomi": "ショク",
+    "kunyomi": "たべる, くう",
+    "examples": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "meaningKo": "먹다"
+      },
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaningKo": "식사"
+      }
+    ],
+    "note": "음식과 먹는 행동에 관련된 단어에 자주 등장한다."
+  },
+  {
+    "id": "kanji-kiku",
+    "character": "聞",
+    "level": "N5",
+    "meaningKo": "듣다, 묻다",
+    "onyomi": "ブン, モン",
+    "kunyomi": "きく",
+    "examples": [
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaningKo": "듣다, 묻다"
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaningKo": "신문"
+      }
+    ],
+    "note": "문 안에 귀가 있는 형태로, 듣는다는 뜻을 떠올리기 쉽다."
+  },
+  {
+    "id": "kanji-shiro",
+    "character": "白",
+    "level": "N5",
+    "meaningKo": "희다, 흰색",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ, しろい",
+    "examples": [
+      {
+        "word": "白い",
+        "reading": "しろい",
+        "meaningKo": "하얗다"
+      },
+      {
+        "word": "告白",
+        "reading": "こくはく",
+        "meaningKo": "고백"
+      }
+    ],
+    "note": "밝고 흰색인 것을 나타내며, 여러 단어에서 색이나 드러냄의 느낌을 만든다."
+  }
+]

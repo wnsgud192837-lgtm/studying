@@ -1,0 +1,65 @@
+[
+  {
+    "id": "kanji-koi",
+    "character": "恋",
+    "level": "N3",
+    "meaningKo": "사랑, 그리워하다",
+    "onyomi": "レン",
+    "kunyomi": "こい",
+    "examples": [
+      {
+        "word": "恋愛",
+        "reading": "れんあい",
+        "meaningKo": "연애"
+      },
+      {
+        "word": "初恋",
+        "reading": "はつこい",
+        "meaningKo": "첫사랑"
+      }
+    ],
+    "note": "마음 심(心)이 들어가 사랑과 감정에 관련된 단어에 쓰인다."
+  },
+  {
+    "id": "kanji-ai",
+    "character": "愛",
+    "level": "N3",
+    "meaningKo": "사랑",
+    "onyomi": "アイ",
+    "kunyomi": "まな",
+    "examples": [
+      {
+        "word": "愛",
+        "reading": "あい",
+        "meaningKo": "사랑"
+      },
+      {
+        "word": "恋愛",
+        "reading": "れんあい",
+        "meaningKo": "연애"
+      }
+    ],
+    "note": "소중히 여기고 아끼는 마음을 나타내는 한자다."
+  },
+  {
+    "id": "kanji-kokuhaku",
+    "character": "告",
+    "level": "N3",
+    "meaningKo": "알리다, 고하다",
+    "onyomi": "コク",
+    "kunyomi": "つげる",
+    "examples": [
+      {
+        "word": "告白",
+        "reading": "こくはく",
+        "meaningKo": "고백"
+      },
+      {
+        "word": "報告",
+        "reading": "ほうこく",
+        "meaningKo": "보고"
+      }
+    ],
+    "note": "무언가를 말로 알리는 뜻을 가진다."
+  }
+]

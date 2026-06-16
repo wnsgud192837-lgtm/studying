@@ -6,6 +6,31 @@
 
 - `words.json`: PDF 3개에서 추출한 일본어 단어 목록
 - `kanji.json`: 한자 학습 seed 데이터
+- `words-by-level/`: 단어를 난이도별로 분리한 JSON 파일
+- `kanji-by-level/`: 한자를 난이도별로 분리한 JSON 파일
+- `index.json`: 전체 데이터 개수와 난이도별 개수 요약
+
+## Current Counts
+
+### Words
+
+| Level | Count |
+| --- | ---: |
+| N5 | 499 |
+| N4 | 327 |
+| N3 | 570 |
+| N2 | 119 |
+| N1 | 136 |
+| Other | 833 |
+| Total | 2,484 |
+
+### Kanji
+
+| Level | Count |
+| --- | ---: |
+| N5 | 7 |
+| N3 | 3 |
+| Total | 10 |
 
 ## Word Shape
 
