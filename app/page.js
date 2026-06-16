@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { initialKanji, initialWords, reviewIntervals } from "./data";
 
 const STORE = {
@@ -163,34 +163,6 @@ function useLocalStudyState() {
   };
 }
 
-function getStreak(dates) {
-  const set = new Set(dates);
-  let streak = 0;
-  const cursor = new Date();
-  cursor.setHours(0, 0, 0, 0);
-
-  while (set.has(todayKey(cursor))) {
-    streak += 1;
-    cursor.setDate(cursor.getDate() - 1);
-  }
-
-  return streak;
-}
-
-function getStats(progress, studyDates) {
-  const values = Object.values(progress);
-  const attempts = values.reduce((sum, item) => sum + (item.attempts || 0), 0);
-  const correct = values.reduce((sum, item) => sum + (item.correctCount || 0), 0);
-  const due = values.filter(isDue).length;
-
-  return {
-    due,
-    studied: values.filter((item) => item.lastStudiedAt).length,
-    streak: getStreak(studyDates),
-    accuracy: attempts ? Math.round((correct / attempts) * 100) : 0
-  };
-}
-
 function RatingButtons({ onRate }) {
   return (
     <div className="rating-grid">
@@ -203,6 +175,72 @@ function RatingButtons({ onRate }) {
   );
 }
 
+function LineIcon({ name }) {
+  const common = {
+    fill: "none",
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.8
+  };
+
+  const paths = {
+    home: (
+      <>
+        <path d="M3.5 11.2 12 4l8.5 7.2" />
+        <path d="M5.8 10.4v8.1h4.1v-4.7h4.2v4.7h4.1v-8.1" />
+      </>
+    ),
+    review: (
+      <>
+        <path d="M7.5 6.2h8.8a3.2 3.2 0 0 1 0 6.4H6.7" />
+        <path d="m9.1 9.4-3.2 3.2 3.2 3.2" />
+      </>
+    ),
+    record: (
+      <>
+        <path d="M6.5 5.5h11v13h-11z" />
+        <path d="M9 9h6" />
+        <path d="M9 12h6" />
+        <path d="M9 15h3.2" />
+      </>
+    ),
+    profile: (
+      <>
+        <path d="M12 12.2a3.4 3.4 0 1 0 0-6.8 3.4 3.4 0 0 0 0 6.8z" />
+        <path d="M5.7 19a6.5 6.5 0 0 1 12.6 0" />
+      </>
+    ),
+    book: (
+      <>
+        <path d="M5 5.2h5.4a3 3 0 0 1 3 3v10.1a3 3 0 0 0-3-3H5z" />
+        <path d="M19 5.2h-5.4a3 3 0 0 0-3 3v10.1a3 3 0 0 1 3-3H19z" />
+      </>
+    ),
+    cards: (
+      <>
+        <path d="M7.2 7.2h10.4a2 2 0 0 1 2 2v7.1a2 2 0 0 1-2 2H7.2a2 2 0 0 1-2-2V9.2a2 2 0 0 1 2-2z" />
+        <path d="M9 11h6.6" />
+        <path d="M9 14.3h4.2" />
+      </>
+    ),
+    chevronLeft: <path d="m14.5 6-6 6 6 6" />,
+    volume: (
+      <>
+        <path d="M5.2 10v4h3.1l4.1 3.5v-11L8.3 10z" />
+        <path d="M15.7 9.1a4.7 4.7 0 0 1 0 5.8" />
+        <path d="M18 6.9a8 8 0 0 1 0 10.2" />
+      </>
+    )
+  };
+
+  return (
+    <svg aria-hidden="true" className="line-icon" viewBox="0 0 24 24" {...common}>
+      {paths[name]}
+    </svg>
+  );
+}
+
 function BottomNav({ onHome, active = "home" }) {
   return (
     <nav className="bottom-nav" aria-label="하단 메뉴">
@@ -212,34 +250,18 @@ function BottomNav({ onHome, active = "home" }) {
         ["record", "기록"],
         ["profile", "마이"]
       ].map(([key, label]) => (
-        <button key={key} className={active === key ? "active" : ""} type="button" onClick={key === "home" ? onHome : undefined}>
-          {label}
+        <button
+          key={key}
+          className={active === key ? "active" : ""}
+          type="button"
+          onClick={key === "home" ? onHome : undefined}
+          aria-label={label}
+        >
+          <LineIcon name={key} />
+          <span>{label}</span>
         </button>
       ))}
     </nav>
-  );
-}
-
-function StatStrip({ stats }) {
-  return (
-    <div className="stats-grid" aria-label="학습 통계">
-      <span>
-        <strong>{stats.due}</strong>
-        오늘 복습
-      </span>
-      <span>
-        <strong>{stats.studied}</strong>
-        학습 항목
-      </span>
-      <span>
-        <strong>{stats.streak}</strong>
-        연속 일수
-      </span>
-      <span>
-        <strong>{stats.accuracy}%</strong>
-        정답률
-      </span>
-    </div>
   );
 }
 
@@ -247,12 +269,27 @@ function HomeScreen({ onSelect }) {
   return (
     <main className="home-screen">
       <section className="phone-shell home-inner" aria-label="학습 선택">
+        <header className="home-copy">
+          <p className="eyebrow">おはようございます</p>
+          <h1>오늘도 함께 일본어를 공부해요</h1>
+          <p>하나씩 천천히 익혀보세요.</p>
+        </header>
         <div className="home-actions">
-          <button type="button" onClick={() => onSelect("kanji")}>
-            한자 공부하기
+          <button className="study-choice kanji-choice" type="button" onClick={() => onSelect("kanji")}>
+            <span className="choice-icon">
+              <LineIcon name="book" />
+            </span>
+            <span className="choice-kicker">漢字</span>
+            <strong>한자 공부하기</strong>
+            <small>한자의 뜻과 읽는 법을 익혀보세요.</small>
           </button>
-          <button type="button" onClick={() => onSelect("japanese")}>
-            일본어 공부하기
+          <button className="study-choice japanese-choice" type="button" onClick={() => onSelect("japanese")}>
+            <span className="choice-icon">
+              <LineIcon name="cards" />
+            </span>
+            <span className="choice-kicker">日本語</span>
+            <strong>일본어 공부하기</strong>
+            <small>단어와 표현을 차근차근 공부해보세요.</small>
           </button>
         </div>
         <BottomNav onHome={() => onSelect("home")} />
@@ -276,7 +313,6 @@ function JapaneseStudy({ state, onBack }) {
     exampleMeaningKo: ""
   });
 
-  const stats = useMemo(() => getStats(state.progress, state.studyDates), [state.progress, state.studyDates]);
   const savedSet = new Set(state.savedWords);
   const wordLevels = ["all", "N5", "N4", "N3", "N2", "N1", "Other"];
   const savedItems = state.words.filter((word) => savedSet.has(word.id));
@@ -339,15 +375,13 @@ function JapaneseStudy({ state, onBack }) {
       <section className="phone-shell study-panel wide" aria-label="일본어 공부">
         <header className="section-header">
           <button className="ghost-button" type="button" onClick={onBack}>
-            ‹
+            <LineIcon name="chevronLeft" />
           </button>
           <div>
             <p className="eyebrow">Japanese Words</p>
             <h1>일본어 공부하기</h1>
           </div>
         </header>
-
-        <StatStrip stats={stats} />
 
         <nav className="tabs" aria-label="일본어 공부 메뉴">
           {[
@@ -424,7 +458,12 @@ function JapaneseStudy({ state, onBack }) {
             {reviewItems.map((word) => (
               <ReviewRow key={word.id} title={word.japanese} subtitle={word.reading} meaning={word.meaningKo} onRate={(rating) => rateWord(word, rating)} />
             ))}
-            {!reviewItems.length ? <p className="empty">오늘 복습할 단어가 없습니다.</p> : null}
+            {!reviewItems.length ? (
+              <div className="empty">
+                <strong>지금 복습할 내용이 없어요.</strong>
+                <span>새로운 내용을 천천히 공부해보세요.</span>
+              </div>
+            ) : null}
           </section>
         ) : null}
 
@@ -466,8 +505,9 @@ function WordCard({ word, saved, onSave, onEdit }) {
     <article className="study-card">
       <div className="card-actions">
         <span>{word.source}</span>
-        <button type="button" onClick={() => speak(word.japanese)}>
-          듣기
+        <button type="button" onClick={() => speak(word.japanese)} aria-label={`${word.japanese} 듣기`}>
+          <LineIcon name="volume" />
+          <span>듣기</span>
         </button>
       </div>
       <h2>{word.japanese}</h2>
@@ -518,8 +558,9 @@ function WordForm({ form, setForm, editing, onSubmit, onCancel }) {
 function ReviewRow({ title, subtitle, meaning, onRate }) {
   return (
     <article className="review-row">
-      <button type="button" onClick={() => speak(title)}>
-        듣기
+      <button type="button" onClick={() => speak(title)} aria-label={`${title} 듣기`}>
+        <LineIcon name="volume" />
+        <span>듣기</span>
       </button>
       <div>
         <strong>{title}</strong>
@@ -538,7 +579,6 @@ function KanjiStudy({ state, onBack }) {
   const [form, setForm] = useState({ character: "", level: "N5", meaningKo: "", onyomi: "", kunyomi: "", note: "" });
   const [editing, setEditing] = useState(null);
 
-  const stats = useMemo(() => getStats(state.progress, state.studyDates), [state.progress, state.studyDates]);
   const levels = ["all", ...Array.from(new Set(state.kanji.map((item) => item.level)))];
   const visible = level === "all" ? state.kanji : state.kanji.filter((item) => item.level === level);
   const active = state.kanji.find((item) => item.id === activeId) || visible[0] || state.kanji[0];
@@ -585,15 +625,13 @@ function KanjiStudy({ state, onBack }) {
       <section className="phone-shell study-panel wide" aria-label="한자 공부">
         <header className="section-header">
           <button className="ghost-button" type="button" onClick={onBack}>
-            ‹
+            <LineIcon name="chevronLeft" />
           </button>
           <div>
             <p className="eyebrow">Kanji Study</p>
             <h1>한자 공부하기</h1>
           </div>
         </header>
-
-        <StatStrip stats={stats} />
 
         <nav className="tabs" aria-label="한자 공부 메뉴">
           {[
@@ -646,7 +684,12 @@ function KanjiStudy({ state, onBack }) {
             {reviewItems.map((item) => (
               <ReviewRow key={item.id} title={item.character} subtitle={`${item.onyomi} / ${item.kunyomi}`} meaning={item.meaningKo} onRate={(rating) => rateKanji(item, rating)} />
             ))}
-            {!reviewItems.length ? <p className="empty">오늘 복습할 한자가 없습니다.</p> : null}
+            {!reviewItems.length ? (
+              <div className="empty">
+                <strong>지금 복습할 내용이 없어요.</strong>
+                <span>새로운 내용을 천천히 공부해보세요.</span>
+              </div>
+            ) : null}
           </section>
         ) : null}
 
@@ -690,8 +733,9 @@ function KanjiDetail({ item, onRate, onEdit }) {
   return (
     <article className="kanji-detail">
       <div className="kanji-main">
-        <button className="audio-button" type="button" onClick={() => speak(item.character)}>
-          듣기
+        <button className="audio-button" type="button" onClick={() => speak(item.character)} aria-label={`${item.character} 듣기`}>
+          <LineIcon name="volume" />
+          <span>듣기</span>
         </button>
         <p>{item.character}</p>
         <span>{item.level}</span>

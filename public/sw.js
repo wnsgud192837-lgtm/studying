@@ -1,4 +1,4 @@
-const CACHE_NAME = "japanese-study-v5";
+const CACHE_NAME = "japanese-study-v6";
 const CORE_ASSETS = ["/", "/manifest.webmanifest", "/icon.svg"];
 
 self.addEventListener("install", (event) => {
