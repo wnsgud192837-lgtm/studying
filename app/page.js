@@ -8,8 +8,11 @@ const STORE = {
   kanji: "japanese-study:kanji",
   savedWords: "japanese-study:saved-words",
   progress: "japanese-study:progress-v2",
-  studyDates: "japanese-study:study-dates"
+  studyDates: "japanese-study:study-dates",
+  dataVersion: "japanese-study:data-version"
 };
+
+const DATA_VERSION = "2026-06-16-seed-v2";
 
 const ratingLabels = {
   forgot: "모름",
@@ -34,6 +37,21 @@ function safeRead(key, fallback) {
 
 function save(key, value) {
   window.localStorage.setItem(key, JSON.stringify(value));
+}
+
+function mergeSeedItems(storedItems, seedItems) {
+  const seedIds = new Set(seedItems.map((item) => item.id));
+  const customItems = Array.isArray(storedItems) ? storedItems.filter((item) => !seedIds.has(item.id)) : [];
+  return [...seedItems, ...customItems];
+}
+
+function mergeMissingSeedItems(storedItems, seedItems) {
+  if (!Array.isArray(storedItems)) return seedItems;
+  const storedById = new Map(storedItems.map((item) => [item.id, item]));
+  const seedIds = new Set(seedItems.map((item) => item.id));
+  const seeded = seedItems.map((item) => storedById.get(item.id) || item);
+  const customItems = storedItems.filter((item) => !seedIds.has(item.id));
+  return [...seeded, ...customItems];
 }
 
 function speak(text) {
@@ -85,11 +103,23 @@ function useLocalStudyState() {
   const [studyDates, setStudyDates] = useState([]);
 
   useEffect(() => {
-    setWords(safeRead(STORE.words, initialWords));
-    setKanji(safeRead(STORE.kanji, initialKanji));
+    const shouldRefreshSeeds = window.localStorage.getItem(STORE.dataVersion) !== DATA_VERSION;
+    const storedWords = safeRead(STORE.words, initialWords);
+    const storedKanji = safeRead(STORE.kanji, initialKanji);
+    const nextWords = shouldRefreshSeeds ? mergeSeedItems(storedWords, initialWords) : mergeMissingSeedItems(storedWords, initialWords);
+    const nextKanji = shouldRefreshSeeds ? mergeSeedItems(storedKanji, initialKanji) : mergeMissingSeedItems(storedKanji, initialKanji);
+
+    setWords(nextWords);
+    setKanji(nextKanji);
     setSavedWords(safeRead(STORE.savedWords, []));
     setProgress(safeRead(STORE.progress, {}));
     setStudyDates(safeRead(STORE.studyDates, []));
+
+    if (shouldRefreshSeeds) {
+      save(STORE.words, nextWords);
+      save(STORE.kanji, nextKanji);
+      window.localStorage.setItem(STORE.dataVersion, DATA_VERSION);
+    }
   }, []);
 
   function persistWords(next) {
@@ -173,15 +203,6 @@ function RatingButtons({ onRate }) {
   );
 }
 
-function PhoneStatus() {
-  return (
-    <div className="phone-status" aria-hidden="true">
-      <span>9:41</span>
-      <span>●●●  Wi-Fi  ▰</span>
-    </div>
-  );
-}
-
 function BottomNav({ onHome, active = "home" }) {
   return (
     <nav className="bottom-nav" aria-label="하단 메뉴">
@@ -192,7 +213,6 @@ function BottomNav({ onHome, active = "home" }) {
         ["profile", "마이"]
       ].map(([key, label]) => (
         <button key={key} className={active === key ? "active" : ""} type="button" onClick={key === "home" ? onHome : undefined}>
-          <span>{key === "home" ? "⌂" : key === "review" ? "◇" : key === "record" ? "✎" : "○"}</span>
           {label}
         </button>
       ))}
@@ -227,29 +247,6 @@ function HomeScreen({ onSelect }) {
   return (
     <main className="home-screen">
       <section className="phone-shell home-inner" aria-label="학습 선택">
-        <PhoneStatus />
-        <div className="home-hero">
-          <p className="eyebrow">おはようございます</p>
-          <h1>오늘도 함께<br />일본어를 배워요</h1>
-          <p>매일 조금씩, 나의 일본어를 키워요.</p>
-          <div className="window-scene" aria-hidden="true">
-            <span className="sun" />
-            <span className="plant one" />
-            <span className="plant two" />
-            <span className="book" />
-            <span className="cup" />
-          </div>
-        </div>
-        <div className="daily-card">
-          <div className="progress-ring">
-            <strong>65%</strong>
-          </div>
-          <div>
-            <p className="eyebrow">오늘의 학습</p>
-            <strong>20 / 30분</strong>
-            <small>목표까지 조금만 더</small>
-          </div>
-        </div>
         <div className="home-actions">
           <button type="button" onClick={() => onSelect("kanji")}>
             한자 공부하기
@@ -337,7 +334,6 @@ function JapaneseStudy({ state, onBack }) {
   return (
     <main className="app-shell">
       <section className="phone-shell study-panel wide" aria-label="일본어 공부">
-        <PhoneStatus />
         <header className="section-header">
           <button className="ghost-button" type="button" onClick={onBack}>
             ‹
@@ -577,7 +573,6 @@ function KanjiStudy({ state, onBack }) {
   return (
     <main className="app-shell">
       <section className="phone-shell study-panel wide" aria-label="한자 공부">
-        <PhoneStatus />
         <header className="section-header">
           <button className="ghost-button" type="button" onClick={onBack}>
             ‹
