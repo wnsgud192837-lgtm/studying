@@ -12,7 +12,7 @@ const STORE = {
   dataVersion: "japanese-study:data-version"
 };
 
-const DATA_VERSION = "2026-06-16-pdf-full-v1";
+const DATA_VERSION = "2026-06-22-jouyou-kanji-v1";
 
 const ratingLabels = {
   forgot: "모름",
@@ -432,7 +432,6 @@ function JapaneseStudy({ state, onBack }) {
 
         {tab === "cards" && activeCard ? (
           <section className="flashcard">
-            <p className="source-label">{activeCard.source}</p>
             <button className="audio-button" type="button" onClick={() => speak(activeCard.japanese)}>
               듣기
             </button>
@@ -504,7 +503,6 @@ function WordCard({ word, saved, onSave, onEdit }) {
   return (
     <article className="study-card">
       <div className="card-actions">
-        <span>{word.source}</span>
         <button type="button" onClick={() => speak(word.japanese)} aria-label={`${word.japanese} 듣기`}>
           <LineIcon name="volume" />
           <span>듣기</span>
@@ -576,7 +574,7 @@ function KanjiStudy({ state, onBack }) {
   const [tab, setTab] = useState("list");
   const [level, setLevel] = useState("all");
   const [activeId, setActiveId] = useState(state.kanji[0]?.id);
-  const [form, setForm] = useState({ character: "", level: "N5", meaningKo: "", onyomi: "", kunyomi: "", note: "" });
+  const [form, setForm] = useState({ character: "", level: "N5", meaningKo: "", onyomi: "", kunyomi: "", examplesText: "" });
   const [editing, setEditing] = useState(null);
 
   const levels = ["all", ...Array.from(new Set(state.kanji.map((item) => item.level)))];
@@ -595,11 +593,12 @@ function KanjiStudy({ state, onBack }) {
     const examples = form.examplesText
       ? form.examplesText.split(",").map((value) => ({ word: value.trim(), reading: "", meaningKo: "" }))
       : [];
-    const nextKanji = { id, ...form, examples };
+    const { examplesText, ...fields } = form;
+    const nextKanji = { id, ...fields, examples };
     const exists = state.kanji.some((item) => item.id === id);
     state.persistKanji(exists ? state.kanji.map((item) => (item.id === id ? nextKanji : item)) : [nextKanji, ...state.kanji]);
     setEditing(null);
-    setForm({ character: "", level: "N5", meaningKo: "", onyomi: "", kunyomi: "", note: "", examplesText: "" });
+    setForm({ character: "", level: "N5", meaningKo: "", onyomi: "", kunyomi: "", examplesText: "" });
   }
 
   function editKanji(item) {
@@ -610,8 +609,7 @@ function KanjiStudy({ state, onBack }) {
       meaningKo: item.meaningKo,
       onyomi: item.onyomi,
       kunyomi: item.kunyomi,
-      note: item.note,
-      examplesText: item.examples.map((example) => example.word).join(", ")
+      examplesText: (item.examples || []).map((example) => example.word).join(", ")
     });
     setTab("manage");
   }
@@ -752,13 +750,13 @@ function KanjiDetail({ item, onRate, onEdit }) {
             <dd>{item.kunyomi}</dd>
           </div>
         </dl>
-        <p>{item.note}</p>
+        <p className="representative-label">대표단어</p>
         <div className="example-list">
-          {item.examples.map((example) => (
+          {(item.examples || []).map((example) => (
             <button key={example.word} type="button" onClick={() => speak(example.word)}>
               {example.word}
-              <span>{example.reading}</span>
-              <small>{example.meaningKo}</small>
+              {example.reading ? <span>{example.reading}</span> : null}
+              {example.meaningKo ? <small>{example.meaningKo}</small> : null}
             </button>
           ))}
         </div>
@@ -781,12 +779,11 @@ function KanjiForm({ form, setForm, editing, onSubmit }) {
         ["meaningKo", "뜻"],
         ["onyomi", "음독"],
         ["kunyomi", "훈독"],
-        ["examplesText", "예시 단어"],
-        ["note", "메모"]
+        ["examplesText", "대표단어"]
       ].map(([key, label]) => (
         <label key={key}>
           {label}
-          <input value={form[key] || ""} onChange={(event) => setForm({ ...form, [key]: event.target.value })} required={key !== "note"} />
+          <input value={form[key] || ""} onChange={(event) => setForm({ ...form, [key]: event.target.value })} required />
         </label>
       ))}
       <button type="submit">{editing ? "저장" : "추가"}</button>

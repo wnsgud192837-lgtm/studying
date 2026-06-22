@@ -1,9 +1,8 @@
 {
-  "generatedAt": "2026-06-16T05:35:37.304Z",
+  "generatedAt": "2026-06-22T09:51:25.977095Z",
   "words": {
     "total": 1772,
-    "rawTotal": 2484,
-    "duplicateItemsRemoved": 712,
+    "translatedToKorean": 1772,
     "byLevel": {
       "N5": 272,
       "N4": 202,
@@ -14,10 +13,14 @@
     }
   },
   "kanji": {
-    "total": 10,
+    "total": 2136,
+    "withMeaningOnKun": 1240,
     "byLevel": {
-      "N3": 3,
-      "N5": 7
+      "N1": 1113,
+      "N2": 415,
+      "N3": 324,
+      "N4": 181,
+      "N5": 103
     }
   }
 }

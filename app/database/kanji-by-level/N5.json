@@ -1,149 +1,1547 @@
 [
   {
-    "id": "kanji-hi",
+    "id": "kanji-65e5",
     "character": "日",
     "level": "N5",
-    "meaningKo": "날, 해, 일본",
-    "onyomi": "ニチ, ジツ",
-    "kunyomi": "ひ, か",
+    "meaningKo": "날 일",
+    "onyomi": "ニチ、ジツ",
+    "kunyomi": "ひ、か",
     "examples": [
       {
-        "word": "日本",
-        "reading": "にほん",
-        "meaningKo": "일본"
-      },
-      {
-        "word": "今日",
-        "reading": "きょう",
-        "meaningKo": "오늘"
+        "word": "日",
+        "reading": "",
+        "meaningKo": "날"
       }
-    ],
-    "note": "해가 떠 있는 모양에서 온 한자라 날짜와 태양의 뜻으로 자주 쓰인다."
+    ]
   },
   {
-    "id": "kanji-hon",
+    "id": "kanji-4e00",
+    "character": "一",
+    "level": "N5",
+    "meaningKo": "한 일",
+    "onyomi": "イチ、イツ",
+    "kunyomi": "ひと、ひと-つ",
+    "examples": [
+      {
+        "word": "一つ",
+        "reading": "",
+        "meaningKo": "한"
+      }
+    ]
+  },
+  {
+    "id": "kanji-56fd",
+    "character": "国",
+    "level": "N5",
+    "meaningKo": "나라 국",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "examples": [
+      {
+        "word": "国",
+        "reading": "",
+        "meaningKo": "나라"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4f1a",
+    "character": "会",
+    "level": "N5",
+    "meaningKo": "모일 회",
+    "onyomi": "カイ、エ",
+    "kunyomi": "あ-う",
+    "examples": [
+      {
+        "word": "会う",
+        "reading": "",
+        "meaningKo": "모일"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4eba",
+    "character": "人",
+    "level": "N5",
+    "meaningKo": "사람 인",
+    "onyomi": "ジン、ニン",
+    "kunyomi": "ひと",
+    "examples": [
+      {
+        "word": "人",
+        "reading": "",
+        "meaningKo": "사람"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e74",
+    "character": "年",
+    "level": "N5",
+    "meaningKo": "해 년",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "examples": [
+      {
+        "word": "年",
+        "reading": "",
+        "meaningKo": "해"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5927",
+    "character": "大",
+    "level": "N5",
+    "meaningKo": "큰 대",
+    "onyomi": "ダイ、タイ",
+    "kunyomi": "おお、おお-きい、おお-いに",
+    "examples": [
+      {
+        "word": "大きい",
+        "reading": "",
+        "meaningKo": "큰"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5341",
+    "character": "十",
+    "level": "N5",
+    "meaningKo": "열 십",
+    "onyomi": "ジュウ、ジッ",
+    "kunyomi": "とお、と",
+    "examples": [
+      {
+        "word": "十",
+        "reading": "",
+        "meaningKo": "열"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e8c",
+    "character": "二",
+    "level": "N5",
+    "meaningKo": "두 이",
+    "onyomi": "ニ",
+    "kunyomi": "ふた、ふた-つ",
+    "examples": [
+      {
+        "word": "二つ",
+        "reading": "",
+        "meaningKo": "두"
+      }
+    ]
+  },
+  {
+    "id": "kanji-672c",
     "character": "本",
     "level": "N5",
-    "meaningKo": "책, 근본",
+    "meaningKo": "근본 본",
     "onyomi": "ホン",
     "kunyomi": "もと",
     "examples": [
       {
         "word": "本",
-        "reading": "ほん",
-        "meaningKo": "책"
-      },
-      {
-        "word": "日本",
-        "reading": "にほん",
-        "meaningKo": "일본"
+        "reading": "",
+        "meaningKo": "근본"
       }
-    ],
-    "note": "나무의 뿌리 부분을 표시한 모양에서 근본, 책의 뜻으로 넓어졌다."
+    ]
   },
   {
-    "id": "kanji-go",
-    "character": "語",
+    "id": "kanji-4e2d",
+    "character": "中",
     "level": "N5",
-    "meaningKo": "말, 언어",
-    "onyomi": "ゴ",
-    "kunyomi": "かたる",
+    "meaningKo": "가운데 중",
+    "onyomi": "チュウ（ジュウ）",
+    "kunyomi": "なか",
     "examples": [
       {
-        "word": "日本語",
-        "reading": "にほんご",
-        "meaningKo": "일본어"
-      },
-      {
-        "word": "英語",
-        "reading": "えいご",
-        "meaningKo": "영어"
+        "word": "中",
+        "reading": "",
+        "meaningKo": "가운데"
       }
-    ],
-    "note": "말씀 언(言)이 들어가서 말과 언어에 관련된 단어에 많이 쓰인다."
+    ]
   },
   {
-    "id": "kanji-mizu",
+    "id": "kanji-9577",
+    "character": "長",
+    "level": "N5",
+    "meaningKo": "긴 장",
+    "onyomi": "チョウ",
+    "kunyomi": "なが-い",
+    "examples": [
+      {
+        "word": "長い",
+        "reading": "",
+        "meaningKo": "긴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-51fa",
+    "character": "出",
+    "level": "N5",
+    "meaningKo": "날[生] 출",
+    "onyomi": "シュツ（スイ）",
+    "kunyomi": "で-る、だ-す",
+    "examples": [
+      {
+        "word": "出る",
+        "reading": "",
+        "meaningKo": "날[生]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e09",
+    "character": "三",
+    "level": "N5",
+    "meaningKo": "석 삼",
+    "onyomi": "サン",
+    "kunyomi": "み、み-つ、みっ-つ",
+    "examples": [
+      {
+        "word": "三つ",
+        "reading": "",
+        "meaningKo": "석"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6642",
+    "character": "時",
+    "level": "N5",
+    "meaningKo": "때 시",
+    "onyomi": "ジ",
+    "kunyomi": "とき",
+    "examples": [
+      {
+        "word": "時",
+        "reading": "",
+        "meaningKo": "때"
+      }
+    ]
+  },
+  {
+    "id": "kanji-884c",
+    "character": "行",
+    "level": "N5",
+    "meaningKo": "다닐 행, 항렬 항",
+    "onyomi": "コウ、ギョウ（アン）",
+    "kunyomi": "い-く、ゆ-く、おこな-う",
+    "examples": [
+      {
+        "word": "行く",
+        "reading": "",
+        "meaningKo": "다닐"
+      }
+    ]
+  },
+  {
+    "id": "kanji-793e",
+    "character": "社",
+    "level": "N5",
+    "meaningKo": "모일 사",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "examples": [
+      {
+        "word": "社",
+        "reading": "",
+        "meaningKo": "모일"
+      }
+    ]
+  },
+  {
+    "id": "kanji-898b",
+    "character": "見",
+    "level": "N5",
+    "meaningKo": "볼 견, 뵈올 현",
+    "onyomi": "ケン",
+    "kunyomi": "み-る、み-える、み-せる",
+    "examples": [
+      {
+        "word": "見る",
+        "reading": "",
+        "meaningKo": "볼"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6708",
+    "character": "月",
+    "level": "N5",
+    "meaningKo": "달 월",
+    "onyomi": "ゲツ、ガツ",
+    "kunyomi": "つき",
+    "examples": [
+      {
+        "word": "月",
+        "reading": "",
+        "meaningKo": "달"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5206",
+    "character": "分",
+    "level": "N5",
+    "meaningKo": "나눌 분",
+    "onyomi": "ブン、フン、ブ",
+    "kunyomi": "わ-ける、わ-かれる、わ-かる、わ-かつ",
+    "examples": [
+      {
+        "word": "分ける",
+        "reading": "",
+        "meaningKo": "나눌"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f8c",
+    "character": "後",
+    "level": "N5",
+    "meaningKo": "뒤 후",
+    "onyomi": "ゴ、コウ",
+    "kunyomi": "のち、うし-ろ、あと、おく-れる",
+    "examples": [
+      {
+        "word": "後ろ",
+        "reading": "",
+        "meaningKo": "뒤"
+      }
+    ]
+  },
+  {
+    "id": "kanji-524d",
+    "character": "前",
+    "level": "N5",
+    "meaningKo": "앞 전",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "examples": [
+      {
+        "word": "前",
+        "reading": "",
+        "meaningKo": "앞"
+      }
+    ]
+  },
+  {
+    "id": "kanji-751f",
+    "character": "生",
+    "level": "N5",
+    "meaningKo": "날 생",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "い-きる、い-かす、い-ける、う-まれる、う-む、お-う、は-える、は-やす、き、なま",
+    "examples": [
+      {
+        "word": "生きる",
+        "reading": "",
+        "meaningKo": "날"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e94",
+    "character": "五",
+    "level": "N5",
+    "meaningKo": "다섯 오",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ、いつ-つ",
+    "examples": [
+      {
+        "word": "五つ",
+        "reading": "",
+        "meaningKo": "다섯"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9593",
+    "character": "間",
+    "level": "N5",
+    "meaningKo": "사이 간",
+    "onyomi": "カン、ケン",
+    "kunyomi": "あいだ、ま",
+    "examples": [
+      {
+        "word": "間",
+        "reading": "",
+        "meaningKo": "사이"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e0a",
+    "character": "上",
+    "level": "N5",
+    "meaningKo": "윗 상",
+    "onyomi": "ジョウ（ショウ）",
+    "kunyomi": "うえ（うわ）、かみ、あ-げる、あ-がる、のぼ-る、のぼ-せる、のぼ-す",
+    "examples": [
+      {
+        "word": "上げる",
+        "reading": "",
+        "meaningKo": "윗"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6771",
+    "character": "東",
+    "level": "N5",
+    "meaningKo": "동녘 동",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "examples": [
+      {
+        "word": "東",
+        "reading": "",
+        "meaningKo": "동녘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-56db",
+    "character": "四",
+    "level": "N5",
+    "meaningKo": "넉 사",
+    "onyomi": "シ",
+    "kunyomi": "よ、よ-つ、よっ-つ、よん",
+    "examples": [
+      {
+        "word": "四つ",
+        "reading": "",
+        "meaningKo": "넉"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4eca",
+    "character": "今",
+    "level": "N5",
+    "meaningKo": "이제 금",
+    "onyomi": "コン、キン",
+    "kunyomi": "いま",
+    "examples": [
+      {
+        "word": "今",
+        "reading": "",
+        "meaningKo": "이제"
+      }
+    ]
+  },
+  {
+    "id": "kanji-65b0",
+    "character": "新",
+    "level": "N5",
+    "meaningKo": "새 신",
+    "onyomi": "シン",
+    "kunyomi": "あたら-しい、あら-た、にい",
+    "examples": [
+      {
+        "word": "新しい",
+        "reading": "",
+        "meaningKo": "새"
+      }
+    ]
+  },
+  {
+    "id": "kanji-91d1",
+    "character": "金",
+    "level": "N5",
+    "meaningKo": "금, 돈",
+    "onyomi": "キン、コン",
+    "kunyomi": "かね（かな）",
+    "examples": [
+      {
+        "word": "金",
+        "reading": "",
+        "meaningKo": "금"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e5d",
+    "character": "九",
+    "level": "N5",
+    "meaningKo": "아홉 구",
+    "onyomi": "キュウ、ク",
+    "kunyomi": "ここの、ここの-つ",
+    "examples": [
+      {
+        "word": "九つ",
+        "reading": "",
+        "meaningKo": "아홉"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5165",
+    "character": "入",
+    "level": "N5",
+    "meaningKo": "들 입",
+    "onyomi": "ニュウ",
+    "kunyomi": "い-る、い-れる、はい-る",
+    "examples": [
+      {
+        "word": "入る",
+        "reading": "",
+        "meaningKo": "들"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7acb",
+    "character": "立",
+    "level": "N5",
+    "meaningKo": "설 립",
+    "onyomi": "リツ（リュウ）",
+    "kunyomi": "た-つ、た-てる",
+    "examples": [
+      {
+        "word": "立つ",
+        "reading": "",
+        "meaningKo": "설"
+      }
+    ]
+  },
+  {
+    "id": "kanji-624b",
+    "character": "手",
+    "level": "N5",
+    "meaningKo": "손 수",
+    "onyomi": "シュ",
+    "kunyomi": "て（た）",
+    "examples": [
+      {
+        "word": "手",
+        "reading": "",
+        "meaningKo": "손"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b66",
+    "character": "学",
+    "level": "N5",
+    "meaningKo": "배울 학",
+    "onyomi": "ガク",
+    "kunyomi": "まな-ぶ",
+    "examples": [
+      {
+        "word": "学ぶ",
+        "reading": "",
+        "meaningKo": "배울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9ad8",
+    "character": "高",
+    "level": "N5",
+    "meaningKo": "높을 고",
+    "onyomi": "コウ",
+    "kunyomi": "たか-い、たか、たか-まる、たか-める",
+    "examples": [
+      {
+        "word": "高い",
+        "reading": "",
+        "meaningKo": "높을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5186",
+    "character": "円",
+    "level": "N5",
+    "meaningKo": "둥글[圓] 원",
+    "onyomi": "エン",
+    "kunyomi": "まる-い",
+    "examples": [
+      {
+        "word": "円い",
+        "reading": "",
+        "meaningKo": "둥글[圓]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b50",
+    "character": "子",
+    "level": "N5",
+    "meaningKo": "아들 자",
+    "onyomi": "シ、ス",
+    "kunyomi": "こ",
+    "examples": [
+      {
+        "word": "子",
+        "reading": "",
+        "meaningKo": "아들"
+      }
+    ]
+  },
+  {
+    "id": "kanji-76ee",
+    "character": "目",
+    "level": "N5",
+    "meaningKo": "눈 목",
+    "onyomi": "モク（ボク）",
+    "kunyomi": "め（ま）",
+    "examples": [
+      {
+        "word": "目",
+        "reading": "",
+        "meaningKo": "눈"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5916",
+    "character": "外",
+    "level": "N5",
+    "meaningKo": "바깥 외",
+    "onyomi": "ガイ、ゲ",
+    "kunyomi": "そと、ほか、はず-す、はず-れる",
+    "examples": [
+      {
+        "word": "外す",
+        "reading": "",
+        "meaningKo": "바깥"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8a00",
+    "character": "言",
+    "level": "N5",
+    "meaningKo": "말씀 언",
+    "onyomi": "ゲン、ゴン",
+    "kunyomi": "い-う、こと",
+    "examples": [
+      {
+        "word": "言う",
+        "reading": "",
+        "meaningKo": "말씀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-516b",
+    "character": "八",
+    "level": "N5",
+    "meaningKo": "여덟 팔",
+    "onyomi": "ハチ",
+    "kunyomi": "や、や-つ、やっ-つ（よう）",
+    "examples": [
+      {
+        "word": "八つ",
+        "reading": "",
+        "meaningKo": "여덟"
+      }
+    ]
+  },
+  {
+    "id": "kanji-516d",
+    "character": "六",
+    "level": "N5",
+    "meaningKo": "여섯 륙",
+    "onyomi": "ロク",
+    "kunyomi": "む、む-つ、むっ-つ（むい）",
+    "examples": [
+      {
+        "word": "六つ",
+        "reading": "",
+        "meaningKo": "여섯"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e0b",
+    "character": "下",
+    "level": "N5",
+    "meaningKo": "아래 하",
+    "onyomi": "カ、ゲ",
+    "kunyomi": "した、しも、もと、さ-げる、さ-がる、くだ-る、くだ-す、くだ-さる、お-ろす、お-りる",
+    "examples": [
+      {
+        "word": "下げる",
+        "reading": "",
+        "meaningKo": "아래"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6765",
+    "character": "来",
+    "level": "N5",
+    "meaningKo": "올 래",
+    "onyomi": "ライ",
+    "kunyomi": "く-る、きた-る、きた-す",
+    "examples": [
+      {
+        "word": "来る",
+        "reading": "",
+        "meaningKo": "올"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6c17",
+    "character": "気",
+    "level": "N5",
+    "meaningKo": "기운 기",
+    "onyomi": "キ、ケ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "気",
+        "reading": "",
+        "meaningKo": "기운"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5c0f",
+    "character": "小",
+    "level": "N5",
+    "meaningKo": "작을 소",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい-さい、こ、お",
+    "examples": [
+      {
+        "word": "小さい",
+        "reading": "",
+        "meaningKo": "작을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e03",
+    "character": "七",
+    "level": "N5",
+    "meaningKo": "일곱 칠",
+    "onyomi": "シチ",
+    "kunyomi": "なな、なな-つ（なの）",
+    "examples": [
+      {
+        "word": "七つ（なの）",
+        "reading": "",
+        "meaningKo": "일곱"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5c71",
+    "character": "山",
+    "level": "N5",
+    "meaningKo": "메 산",
+    "onyomi": "サン",
+    "kunyomi": "やま",
+    "examples": [
+      {
+        "word": "山",
+        "reading": "",
+        "meaningKo": "메"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8a71",
+    "character": "話",
+    "level": "N5",
+    "meaningKo": "말씀 화",
+    "onyomi": "ワ",
+    "kunyomi": "はな-す、はなし",
+    "examples": [
+      {
+        "word": "話す",
+        "reading": "",
+        "meaningKo": "말씀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-591a",
+    "character": "多",
+    "level": "N5",
+    "meaningKo": "많을 다",
+    "onyomi": "タ",
+    "kunyomi": "おお-い",
+    "examples": [
+      {
+        "word": "多い",
+        "reading": "",
+        "meaningKo": "많을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b89",
+    "character": "安",
+    "level": "N5",
+    "meaningKo": "편안 안",
+    "onyomi": "アン",
+    "kunyomi": "やす-い",
+    "examples": [
+      {
+        "word": "安い",
+        "reading": "",
+        "meaningKo": "편안"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5973",
+    "character": "女",
+    "level": "N5",
+    "meaningKo": "계집 녀",
+    "onyomi": "ジョ、ニョ（ニョウ）",
+    "kunyomi": "おんな、め",
+    "examples": [
+      {
+        "word": "女",
+        "reading": "",
+        "meaningKo": "계집"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5317",
+    "character": "北",
+    "level": "N5",
+    "meaningKo": "북녘 북, 달아날 배",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "examples": [
+      {
+        "word": "北",
+        "reading": "",
+        "meaningKo": "북녘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5348",
+    "character": "午",
+    "level": "N5",
+    "meaningKo": "낮 오",
+    "onyomi": "ゴ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "午",
+        "reading": "",
+        "meaningKo": "낮"
+      }
+    ]
+  },
+  {
+    "id": "kanji-767e",
+    "character": "百",
+    "level": "N5",
+    "meaningKo": "일백 백",
+    "onyomi": "ヒャク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "百",
+        "reading": "",
+        "meaningKo": "일백"
+      }
+    ]
+  },
+  {
+    "id": "kanji-66f8",
+    "character": "書",
+    "level": "N5",
+    "meaningKo": "글 서",
+    "onyomi": "ショ",
+    "kunyomi": "か-く",
+    "examples": [
+      {
+        "word": "書く",
+        "reading": "",
+        "meaningKo": "글"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5148",
+    "character": "先",
+    "level": "N5",
+    "meaningKo": "먼저 선",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "examples": [
+      {
+        "word": "先",
+        "reading": "",
+        "meaningKo": "먼저"
+      }
+    ]
+  },
+  {
+    "id": "kanji-540d",
+    "character": "名",
+    "level": "N5",
+    "meaningKo": "이름 명",
+    "onyomi": "メイ、ミョウ",
+    "kunyomi": "な",
+    "examples": [
+      {
+        "word": "名",
+        "reading": "",
+        "meaningKo": "이름"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5ddd",
+    "character": "川",
+    "level": "N5",
+    "meaningKo": "내 천",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "examples": [
+      {
+        "word": "川",
+        "reading": "",
+        "meaningKo": "내"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5343",
+    "character": "千",
+    "level": "N5",
+    "meaningKo": "일천 천",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "examples": [
+      {
+        "word": "千",
+        "reading": "",
+        "meaningKo": "일천"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9053",
+    "character": "道",
+    "level": "N5",
+    "meaningKo": "길 도",
+    "onyomi": "ドウ（トウ）",
+    "kunyomi": "みち",
+    "examples": [
+      {
+        "word": "道",
+        "reading": "",
+        "meaningKo": "길"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6c34",
     "character": "水",
     "level": "N5",
-    "meaningKo": "물",
+    "meaningKo": "물 수",
     "onyomi": "スイ",
     "kunyomi": "みず",
     "examples": [
       {
         "word": "水",
-        "reading": "みず",
+        "reading": "",
         "meaningKo": "물"
-      },
-      {
-        "word": "水曜日",
-        "reading": "すいようび",
-        "meaningKo": "수요일"
       }
-    ],
-    "note": "흐르는 물의 모양에서 온 한자다."
+    ]
   },
   {
-    "id": "kanji-tabemono",
-    "character": "食",
+    "id": "kanji-534a",
+    "character": "半",
     "level": "N5",
-    "meaningKo": "먹다, 음식",
-    "onyomi": "ショク",
-    "kunyomi": "たべる, くう",
+    "meaningKo": "반(半) 반",
+    "onyomi": "ハン",
+    "kunyomi": "なか-ば",
     "examples": [
       {
-        "word": "食べる",
-        "reading": "たべる",
-        "meaningKo": "먹다"
-      },
-      {
-        "word": "食事",
-        "reading": "しょくじ",
-        "meaningKo": "식사"
+        "word": "半ば",
+        "reading": "",
+        "meaningKo": "반(半)"
       }
-    ],
-    "note": "음식과 먹는 행동에 관련된 단어에 자주 등장한다."
+    ]
   },
   {
-    "id": "kanji-kiku",
+    "id": "kanji-7537",
+    "character": "男",
+    "level": "N5",
+    "meaningKo": "사내 남",
+    "onyomi": "ダン、ナン",
+    "kunyomi": "おとこ",
+    "examples": [
+      {
+        "word": "男",
+        "reading": "",
+        "meaningKo": "사내"
+      }
+    ]
+  },
+  {
+    "id": "kanji-897f",
+    "character": "西",
+    "level": "N5",
+    "meaningKo": "서녘 서",
+    "onyomi": "セイ、サイ",
+    "kunyomi": "にし",
+    "examples": [
+      {
+        "word": "西",
+        "reading": "",
+        "meaningKo": "서녘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-96fb",
+    "character": "電",
+    "level": "N5",
+    "meaningKo": "번개 전",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "電",
+        "reading": "",
+        "meaningKo": "번개"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53e3",
+    "character": "口",
+    "level": "N5",
+    "meaningKo": "입 구",
+    "onyomi": "コウ、ク",
+    "kunyomi": "くち",
+    "examples": [
+      {
+        "word": "口",
+        "reading": "",
+        "meaningKo": "입"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5c11",
+    "character": "少",
+    "level": "N5",
+    "meaningKo": "적을 소",
+    "onyomi": "ショウ",
+    "kunyomi": "すく-ない、すこ-し",
+    "examples": [
+      {
+        "word": "少ない",
+        "reading": "",
+        "meaningKo": "적을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6821",
+    "character": "校",
+    "level": "N5",
+    "meaningKo": "학교 교",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "校",
+        "reading": "",
+        "meaningKo": "학교"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8a9e",
+    "character": "語",
+    "level": "N5",
+    "meaningKo": "말씀 어",
+    "onyomi": "ゴ",
+    "kunyomi": "かた-る、かた-らう",
+    "examples": [
+      {
+        "word": "語る",
+        "reading": "",
+        "meaningKo": "말씀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7a7a",
+    "character": "空",
+    "level": "N5",
+    "meaningKo": "빌 공",
+    "onyomi": "クウ",
+    "kunyomi": "そら、あ-く、あ-ける、から",
+    "examples": [
+      {
+        "word": "空く",
+        "reading": "",
+        "meaningKo": "빌"
+      }
+    ]
+  },
+  {
+    "id": "kanji-571f",
+    "character": "土",
+    "level": "N5",
+    "meaningKo": "흙 토",
+    "onyomi": "ド、ト",
+    "kunyomi": "つち",
+    "examples": [
+      {
+        "word": "土",
+        "reading": "",
+        "meaningKo": "흙"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6728",
+    "character": "木",
+    "level": "N5",
+    "meaningKo": "나무 목",
+    "onyomi": "ボク、モク",
+    "kunyomi": "き（こ）",
+    "examples": [
+      {
+        "word": "木",
+        "reading": "",
+        "meaningKo": "나무"
+      }
+    ]
+  },
+  {
+    "id": "kanji-805e",
     "character": "聞",
     "level": "N5",
-    "meaningKo": "듣다, 묻다",
-    "onyomi": "ブン, モン",
-    "kunyomi": "きく",
+    "meaningKo": "들을 문",
+    "onyomi": "ブン、モン",
+    "kunyomi": "き-く、き-こえる",
     "examples": [
       {
         "word": "聞く",
-        "reading": "きく",
-        "meaningKo": "듣다, 묻다"
-      },
-      {
-        "word": "新聞",
-        "reading": "しんぶん",
-        "meaningKo": "신문"
+        "reading": "",
+        "meaningKo": "들을"
       }
-    ],
-    "note": "문 안에 귀가 있는 형태로, 듣는다는 뜻을 떠올리기 쉽다."
+    ]
   },
   {
-    "id": "kanji-shiro",
+    "id": "kanji-98df",
+    "character": "食",
+    "level": "N5",
+    "meaningKo": "밥·먹을 식",
+    "onyomi": "ショク（ジキ）",
+    "kunyomi": "く-う、く-らう、た-べる",
+    "examples": [
+      {
+        "word": "食う",
+        "reading": "",
+        "meaningKo": "밥·먹을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8eca",
+    "character": "車",
+    "level": "N5",
+    "meaningKo": "수레, 차",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "examples": [
+      {
+        "word": "車",
+        "reading": "",
+        "meaningKo": "수레"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4f55",
+    "character": "何",
+    "level": "N5",
+    "meaningKo": "어찌 하",
+    "onyomi": "カ",
+    "kunyomi": "なに（なん）",
+    "examples": [
+      {
+        "word": "何",
+        "reading": "",
+        "meaningKo": "어찌"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5357",
+    "character": "南",
+    "level": "N5",
+    "meaningKo": "남녘 남",
+    "onyomi": "ナン（ナ）",
+    "kunyomi": "みなみ",
+    "examples": [
+      {
+        "word": "南",
+        "reading": "",
+        "meaningKo": "남녘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8db3",
+    "character": "足",
+    "level": "N5",
+    "meaningKo": "발 족",
+    "onyomi": "ソク",
+    "kunyomi": "あし、た-りる、た-る、た-す",
+    "examples": [
+      {
+        "word": "足りる",
+        "reading": "",
+        "meaningKo": "발"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e07",
+    "character": "万",
+    "level": "N5",
+    "meaningKo": "일만[萬] 만",
+    "onyomi": "マン、バン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "万",
+        "reading": "",
+        "meaningKo": "일만[萬]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e97",
+    "character": "店",
+    "level": "N5",
+    "meaningKo": "가게 점",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
+    "examples": [
+      {
+        "word": "店",
+        "reading": "",
+        "meaningKo": "가게"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6bce",
+    "character": "毎",
+    "level": "N5",
+    "meaningKo": "매양 매",
+    "onyomi": "マイ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "毎",
+        "reading": "",
+        "meaningKo": "매양"
+      }
+    ]
+  },
+  {
+    "id": "kanji-767d",
     "character": "白",
     "level": "N5",
-    "meaningKo": "희다, 흰색",
-    "onyomi": "ハク, ビャク",
-    "kunyomi": "しろ, しろい",
+    "meaningKo": "흰 백",
+    "onyomi": "ハク、ビャク",
+    "kunyomi": "しろ（しら）、しろ-い",
     "examples": [
       {
         "word": "白い",
-        "reading": "しろい",
-        "meaningKo": "하얗다"
-      },
-      {
-        "word": "告白",
-        "reading": "こくはく",
-        "meaningKo": "고백"
+        "reading": "",
+        "meaningKo": "흰"
       }
-    ],
-    "note": "밝고 흰색인 것을 나타내며, 여러 단어에서 색이나 드러냄의 느낌을 만든다."
+    ]
+  },
+  {
+    "id": "kanji-53e4",
+    "character": "古",
+    "level": "N5",
+    "meaningKo": "예 고",
+    "onyomi": "コ",
+    "kunyomi": "ふる-い、ふる-す",
+    "examples": [
+      {
+        "word": "古い",
+        "reading": "",
+        "meaningKo": "예"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5929",
+    "character": "天",
+    "level": "N5",
+    "meaningKo": "하늘 천",
+    "onyomi": "テン",
+    "kunyomi": "あめ（あま）",
+    "examples": [
+      {
+        "word": "天",
+        "reading": "",
+        "meaningKo": "하늘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8cb7",
+    "character": "買",
+    "level": "N5",
+    "meaningKo": "살 매",
+    "onyomi": "バイ",
+    "kunyomi": "か-う",
+    "examples": [
+      {
+        "word": "買う",
+        "reading": "",
+        "meaningKo": "살"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9031",
+    "character": "週",
+    "level": "N5",
+    "meaningKo": "주일 주",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "週",
+        "reading": "",
+        "meaningKo": "주일"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6bcd",
+    "character": "母",
+    "level": "N5",
+    "meaningKo": "어미 모",
+    "onyomi": "ボ",
+    "kunyomi": "はは",
+    "examples": [
+      {
+        "word": "母",
+        "reading": "",
+        "meaningKo": "어미"
+      }
+    ]
+  },
+  {
+    "id": "kanji-706b",
+    "character": "火",
+    "level": "N5",
+    "meaningKo": "불 화",
+    "onyomi": "カ",
+    "kunyomi": "ひ（ほ）",
+    "examples": [
+      {
+        "word": "火",
+        "reading": "",
+        "meaningKo": "불"
+      }
+    ]
+  },
+  {
+    "id": "kanji-82b1",
+    "character": "花",
+    "level": "N5",
+    "meaningKo": "꽃 화",
+    "onyomi": "カ",
+    "kunyomi": "はな",
+    "examples": [
+      {
+        "word": "花",
+        "reading": "",
+        "meaningKo": "꽃"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53f3",
+    "character": "右",
+    "level": "N5",
+    "meaningKo": "오를·오른(쪽) 우",
+    "onyomi": "ウ、ユウ",
+    "kunyomi": "みぎ",
+    "examples": [
+      {
+        "word": "右",
+        "reading": "",
+        "meaningKo": "오를·오른(쪽)"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8aad",
+    "character": "読",
+    "level": "N5",
+    "meaningKo": "읽을 독, 구절 두",
+    "onyomi": "ドク、トク（トウ）",
+    "kunyomi": "よ-む",
+    "examples": [
+      {
+        "word": "読む",
+        "reading": "",
+        "meaningKo": "읽을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53cb",
+    "character": "友",
+    "level": "N5",
+    "meaningKo": "벗 우",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "examples": [
+      {
+        "word": "友",
+        "reading": "",
+        "meaningKo": "벗"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5de6",
+    "character": "左",
+    "level": "N5",
+    "meaningKo": "왼 좌",
+    "onyomi": "サ",
+    "kunyomi": "ひだり",
+    "examples": [
+      {
+        "word": "左",
+        "reading": "",
+        "meaningKo": "왼"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4f11",
+    "character": "休",
+    "level": "N5",
+    "meaningKo": "쉴 휴",
+    "onyomi": "キュウ",
+    "kunyomi": "やす-む、やす-まる、やす-める",
+    "examples": [
+      {
+        "word": "休む",
+        "reading": "",
+        "meaningKo": "쉴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7236",
+    "character": "父",
+    "level": "N5",
+    "meaningKo": "아비 부",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "examples": [
+      {
+        "word": "父",
+        "reading": "",
+        "meaningKo": "아비"
+      }
+    ]
+  },
+  {
+    "id": "kanji-99c5",
+    "character": "駅",
+    "level": "N5",
+    "meaningKo": "역 역",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "駅",
+        "reading": "",
+        "meaningKo": "역"
+      }
+    ]
+  },
+  {
+    "id": "kanji-96e8",
+    "character": "雨",
+    "level": "N5",
+    "meaningKo": "비 우",
+    "onyomi": "ウ",
+    "kunyomi": "あめ（あま）",
+    "examples": [
+      {
+        "word": "雨",
+        "reading": "",
+        "meaningKo": "비"
+      }
+    ]
+  },
+  {
+    "id": "kanji-98f2",
+    "character": "飲",
+    "level": "N5",
+    "meaningKo": "마시다",
+    "onyomi": "イン",
+    "kunyomi": "の-む",
+    "examples": [
+      {
+        "word": "飲む",
+        "reading": "",
+        "meaningKo": "마시다"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9b5a",
+    "character": "魚",
+    "level": "N5",
+    "meaningKo": "고기·물고기 어",
+    "onyomi": "ギョ",
+    "kunyomi": "うお、さかな",
+    "examples": [
+      {
+        "word": "魚",
+        "reading": "",
+        "meaningKo": "고기·물고기"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8033",
+    "character": "耳",
+    "level": "N5",
+    "meaningKo": "귀 이",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "examples": [
+      {
+        "word": "耳",
+        "reading": "",
+        "meaningKo": "귀"
+      }
+    ]
   }
 ]

@@ -68,6 +68,9 @@ type KanjiItem = {
     reading: string;
     meaningKo: string;
   }>;
-  note: string;
 };
 ```
+
+한자 데이터는 `docs/일본어_상용한자_2136자.xlsx`의 상용한자 2,136자와
+대표단어를 기준으로 한다. `python scripts/import-kanji-xlsx.py`를 실행하면
+`kanji.json`, 난이도별 파일, `index.json`의 한자 통계가 갱신된다.

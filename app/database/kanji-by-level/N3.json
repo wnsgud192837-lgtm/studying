@@ -1,65 +1,4862 @@
 [
   {
-    "id": "kanji-koi",
-    "character": "恋",
-    "level": "N3",
-    "meaningKo": "사랑, 그리워하다",
-    "onyomi": "レン",
-    "kunyomi": "こい",
-    "examples": [
-      {
-        "word": "恋愛",
-        "reading": "れんあい",
-        "meaningKo": "연애"
-      },
-      {
-        "word": "初恋",
-        "reading": "はつこい",
-        "meaningKo": "첫사랑"
-      }
-    ],
-    "note": "마음 심(心)이 들어가 사랑과 감정에 관련된 단어에 쓰인다."
-  },
-  {
-    "id": "kanji-ai",
+    "id": "kanji-611b",
     "character": "愛",
     "level": "N3",
-    "meaningKo": "사랑",
+    "meaningKo": "사랑 애",
     "onyomi": "アイ",
-    "kunyomi": "まな",
+    "kunyomi": "",
     "examples": [
       {
         "word": "愛",
-        "reading": "あい",
+        "reading": "",
         "meaningKo": "사랑"
-      },
-      {
-        "word": "恋愛",
-        "reading": "れんあい",
-        "meaningKo": "연애"
       }
-    ],
-    "note": "소중히 여기고 아끼는 마음을 나타내는 한자다."
+    ]
   },
   {
-    "id": "kanji-kokuhaku",
-    "character": "告",
+    "id": "kanji-4f4d",
+    "character": "位",
     "level": "N3",
-    "meaningKo": "알리다, 고하다",
-    "onyomi": "コク",
-    "kunyomi": "つげる",
+    "meaningKo": "자리 위",
+    "onyomi": "イ",
+    "kunyomi": "くらい",
     "examples": [
       {
-        "word": "告白",
-        "reading": "こくはく",
-        "meaningKo": "고백"
-      },
-      {
-        "word": "報告",
-        "reading": "ほうこく",
-        "meaningKo": "보고"
+        "word": "位",
+        "reading": "",
+        "meaningKo": "자리"
       }
-    ],
-    "note": "무언가를 말로 알리는 뜻을 가진다."
+    ]
+  },
+  {
+    "id": "kanji-5049",
+    "character": "偉",
+    "level": "N3",
+    "meaningKo": "클 위",
+    "onyomi": "イ",
+    "kunyomi": "えら-い",
+    "examples": [
+      {
+        "word": "偉い",
+        "reading": "",
+        "meaningKo": "클"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9055",
+    "character": "違",
+    "level": "N3",
+    "meaningKo": "어긋날 위",
+    "onyomi": "イ",
+    "kunyomi": "ちが-う、ちが-える",
+    "examples": [
+      {
+        "word": "違う",
+        "reading": "",
+        "meaningKo": "어긋날"
+      }
+    ]
+  },
+  {
+    "id": "kanji-80b2",
+    "character": "育",
+    "level": "N3",
+    "meaningKo": "기를 육",
+    "onyomi": "イク",
+    "kunyomi": "そだ-つ、そだ-てる、はぐく-む",
+    "examples": [
+      {
+        "word": "育つ",
+        "reading": "",
+        "meaningKo": "기를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-56e0",
+    "character": "因",
+    "level": "N3",
+    "meaningKo": "인할 인",
+    "onyomi": "イン",
+    "kunyomi": "よ-る",
+    "examples": [
+      {
+        "word": "因る",
+        "reading": "",
+        "meaningKo": "인할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6cf3",
+    "character": "泳",
+    "level": "N3",
+    "meaningKo": "헤엄칠 영",
+    "onyomi": "エイ",
+    "kunyomi": "およ-ぐ",
+    "examples": [
+      {
+        "word": "泳ぐ",
+        "reading": "",
+        "meaningKo": "헤엄칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6613",
+    "character": "易",
+    "level": "N3",
+    "meaningKo": "바꿀 역, 쉬울 이",
+    "onyomi": "エキ、イ",
+    "kunyomi": "やさ-しい",
+    "examples": [
+      {
+        "word": "易しい",
+        "reading": "",
+        "meaningKo": "바꿀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8d8a",
+    "character": "越",
+    "level": "N3",
+    "meaningKo": "넘을 월",
+    "onyomi": "エツ",
+    "kunyomi": "こ-す、こ-える",
+    "examples": [
+      {
+        "word": "越す",
+        "reading": "",
+        "meaningKo": "넘을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5712",
+    "character": "園",
+    "level": "N3",
+    "meaningKo": "동산 원",
+    "onyomi": "エン",
+    "kunyomi": "その",
+    "examples": [
+      {
+        "word": "園",
+        "reading": "",
+        "meaningKo": "동산"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7159",
+    "character": "煙",
+    "level": "N3",
+    "meaningKo": "연기 연",
+    "onyomi": "エン",
+    "kunyomi": "けむ-る、けむり、けむ-い",
+    "examples": [
+      {
+        "word": "煙る",
+        "reading": "",
+        "meaningKo": "연기"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6f14",
+    "character": "演",
+    "level": "N3",
+    "meaningKo": "펼 연",
+    "onyomi": "エン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "演",
+        "reading": "",
+        "meaningKo": "펼"
+      }
+    ]
+  },
+  {
+    "id": "kanji-738b",
+    "character": "王",
+    "level": "N3",
+    "meaningKo": "임금 왕",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "王",
+        "reading": "",
+        "meaningKo": "임금"
+      }
+    ]
+  },
+  {
+    "id": "kanji-62bc",
+    "character": "押",
+    "level": "N3",
+    "meaningKo": "누를 압",
+    "onyomi": "オウ",
+    "kunyomi": "お-す、お-さえる",
+    "examples": [
+      {
+        "word": "押す",
+        "reading": "",
+        "meaningKo": "누를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6a2a",
+    "character": "横",
+    "level": "N3",
+    "meaningKo": "가로 횡",
+    "onyomi": "オウ",
+    "kunyomi": "よこ",
+    "examples": [
+      {
+        "word": "横",
+        "reading": "",
+        "meaningKo": "가로"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5ca1",
+    "character": "岡",
+    "level": "N3",
+    "meaningKo": "산등성이 강",
+    "onyomi": "（おか）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "岡",
+        "reading": "",
+        "meaningKo": "산등성이"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4ffa",
+    "character": "俺",
+    "level": "N3",
+    "meaningKo": "나 엄",
+    "onyomi": "",
+    "kunyomi": "おれ",
+    "examples": [
+      {
+        "word": "俺",
+        "reading": "",
+        "meaningKo": "나"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5316",
+    "character": "化",
+    "level": "N3",
+    "meaningKo": "될 화",
+    "onyomi": "カ、ケ",
+    "kunyomi": "ば-ける、ば-かす",
+    "examples": [
+      {
+        "word": "化ける",
+        "reading": "",
+        "meaningKo": "될"
+      }
+    ]
+  },
+  {
+    "id": "kanji-52a0",
+    "character": "加",
+    "level": "N3",
+    "meaningKo": "더할 가",
+    "onyomi": "カ",
+    "kunyomi": "くわ-える、くわ-わる",
+    "examples": [
+      {
+        "word": "加える",
+        "reading": "",
+        "meaningKo": "더할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-679c",
+    "character": "果",
+    "level": "N3",
+    "meaningKo": "실과 과",
+    "onyomi": "カ",
+    "kunyomi": "は-たす、は-てる、は-て",
+    "examples": [
+      {
+        "word": "果たす",
+        "reading": "",
+        "meaningKo": "실과"
+      }
+    ]
+  },
+  {
+    "id": "kanji-79d1",
+    "character": "科",
+    "level": "N3",
+    "meaningKo": "과목 과",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "科",
+        "reading": "",
+        "meaningKo": "과목"
+      }
+    ]
+  },
+  {
+    "id": "kanji-904e",
+    "character": "過",
+    "level": "N3",
+    "meaningKo": "지날 과",
+    "onyomi": "カ",
+    "kunyomi": "す-ぎる、す-ごす、あやま-つ、あやま-ち",
+    "examples": [
+      {
+        "word": "過ぎる",
+        "reading": "",
+        "meaningKo": "지날"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9774",
+    "character": "靴",
+    "level": "N3",
+    "meaningKo": "신[履, 鞋] 화",
+    "onyomi": "カ",
+    "kunyomi": "くつ",
+    "examples": [
+      {
+        "word": "靴",
+        "reading": "",
+        "meaningKo": "신[履"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7686",
+    "character": "皆",
+    "level": "N3",
+    "meaningKo": "다[總] 개",
+    "onyomi": "カイ",
+    "kunyomi": "みな",
+    "examples": [
+      {
+        "word": "皆",
+        "reading": "",
+        "meaningKo": "다[總]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7d75",
+    "character": "絵",
+    "level": "N3",
+    "meaningKo": "그림 회",
+    "onyomi": "カイ、エ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "絵",
+        "reading": "",
+        "meaningKo": "그림"
+      }
+    ]
+  },
+  {
+    "id": "kanji-89e3",
+    "character": "解",
+    "level": "N3",
+    "meaningKo": "풀 해",
+    "onyomi": "カイ、ゲ",
+    "kunyomi": "と-く、と-かす、と-ける",
+    "examples": [
+      {
+        "word": "解く",
+        "reading": "",
+        "meaningKo": "풀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bb3",
+    "character": "害",
+    "level": "N3",
+    "meaningKo": "해할 해",
+    "onyomi": "ガイ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "害",
+        "reading": "",
+        "meaningKo": "해할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-683c",
+    "character": "格",
+    "level": "N3",
+    "meaningKo": "격식 격",
+    "onyomi": "カク（コウ）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "格",
+        "reading": "",
+        "meaningKo": "격식"
+      }
+    ]
+  },
+  {
+    "id": "kanji-899a",
+    "character": "覚",
+    "level": "N3",
+    "meaningKo": "깨달을 각",
+    "onyomi": "カク",
+    "kunyomi": "おぼ-える、さ-ます、さ-める",
+    "examples": [
+      {
+        "word": "覚える",
+        "reading": "",
+        "meaningKo": "깨달을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-78ba",
+    "character": "確",
+    "level": "N3",
+    "meaningKo": "굳을 확",
+    "onyomi": "カク",
+    "kunyomi": "たし-か、たし-かめる",
+    "examples": [
+      {
+        "word": "確か",
+        "reading": "",
+        "meaningKo": "굳을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-639b",
+    "character": "掛",
+    "level": "N3",
+    "meaningKo": "걸[懸] 괘",
+    "onyomi": "",
+    "kunyomi": "か-ける、か-かる、かかり",
+    "examples": [
+      {
+        "word": "掛ける",
+        "reading": "",
+        "meaningKo": "걸[懸]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6d3b",
+    "character": "活",
+    "level": "N3",
+    "meaningKo": "살 활",
+    "onyomi": "カツ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "活",
+        "reading": "",
+        "meaningKo": "살"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5272",
+    "character": "割",
+    "level": "N3",
+    "meaningKo": "벨 할",
+    "onyomi": "カツ",
+    "kunyomi": "わ-る、わり、わ-れる、さ-く",
+    "examples": [
+      {
+        "word": "割る",
+        "reading": "",
+        "meaningKo": "벨"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b8c",
+    "character": "完",
+    "level": "N3",
+    "meaningKo": "완전할 완",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "完",
+        "reading": "",
+        "meaningKo": "완전할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b98",
+    "character": "官",
+    "level": "N3",
+    "meaningKo": "벼슬 관",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "官",
+        "reading": "",
+        "meaningKo": "벼슬"
+      }
+    ]
+  },
+  {
+    "id": "kanji-611f",
+    "character": "感",
+    "level": "N3",
+    "meaningKo": "느낄 감",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "感",
+        "reading": "",
+        "meaningKo": "느낄"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6163",
+    "character": "慣",
+    "level": "N3",
+    "meaningKo": "익숙할 관",
+    "onyomi": "カン",
+    "kunyomi": "な-れる、な-らす",
+    "examples": [
+      {
+        "word": "慣れる",
+        "reading": "",
+        "meaningKo": "익숙할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-95a2",
+    "character": "関",
+    "level": "N3",
+    "meaningKo": "관계할 관",
+    "onyomi": "カン",
+    "kunyomi": "せき、かか-わる",
+    "examples": [
+      {
+        "word": "関わる",
+        "reading": "",
+        "meaningKo": "관계할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-89b3",
+    "character": "観",
+    "level": "N3",
+    "meaningKo": "볼 관",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "観",
+        "reading": "",
+        "meaningKo": "볼"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9858",
+    "character": "願",
+    "level": "N3",
+    "meaningKo": "원할 원",
+    "onyomi": "ガン",
+    "kunyomi": "ねが-う",
+    "examples": [
+      {
+        "word": "願う",
+        "reading": "",
+        "meaningKo": "원할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5371",
+    "character": "危",
+    "level": "N3",
+    "meaningKo": "위태할 위",
+    "onyomi": "キ",
+    "kunyomi": "あぶ-ない、あや-うい、あや-ぶむ",
+    "examples": [
+      {
+        "word": "危ない",
+        "reading": "",
+        "meaningKo": "위태할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8a18",
+    "character": "記",
+    "level": "N3",
+    "meaningKo": "기록할 기",
+    "onyomi": "キ",
+    "kunyomi": "しる-す",
+    "examples": [
+      {
+        "word": "記す",
+        "reading": "",
+        "meaningKo": "기록할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bc4",
+    "character": "寄",
+    "level": "N3",
+    "meaningKo": "부칠 기",
+    "onyomi": "キ",
+    "kunyomi": "よ-る、よ-せる",
+    "examples": [
+      {
+        "word": "寄る",
+        "reading": "",
+        "meaningKo": "부칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-898f",
+    "character": "規",
+    "level": "N3",
+    "meaningKo": "법 규",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "規",
+        "reading": "",
+        "meaningKo": "법"
+      }
+    ]
+  },
+  {
+    "id": "kanji-559c",
+    "character": "喜",
+    "level": "N3",
+    "meaningKo": "기쁠 희",
+    "onyomi": "キ",
+    "kunyomi": "よろこ-ぶ",
+    "examples": [
+      {
+        "word": "喜ぶ",
+        "reading": "",
+        "meaningKo": "기쁠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e7e",
+    "character": "幾",
+    "level": "N3",
+    "meaningKo": "몇 기",
+    "onyomi": "キ",
+    "kunyomi": "いく",
+    "examples": [
+      {
+        "word": "幾",
+        "reading": "",
+        "meaningKo": "몇"
+      }
+    ]
+  },
+  {
+    "id": "kanji-671f",
+    "character": "期",
+    "level": "N3",
+    "meaningKo": "기약할 기",
+    "onyomi": "キ（ゴ）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "期",
+        "reading": "",
+        "meaningKo": "기약할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6a5f",
+    "character": "機",
+    "level": "N3",
+    "meaningKo": "틀 기",
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "examples": [
+      {
+        "word": "機",
+        "reading": "",
+        "meaningKo": "틀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7591",
+    "character": "疑",
+    "level": "N3",
+    "meaningKo": "의심할 의",
+    "onyomi": "ギ",
+    "kunyomi": "うたが-う",
+    "examples": [
+      {
+        "word": "疑う",
+        "reading": "",
+        "meaningKo": "의심할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8b70",
+    "character": "議",
+    "level": "N3",
+    "meaningKo": "의논할 의",
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "議",
+        "reading": "",
+        "meaningKo": "의논할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5ba2",
+    "character": "客",
+    "level": "N3",
+    "meaningKo": "손 객",
+    "onyomi": "キャク、カク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "客",
+        "reading": "",
+        "meaningKo": "손"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5438",
+    "character": "吸",
+    "level": "N3",
+    "meaningKo": "마실 흡",
+    "onyomi": "キュウ",
+    "kunyomi": "す-う",
+    "examples": [
+      {
+        "word": "吸う",
+        "reading": "",
+        "meaningKo": "마실"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6c42",
+    "character": "求",
+    "level": "N3",
+    "meaningKo": "구할[索] 구",
+    "onyomi": "キュウ",
+    "kunyomi": "もと-める",
+    "examples": [
+      {
+        "word": "求める",
+        "reading": "",
+        "meaningKo": "구할[索]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7403",
+    "character": "球",
+    "level": "N3",
+    "meaningKo": "공 구",
+    "onyomi": "キュウ",
+    "kunyomi": "たま",
+    "examples": [
+      {
+        "word": "球",
+        "reading": "",
+        "meaningKo": "공"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7d66",
+    "character": "給",
+    "level": "N3",
+    "meaningKo": "줄 급",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "給",
+        "reading": "",
+        "meaningKo": "줄"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5c45",
+    "character": "居",
+    "level": "N3",
+    "meaningKo": "살 거",
+    "onyomi": "キョ",
+    "kunyomi": "い-る",
+    "examples": [
+      {
+        "word": "居る",
+        "reading": "",
+        "meaningKo": "살"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8a31",
+    "character": "許",
+    "level": "N3",
+    "meaningKo": "허락할 허",
+    "onyomi": "キョ",
+    "kunyomi": "ゆる-す",
+    "examples": [
+      {
+        "word": "許す",
+        "reading": "",
+        "meaningKo": "허락할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5fa1",
+    "character": "御",
+    "level": "N3",
+    "meaningKo": "거느릴 어",
+    "onyomi": "ギョ、ゴ",
+    "kunyomi": "おん",
+    "examples": [
+      {
+        "word": "御",
+        "reading": "",
+        "meaningKo": "거느릴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5171",
+    "character": "共",
+    "level": "N3",
+    "meaningKo": "한가지 공",
+    "onyomi": "キョウ",
+    "kunyomi": "とも",
+    "examples": [
+      {
+        "word": "共",
+        "reading": "",
+        "meaningKo": "한가지"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4f9b",
+    "character": "供",
+    "level": "N3",
+    "meaningKo": "이바지할 공",
+    "onyomi": "キョウ（ク）",
+    "kunyomi": "そな-える、とも",
+    "examples": [
+      {
+        "word": "供える",
+        "reading": "",
+        "meaningKo": "이바지할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6050",
+    "character": "恐",
+    "level": "N3",
+    "meaningKo": "두려울 공",
+    "onyomi": "キョウ",
+    "kunyomi": "おそ-れる、おそ-ろしい",
+    "examples": [
+      {
+        "word": "恐れる",
+        "reading": "",
+        "meaningKo": "두려울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-66f2",
+    "character": "曲",
+    "level": "N3",
+    "meaningKo": "굽을 곡",
+    "onyomi": "キョク",
+    "kunyomi": "ま-がる、ま-げる",
+    "examples": [
+      {
+        "word": "曲がる",
+        "reading": "",
+        "meaningKo": "굽을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5c40",
+    "character": "局",
+    "level": "N3",
+    "meaningKo": "판[形局] 국",
+    "onyomi": "キョク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "局",
+        "reading": "",
+        "meaningKo": "판[形局]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-52e4",
+    "character": "勤",
+    "level": "N3",
+    "meaningKo": "부지런할 근",
+    "onyomi": "キン（ゴン）",
+    "kunyomi": "つと-める、つと-まる",
+    "examples": [
+      {
+        "word": "勤める",
+        "reading": "",
+        "meaningKo": "부지런할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-82e6",
+    "character": "苦",
+    "level": "N3",
+    "meaningKo": "쓸[味覺] 고",
+    "onyomi": "ク",
+    "kunyomi": "くる-しい、くる-しむ、くる-しめる、にが-い、にが-る",
+    "examples": [
+      {
+        "word": "苦しい",
+        "reading": "",
+        "meaningKo": "쓸[味覺]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5177",
+    "character": "具",
+    "level": "N3",
+    "meaningKo": "갖출 구",
+    "onyomi": "グ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "具",
+        "reading": "",
+        "meaningKo": "갖출"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5076",
+    "character": "偶",
+    "level": "N3",
+    "meaningKo": "짝 우",
+    "onyomi": "グウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "偶",
+        "reading": "",
+        "meaningKo": "짝"
+      }
+    ]
+  },
+  {
+    "id": "kanji-541b",
+    "character": "君",
+    "level": "N3",
+    "meaningKo": "임금 군",
+    "onyomi": "クン",
+    "kunyomi": "きみ",
+    "examples": [
+      {
+        "word": "君",
+        "reading": "",
+        "meaningKo": "임금"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f62",
+    "character": "形",
+    "level": "N3",
+    "meaningKo": "모양 형",
+    "onyomi": "ケイ、ギョウ",
+    "kunyomi": "かた、かたち",
+    "examples": [
+      {
+        "word": "形",
+        "reading": "",
+        "meaningKo": "모양"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4fc2",
+    "character": "係",
+    "level": "N3",
+    "meaningKo": "맬 계",
+    "onyomi": "ケイ",
+    "kunyomi": "かか-る、かかり",
+    "examples": [
+      {
+        "word": "係る",
+        "reading": "",
+        "meaningKo": "맬"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7d4c",
+    "character": "経",
+    "level": "N3",
+    "meaningKo": "지날·글 경",
+    "onyomi": "ケイ、キョウ",
+    "kunyomi": "へ-る",
+    "examples": [
+      {
+        "word": "経る",
+        "reading": "",
+        "meaningKo": "지날·글"
+      }
+    ]
+  },
+  {
+    "id": "kanji-666f",
+    "character": "景",
+    "level": "N3",
+    "meaningKo": "볕 경",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "景",
+        "reading": "",
+        "meaningKo": "볕"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8b66",
+    "character": "警",
+    "level": "N3",
+    "meaningKo": "깨우칠 경",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "警",
+        "reading": "",
+        "meaningKo": "깨우칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8fce",
+    "character": "迎",
+    "level": "N3",
+    "meaningKo": "맞을 영",
+    "onyomi": "ゲイ",
+    "kunyomi": "むか-える",
+    "examples": [
+      {
+        "word": "迎える",
+        "reading": "",
+        "meaningKo": "맞을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6b20",
+    "character": "欠",
+    "level": "N3",
+    "meaningKo": "하품 흠",
+    "onyomi": "ケツ",
+    "kunyomi": "か-ける、か-く",
+    "examples": [
+      {
+        "word": "欠ける",
+        "reading": "",
+        "meaningKo": "하품"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6c7a",
+    "character": "決",
+    "level": "N3",
+    "meaningKo": "결단할 결",
+    "onyomi": "ケツ",
+    "kunyomi": "き-める、き-まる",
+    "examples": [
+      {
+        "word": "決める",
+        "reading": "",
+        "meaningKo": "결단할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4ef6",
+    "character": "件",
+    "level": "N3",
+    "meaningKo": "물건 건",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "件",
+        "reading": "",
+        "meaningKo": "물건"
+      }
+    ]
+  },
+  {
+    "id": "kanji-967a",
+    "character": "険",
+    "level": "N3",
+    "meaningKo": "험할 험",
+    "onyomi": "ケン",
+    "kunyomi": "けわ-しい",
+    "examples": [
+      {
+        "word": "険しい",
+        "reading": "",
+        "meaningKo": "험할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6a29",
+    "character": "権",
+    "level": "N3",
+    "meaningKo": "권세 권",
+    "onyomi": "ケン（ゴン）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "権",
+        "reading": "",
+        "meaningKo": "권세"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9650",
+    "character": "限",
+    "level": "N3",
+    "meaningKo": "한할 한",
+    "onyomi": "ゲン",
+    "kunyomi": "かぎ-る",
+    "examples": [
+      {
+        "word": "限る",
+        "reading": "",
+        "meaningKo": "한할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-539f",
+    "character": "原",
+    "level": "N3",
+    "meaningKo": "언덕 원",
+    "onyomi": "ゲン",
+    "kunyomi": "はら",
+    "examples": [
+      {
+        "word": "原",
+        "reading": "",
+        "meaningKo": "언덕"
+      }
+    ]
+  },
+  {
+    "id": "kanji-73fe",
+    "character": "現",
+    "level": "N3",
+    "meaningKo": "나타날 현",
+    "onyomi": "ゲン",
+    "kunyomi": "あらわ-れる、あらわ-す",
+    "examples": [
+      {
+        "word": "現れる",
+        "reading": "",
+        "meaningKo": "나타날"
+      }
+    ]
+  },
+  {
+    "id": "kanji-547c",
+    "character": "呼",
+    "level": "N3",
+    "meaningKo": "부를 호",
+    "onyomi": "コ",
+    "kunyomi": "よ-ぶ",
+    "examples": [
+      {
+        "word": "呼ぶ",
+        "reading": "",
+        "meaningKo": "부를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e92",
+    "character": "互",
+    "level": "N3",
+    "meaningKo": "서로 호",
+    "onyomi": "ゴ",
+    "kunyomi": "たが-い",
+    "examples": [
+      {
+        "word": "互い",
+        "reading": "",
+        "meaningKo": "서로"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8aa4",
+    "character": "誤",
+    "level": "N3",
+    "meaningKo": "그르칠 오",
+    "onyomi": "ゴ",
+    "kunyomi": "あやま-る",
+    "examples": [
+      {
+        "word": "誤る",
+        "reading": "",
+        "meaningKo": "그르칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4ea4",
+    "character": "交",
+    "level": "N3",
+    "meaningKo": "사귈 교",
+    "onyomi": "コウ",
+    "kunyomi": "まじ-わる、まじ-える、ま-じる、ま-ざる、ま-ぜる、か-う、か-わす",
+    "examples": [
+      {
+        "word": "交わる",
+        "reading": "",
+        "meaningKo": "사귈"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5411",
+    "character": "向",
+    "level": "N3",
+    "meaningKo": "향할 향",
+    "onyomi": "コウ",
+    "kunyomi": "む-く、む-ける、む-かう、む-こう",
+    "examples": [
+      {
+        "word": "向く",
+        "reading": "",
+        "meaningKo": "향할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-66f4",
+    "character": "更",
+    "level": "N3",
+    "meaningKo": "고칠 경, 다시 갱",
+    "onyomi": "コウ",
+    "kunyomi": "さら、ふ-ける、ふ-かす",
+    "examples": [
+      {
+        "word": "更ける",
+        "reading": "",
+        "meaningKo": "고칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e78",
+    "character": "幸",
+    "level": "N3",
+    "meaningKo": "다행 행",
+    "onyomi": "コウ",
+    "kunyomi": "さいわ-い、さち、しあわ-せ",
+    "examples": [
+      {
+        "word": "幸い",
+        "reading": "",
+        "meaningKo": "다행"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5019",
+    "character": "候",
+    "level": "N3",
+    "meaningKo": "기후 후",
+    "onyomi": "コウ",
+    "kunyomi": "そうろう",
+    "examples": [
+      {
+        "word": "候",
+        "reading": "",
+        "meaningKo": "기후"
+      }
+    ]
+  },
+  {
+    "id": "kanji-964d",
+    "character": "降",
+    "level": "N3",
+    "meaningKo": "내릴 강, 항복할 항",
+    "onyomi": "コウ",
+    "kunyomi": "お-りる、お-ろす、ふ-る",
+    "examples": [
+      {
+        "word": "降りる",
+        "reading": "",
+        "meaningKo": "내릴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6e2f",
+    "character": "港",
+    "level": "N3",
+    "meaningKo": "항구 항",
+    "onyomi": "コウ",
+    "kunyomi": "みなと",
+    "examples": [
+      {
+        "word": "港",
+        "reading": "",
+        "meaningKo": "항구"
+      }
+    ]
+  },
+  {
+    "id": "kanji-69cb",
+    "character": "構",
+    "level": "N3",
+    "meaningKo": "얽을 구",
+    "onyomi": "コウ",
+    "kunyomi": "かま-える、かま-う",
+    "examples": [
+      {
+        "word": "構える",
+        "reading": "",
+        "meaningKo": "얽을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53f7",
+    "character": "号",
+    "level": "N3",
+    "meaningKo": "이름 호",
+    "onyomi": "ゴウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "号",
+        "reading": "",
+        "meaningKo": "이름"
+      }
+    ]
+  },
+  {
+    "id": "kanji-544a",
+    "character": "告",
+    "level": "N3",
+    "meaningKo": "고할 고",
+    "onyomi": "コク",
+    "kunyomi": "つ-げる",
+    "examples": [
+      {
+        "word": "告げる",
+        "reading": "",
+        "meaningKo": "고할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-523b",
+    "character": "刻",
+    "level": "N3",
+    "meaningKo": "새길 각",
+    "onyomi": "コク",
+    "kunyomi": "きざ-む",
+    "examples": [
+      {
+        "word": "刻む",
+        "reading": "",
+        "meaningKo": "새길"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8fbc",
+    "character": "込",
+    "level": "N3",
+    "meaningKo": "붐비다, 안으로 들어가다",
+    "onyomi": "",
+    "kunyomi": "こ-む、こ-める",
+    "examples": [
+      {
+        "word": "込む",
+        "reading": "",
+        "meaningKo": "붐비다"
+      }
+    ]
+  },
+  {
+    "id": "kanji-56f0",
+    "character": "困",
+    "level": "N3",
+    "meaningKo": "곤할 곤",
+    "onyomi": "コン",
+    "kunyomi": "こま-る",
+    "examples": [
+      {
+        "word": "困る",
+        "reading": "",
+        "meaningKo": "곤할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5a5a",
+    "character": "婚",
+    "level": "N3",
+    "meaningKo": "혼인할 혼",
+    "onyomi": "コン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "婚",
+        "reading": "",
+        "meaningKo": "혼인할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5dee",
+    "character": "差",
+    "level": "N3",
+    "meaningKo": "다를 차",
+    "onyomi": "サ",
+    "kunyomi": "さ-す",
+    "examples": [
+      {
+        "word": "差す",
+        "reading": "",
+        "meaningKo": "다를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5ea7",
+    "character": "座",
+    "level": "N3",
+    "meaningKo": "자리 좌",
+    "onyomi": "ザ",
+    "kunyomi": "すわ-る",
+    "examples": [
+      {
+        "word": "座る",
+        "reading": "",
+        "meaningKo": "자리"
+      }
+    ]
+  },
+  {
+    "id": "kanji-624d",
+    "character": "才",
+    "level": "N3",
+    "meaningKo": "재주 재",
+    "onyomi": "サイ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "才",
+        "reading": "",
+        "meaningKo": "재주"
+      }
+    ]
+  },
+  {
+    "id": "kanji-59bb",
+    "character": "妻",
+    "level": "N3",
+    "meaningKo": "아내 처",
+    "onyomi": "サイ",
+    "kunyomi": "つま",
+    "examples": [
+      {
+        "word": "妻",
+        "reading": "",
+        "meaningKo": "아내"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6e08",
+    "character": "済",
+    "level": "N3",
+    "meaningKo": "건널 제",
+    "onyomi": "サイ",
+    "kunyomi": "す-む、す-ます",
+    "examples": [
+      {
+        "word": "済む",
+        "reading": "",
+        "meaningKo": "건널"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6700",
+    "character": "最",
+    "level": "N3",
+    "meaningKo": "가장 최",
+    "onyomi": "サイ",
+    "kunyomi": "もっと-も",
+    "examples": [
+      {
+        "word": "最も",
+        "reading": "",
+        "meaningKo": "가장"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6b73",
+    "character": "歳",
+    "level": "N3",
+    "meaningKo": "해, 나이",
+    "onyomi": "サイ（セイ）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "歳",
+        "reading": "",
+        "meaningKo": "해"
+      }
+    ]
+  },
+  {
+    "id": "kanji-969b",
+    "character": "際",
+    "level": "N3",
+    "meaningKo": "즈음·가[邊] 제",
+    "onyomi": "サイ",
+    "kunyomi": "きわ",
+    "examples": [
+      {
+        "word": "際",
+        "reading": "",
+        "meaningKo": "즈음·가[邊]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5728",
+    "character": "在",
+    "level": "N3",
+    "meaningKo": "있을 재",
+    "onyomi": "ザイ",
+    "kunyomi": "あ-る",
+    "examples": [
+      {
+        "word": "在る",
+        "reading": "",
+        "meaningKo": "있을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8ca1",
+    "character": "財",
+    "level": "N3",
+    "meaningKo": "재물 재",
+    "onyomi": "ザイ（サイ）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "財",
+        "reading": "",
+        "meaningKo": "재물"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7f6a",
+    "character": "罪",
+    "level": "N3",
+    "meaningKo": "허물 죄",
+    "onyomi": "ザイ",
+    "kunyomi": "つみ",
+    "examples": [
+      {
+        "word": "罪",
+        "reading": "",
+        "meaningKo": "허물"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6628",
+    "character": "昨",
+    "level": "N3",
+    "meaningKo": "어제 작",
+    "onyomi": "サク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "昨",
+        "reading": "",
+        "meaningKo": "어제"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6bba",
+    "character": "殺",
+    "level": "N3",
+    "meaningKo": "죽일 살, 감할·빠를 쇄",
+    "onyomi": "サツ（サイ）（セツ）",
+    "kunyomi": "ころ-す",
+    "examples": [
+      {
+        "word": "殺す",
+        "reading": "",
+        "meaningKo": "죽일"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bdf",
+    "character": "察",
+    "level": "N3",
+    "meaningKo": "살필 찰",
+    "onyomi": "サツ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "察",
+        "reading": "",
+        "meaningKo": "살필"
+      }
+    ]
+  },
+  {
+    "id": "kanji-96d1",
+    "character": "雑",
+    "level": "N3",
+    "meaningKo": "섞일 잡",
+    "onyomi": "ザツ、ゾウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "雑",
+        "reading": "",
+        "meaningKo": "섞일"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53c2",
+    "character": "参",
+    "level": "N3",
+    "meaningKo": "참여할 참",
+    "onyomi": "サン",
+    "kunyomi": "まい-る",
+    "examples": [
+      {
+        "word": "参る",
+        "reading": "",
+        "meaningKo": "참여할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6563",
+    "character": "散",
+    "level": "N3",
+    "meaningKo": "흩을 산",
+    "onyomi": "サン",
+    "kunyomi": "ち-る、ち-らす、ち-らかす、ち-らかる",
+    "examples": [
+      {
+        "word": "散る",
+        "reading": "",
+        "meaningKo": "흩을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8cdb",
+    "character": "賛",
+    "level": "N3",
+    "meaningKo": "도울 찬",
+    "onyomi": "サン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "賛",
+        "reading": "",
+        "meaningKo": "도울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6b8b",
+    "character": "残",
+    "level": "N3",
+    "meaningKo": "남을 잔",
+    "onyomi": "ザン",
+    "kunyomi": "のこ-る、のこ-す",
+    "examples": [
+      {
+        "word": "残る",
+        "reading": "",
+        "meaningKo": "남을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-652f",
+    "character": "支",
+    "level": "N3",
+    "meaningKo": "지탱할 지",
+    "onyomi": "シ",
+    "kunyomi": "ささ-える",
+    "examples": [
+      {
+        "word": "支える",
+        "reading": "",
+        "meaningKo": "지탱할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6307",
+    "character": "指",
+    "level": "N3",
+    "meaningKo": "가리킬 지",
+    "onyomi": "シ",
+    "kunyomi": "ゆび、さ-す",
+    "examples": [
+      {
+        "word": "指す",
+        "reading": "",
+        "meaningKo": "가리킬"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e2b",
+    "character": "師",
+    "level": "N3",
+    "meaningKo": "스승 사",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "師",
+        "reading": "",
+        "meaningKo": "스승"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6b6f",
+    "character": "歯",
+    "level": "N3",
+    "meaningKo": "이 치",
+    "onyomi": "シ",
+    "kunyomi": "は",
+    "examples": [
+      {
+        "word": "歯",
+        "reading": "",
+        "meaningKo": "이"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8cc7",
+    "character": "資",
+    "level": "N3",
+    "meaningKo": "재물 자",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "資",
+        "reading": "",
+        "meaningKo": "재물"
+      }
+    ]
+  },
+  {
+    "id": "kanji-793a",
+    "character": "示",
+    "level": "N3",
+    "meaningKo": "보일 시",
+    "onyomi": "ジ、シ",
+    "kunyomi": "しめ-す",
+    "examples": [
+      {
+        "word": "示す",
+        "reading": "",
+        "meaningKo": "보일"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6b21",
+    "character": "次",
+    "level": "N3",
+    "meaningKo": "버금 차",
+    "onyomi": "ジ、シ",
+    "kunyomi": "つ-ぐ、つぎ",
+    "examples": [
+      {
+        "word": "次ぐ",
+        "reading": "",
+        "meaningKo": "버금"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4f3c",
+    "character": "似",
+    "level": "N3",
+    "meaningKo": "닮을 사",
+    "onyomi": "ジ",
+    "kunyomi": "に-る",
+    "examples": [
+      {
+        "word": "似る",
+        "reading": "",
+        "meaningKo": "닮을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6cbb",
+    "character": "治",
+    "level": "N3",
+    "meaningKo": "다스릴 치",
+    "onyomi": "ジ、チ",
+    "kunyomi": "おさ-める、おさ-まる、なお-る、なお-す",
+    "examples": [
+      {
+        "word": "治める",
+        "reading": "",
+        "meaningKo": "다스릴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8f9e",
+    "character": "辞",
+    "level": "N3",
+    "meaningKo": "말씀 사",
+    "onyomi": "ジ",
+    "kunyomi": "や-める",
+    "examples": [
+      {
+        "word": "辞める",
+        "reading": "",
+        "meaningKo": "말씀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f0f",
+    "character": "式",
+    "level": "N3",
+    "meaningKo": "법 식",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "式",
+        "reading": "",
+        "meaningKo": "법"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8b58",
+    "character": "識",
+    "level": "N3",
+    "meaningKo": "알 식",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "識",
+        "reading": "",
+        "meaningKo": "알"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5931",
+    "character": "失",
+    "level": "N3",
+    "meaningKo": "잃을 실",
+    "onyomi": "シツ",
+    "kunyomi": "うしな-う",
+    "examples": [
+      {
+        "word": "失う",
+        "reading": "",
+        "meaningKo": "잃을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b9f",
+    "character": "実",
+    "level": "N3",
+    "meaningKo": "열매 실",
+    "onyomi": "ジツ",
+    "kunyomi": "み、みの-る",
+    "examples": [
+      {
+        "word": "実る",
+        "reading": "",
+        "meaningKo": "열매"
+      }
+    ]
+  },
+  {
+    "id": "kanji-82e5",
+    "character": "若",
+    "level": "N3",
+    "meaningKo": "같을 약, 반야 야",
+    "onyomi": "ジャク（ニャク）",
+    "kunyomi": "わか-い、も-しくは",
+    "examples": [
+      {
+        "word": "若い",
+        "reading": "",
+        "meaningKo": "같을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b88",
+    "character": "守",
+    "level": "N3",
+    "meaningKo": "지킬 수",
+    "onyomi": "シュ（ス）",
+    "kunyomi": "まも-る、も-り",
+    "examples": [
+      {
+        "word": "守る",
+        "reading": "",
+        "meaningKo": "지킬"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53d6",
+    "character": "取",
+    "level": "N3",
+    "meaningKo": "가질 취",
+    "onyomi": "シュ",
+    "kunyomi": "と-る",
+    "examples": [
+      {
+        "word": "取る",
+        "reading": "",
+        "meaningKo": "가질"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9152",
+    "character": "酒",
+    "level": "N3",
+    "meaningKo": "술 주",
+    "onyomi": "シュ",
+    "kunyomi": "さけ（さか）",
+    "examples": [
+      {
+        "word": "酒",
+        "reading": "",
+        "meaningKo": "술"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7a2e",
+    "character": "種",
+    "level": "N3",
+    "meaningKo": "씨 종",
+    "onyomi": "シュ",
+    "kunyomi": "たね",
+    "examples": [
+      {
+        "word": "種",
+        "reading": "",
+        "meaningKo": "씨"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53d7",
+    "character": "受",
+    "level": "N3",
+    "meaningKo": "받을 수",
+    "onyomi": "ジュ",
+    "kunyomi": "う-ける、う-かる",
+    "examples": [
+      {
+        "word": "受ける",
+        "reading": "",
+        "meaningKo": "받을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53ce",
+    "character": "収",
+    "level": "N3",
+    "meaningKo": "거둘 수",
+    "onyomi": "シュウ",
+    "kunyomi": "おさ-める、おさ-まる",
+    "examples": [
+      {
+        "word": "収める",
+        "reading": "",
+        "meaningKo": "거둘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bbf",
+    "character": "宿",
+    "level": "N3",
+    "meaningKo": "잘 숙, 별자리 수",
+    "onyomi": "シュク",
+    "kunyomi": "やど、やど-る、やど-す",
+    "examples": [
+      {
+        "word": "宿る",
+        "reading": "",
+        "meaningKo": "잘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8853",
+    "character": "術",
+    "level": "N3",
+    "meaningKo": "재주 술",
+    "onyomi": "ジュツ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "術",
+        "reading": "",
+        "meaningKo": "재주"
+      }
+    ]
+  },
+  {
+    "id": "kanji-51e6",
+    "character": "処",
+    "level": "N3",
+    "meaningKo": "곳 처",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "処",
+        "reading": "",
+        "meaningKo": "곳"
+      }
+    ]
+  },
+  {
+    "id": "kanji-521d",
+    "character": "初",
+    "level": "N3",
+    "meaningKo": "처음 초",
+    "onyomi": "ショ",
+    "kunyomi": "はじ-め、はじ-めて、はつ、うい、そ-める",
+    "examples": [
+      {
+        "word": "初め",
+        "reading": "",
+        "meaningKo": "처음"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7dd2",
+    "character": "緒",
+    "level": "N3",
+    "meaningKo": "실마리 서",
+    "onyomi": "ショ（チョ）",
+    "kunyomi": "お",
+    "examples": [
+      {
+        "word": "緒",
+        "reading": "",
+        "meaningKo": "실마리"
+      }
+    ]
+  },
+  {
+    "id": "kanji-52a9",
+    "character": "助",
+    "level": "N3",
+    "meaningKo": "도울 조",
+    "onyomi": "ジョ",
+    "kunyomi": "たす-ける、たす-かる、すけ",
+    "examples": [
+      {
+        "word": "助ける",
+        "reading": "",
+        "meaningKo": "도울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9664",
+    "character": "除",
+    "level": "N3",
+    "meaningKo": "덜 제",
+    "onyomi": "ジョ（ジ）",
+    "kunyomi": "のぞ-く",
+    "examples": [
+      {
+        "word": "除く",
+        "reading": "",
+        "meaningKo": "덜"
+      }
+    ]
+  },
+  {
+    "id": "kanji-62db",
+    "character": "招",
+    "level": "N3",
+    "meaningKo": "부를 초",
+    "onyomi": "ショウ",
+    "kunyomi": "まね-く",
+    "examples": [
+      {
+        "word": "招く",
+        "reading": "",
+        "meaningKo": "부를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6d88",
+    "character": "消",
+    "level": "N3",
+    "meaningKo": "사라질 소",
+    "onyomi": "ショウ",
+    "kunyomi": "き-える、け-す",
+    "examples": [
+      {
+        "word": "消える",
+        "reading": "",
+        "meaningKo": "사라질"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7b11",
+    "character": "笑",
+    "level": "N3",
+    "meaningKo": "웃음 소",
+    "onyomi": "ショウ",
+    "kunyomi": "わら-う、え-む",
+    "examples": [
+      {
+        "word": "笑う",
+        "reading": "",
+        "meaningKo": "웃음"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5546",
+    "character": "商",
+    "level": "N3",
+    "meaningKo": "장사 상",
+    "onyomi": "ショウ",
+    "kunyomi": "あきな-う",
+    "examples": [
+      {
+        "word": "商う",
+        "reading": "",
+        "meaningKo": "장사"
+      }
+    ]
+  },
+  {
+    "id": "kanji-52dd",
+    "character": "勝",
+    "level": "N3",
+    "meaningKo": "이길 승",
+    "onyomi": "ショウ",
+    "kunyomi": "か-つ、まさ-る",
+    "examples": [
+      {
+        "word": "勝つ",
+        "reading": "",
+        "meaningKo": "이길"
+      }
+    ]
+  },
+  {
+    "id": "kanji-72b6",
+    "character": "状",
+    "level": "N3",
+    "meaningKo": "형상 상, 문서 장",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "状",
+        "reading": "",
+        "meaningKo": "형상"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e38",
+    "character": "常",
+    "level": "N3",
+    "meaningKo": "떳떳할 상",
+    "onyomi": "ジョウ",
+    "kunyomi": "つね、とこ",
+    "examples": [
+      {
+        "word": "常",
+        "reading": "",
+        "meaningKo": "떳떳할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-60c5",
+    "character": "情",
+    "level": "N3",
+    "meaningKo": "뜻 정",
+    "onyomi": "ジョウ（セイ）",
+    "kunyomi": "なさ-け",
+    "examples": [
+      {
+        "word": "情け",
+        "reading": "",
+        "meaningKo": "뜻"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8077",
+    "character": "職",
+    "level": "N3",
+    "meaningKo": "직분 직",
+    "onyomi": "ショク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "職",
+        "reading": "",
+        "meaningKo": "직분"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7533",
+    "character": "申",
+    "level": "N3",
+    "meaningKo": "납[猿] 신",
+    "onyomi": "シン",
+    "kunyomi": "もう-す",
+    "examples": [
+      {
+        "word": "申す",
+        "reading": "",
+        "meaningKo": "납[猿]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4fe1",
+    "character": "信",
+    "level": "N3",
+    "meaningKo": "믿을 신",
+    "onyomi": "シン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "信",
+        "reading": "",
+        "meaningKo": "믿을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-795e",
+    "character": "神",
+    "level": "N3",
+    "meaningKo": "귀신 신",
+    "onyomi": "シン、ジン",
+    "kunyomi": "かみ（かん）（こう）",
+    "examples": [
+      {
+        "word": "神",
+        "reading": "",
+        "meaningKo": "귀신"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6df1",
+    "character": "深",
+    "level": "N3",
+    "meaningKo": "깊을 심",
+    "onyomi": "シン",
+    "kunyomi": "ふか-い、ふか-まる、ふか-める",
+    "examples": [
+      {
+        "word": "深い",
+        "reading": "",
+        "meaningKo": "깊을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bdd",
+    "character": "寝",
+    "level": "N3",
+    "meaningKo": "잘 침",
+    "onyomi": "シン",
+    "kunyomi": "ね-る、ね-かす",
+    "examples": [
+      {
+        "word": "寝る",
+        "reading": "",
+        "meaningKo": "잘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5439",
+    "character": "吹",
+    "level": "N3",
+    "meaningKo": "불 취",
+    "onyomi": "スイ",
+    "kunyomi": "ふ-く",
+    "examples": [
+      {
+        "word": "吹く",
+        "reading": "",
+        "meaningKo": "불"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6570",
+    "character": "数",
+    "level": "N3",
+    "meaningKo": "셈 수",
+    "onyomi": "スウ（ス）",
+    "kunyomi": "かず、かぞ-える",
+    "examples": [
+      {
+        "word": "数える",
+        "reading": "",
+        "meaningKo": "셈"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6210",
+    "character": "成",
+    "level": "N3",
+    "meaningKo": "이룰 성",
+    "onyomi": "セイ（ジョウ）",
+    "kunyomi": "な-る、な-す",
+    "examples": [
+      {
+        "word": "成る",
+        "reading": "",
+        "meaningKo": "이룰"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5236",
+    "character": "制",
+    "level": "N3",
+    "meaningKo": "절제할 제",
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "制",
+        "reading": "",
+        "meaningKo": "절제할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6027",
+    "character": "性",
+    "level": "N3",
+    "meaningKo": "성품 성",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "性",
+        "reading": "",
+        "meaningKo": "성품"
+      }
+    ]
+  },
+  {
+    "id": "kanji-653f",
+    "character": "政",
+    "level": "N3",
+    "meaningKo": "정사(政事) 정",
+    "onyomi": "セイ（ショウ）",
+    "kunyomi": "まつりごと",
+    "examples": [
+      {
+        "word": "政",
+        "reading": "",
+        "meaningKo": "정사(政事)"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6674",
+    "character": "晴",
+    "level": "N3",
+    "meaningKo": "갤 청",
+    "onyomi": "セイ",
+    "kunyomi": "は-れる、は-らす",
+    "examples": [
+      {
+        "word": "晴れる",
+        "reading": "",
+        "meaningKo": "갤"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7cbe",
+    "character": "精",
+    "level": "N3",
+    "meaningKo": "정할 정",
+    "onyomi": "セイ（ショウ）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "精",
+        "reading": "",
+        "meaningKo": "정할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9759",
+    "character": "静",
+    "level": "N3",
+    "meaningKo": "고요할 정",
+    "onyomi": "セイ（ジョウ）",
+    "kunyomi": "しず、しず-か、しず-まる、しず-める",
+    "examples": [
+      {
+        "word": "静か",
+        "reading": "",
+        "meaningKo": "고요할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-77f3",
+    "character": "石",
+    "level": "N3",
+    "meaningKo": "돌 석",
+    "onyomi": "セキ（シャク）（コク）",
+    "kunyomi": "いし",
+    "examples": [
+      {
+        "word": "石",
+        "reading": "",
+        "meaningKo": "돌"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6614",
+    "character": "昔",
+    "level": "N3",
+    "meaningKo": "예[古] 석",
+    "onyomi": "セキ（シャク）",
+    "kunyomi": "むかし",
+    "examples": [
+      {
+        "word": "昔",
+        "reading": "",
+        "meaningKo": "예[古]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e2d",
+    "character": "席",
+    "level": "N3",
+    "meaningKo": "자리 석",
+    "onyomi": "セキ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "席",
+        "reading": "",
+        "meaningKo": "자리"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8cac",
+    "character": "責",
+    "level": "N3",
+    "meaningKo": "꾸짖을 책",
+    "onyomi": "セキ",
+    "kunyomi": "せ-める",
+    "examples": [
+      {
+        "word": "責める",
+        "reading": "",
+        "meaningKo": "꾸짖을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7a4d",
+    "character": "積",
+    "level": "N3",
+    "meaningKo": "쌓을 적",
+    "onyomi": "セキ",
+    "kunyomi": "つ-む、つ-もる",
+    "examples": [
+      {
+        "word": "積む",
+        "reading": "",
+        "meaningKo": "쌓을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6298",
+    "character": "折",
+    "level": "N3",
+    "meaningKo": "꺾을 절",
+    "onyomi": "セツ",
+    "kunyomi": "お-る、おり、お-れる",
+    "examples": [
+      {
+        "word": "折る",
+        "reading": "",
+        "meaningKo": "꺾을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-96ea",
+    "character": "雪",
+    "level": "N3",
+    "meaningKo": "눈 설",
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "examples": [
+      {
+        "word": "雪",
+        "reading": "",
+        "meaningKo": "눈"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7d76",
+    "character": "絶",
+    "level": "N3",
+    "meaningKo": "끊을 절",
+    "onyomi": "ゼツ",
+    "kunyomi": "た-える、た-やす、た-つ",
+    "examples": [
+      {
+        "word": "絶える",
+        "reading": "",
+        "meaningKo": "끊을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8239",
+    "character": "船",
+    "level": "N3",
+    "meaningKo": "배 선",
+    "onyomi": "セン",
+    "kunyomi": "ふね（ふな）",
+    "examples": [
+      {
+        "word": "船",
+        "reading": "",
+        "meaningKo": "배"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6226",
+    "character": "戦",
+    "level": "N3",
+    "meaningKo": "싸움 전",
+    "onyomi": "セン",
+    "kunyomi": "いくさ、たたか-う",
+    "examples": [
+      {
+        "word": "戦う",
+        "reading": "",
+        "meaningKo": "싸움"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9078",
+    "character": "選",
+    "level": "N3",
+    "meaningKo": "가릴 선",
+    "onyomi": "セン",
+    "kunyomi": "えら-ぶ",
+    "examples": [
+      {
+        "word": "選ぶ",
+        "reading": "",
+        "meaningKo": "가릴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5168",
+    "character": "全",
+    "level": "N3",
+    "meaningKo": "온전 전",
+    "onyomi": "ゼン",
+    "kunyomi": "まった-く、すべ-て",
+    "examples": [
+      {
+        "word": "全く",
+        "reading": "",
+        "meaningKo": "온전"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7136",
+    "character": "然",
+    "level": "N3",
+    "meaningKo": "그럴 연",
+    "onyomi": "ゼン、ネン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "然",
+        "reading": "",
+        "meaningKo": "그럴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7956",
+    "character": "祖",
+    "level": "N3",
+    "meaningKo": "할아비 조",
+    "onyomi": "ソ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "祖",
+        "reading": "",
+        "meaningKo": "할아비"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7d44",
+    "character": "組",
+    "level": "N3",
+    "meaningKo": "짤 조",
+    "onyomi": "ソ",
+    "kunyomi": "く-む、くみ",
+    "examples": [
+      {
+        "word": "組む",
+        "reading": "",
+        "meaningKo": "짤"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e89",
+    "character": "争",
+    "level": "N3",
+    "meaningKo": "다툴 쟁",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそ-う",
+    "examples": [
+      {
+        "word": "争う",
+        "reading": "",
+        "meaningKo": "다툴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-76f8",
+    "character": "相",
+    "level": "N3",
+    "meaningKo": "서로 상",
+    "onyomi": "ソウ、ショウ",
+    "kunyomi": "あい",
+    "examples": [
+      {
+        "word": "相",
+        "reading": "",
+        "meaningKo": "서로"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8349",
+    "character": "草",
+    "level": "N3",
+    "meaningKo": "풀 초",
+    "onyomi": "ソウ",
+    "kunyomi": "くさ",
+    "examples": [
+      {
+        "word": "草",
+        "reading": "",
+        "meaningKo": "풀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7a93",
+    "character": "窓",
+    "level": "N3",
+    "meaningKo": "창 창",
+    "onyomi": "ソウ",
+    "kunyomi": "まど",
+    "examples": [
+      {
+        "word": "窓",
+        "reading": "",
+        "meaningKo": "창"
+      }
+    ]
+  },
+  {
+    "id": "kanji-60f3",
+    "character": "想",
+    "level": "N3",
+    "meaningKo": "생각 상",
+    "onyomi": "ソウ（ソ）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "想",
+        "reading": "",
+        "meaningKo": "생각"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5897",
+    "character": "増",
+    "level": "N3",
+    "meaningKo": "더할 증",
+    "onyomi": "ゾウ",
+    "kunyomi": "ま-す、ふ-える、ふ-やす",
+    "examples": [
+      {
+        "word": "増す",
+        "reading": "",
+        "meaningKo": "더할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-675f",
+    "character": "束",
+    "level": "N3",
+    "meaningKo": "묶을 속",
+    "onyomi": "ソク",
+    "kunyomi": "たば",
+    "examples": [
+      {
+        "word": "束",
+        "reading": "",
+        "meaningKo": "묶을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-606f",
+    "character": "息",
+    "level": "N3",
+    "meaningKo": "쉴 식",
+    "onyomi": "ソク",
+    "kunyomi": "いき",
+    "examples": [
+      {
+        "word": "息",
+        "reading": "",
+        "meaningKo": "쉴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-901f",
+    "character": "速",
+    "level": "N3",
+    "meaningKo": "빠를 속",
+    "onyomi": "ソク",
+    "kunyomi": "はや-い、はや-める、はや-まる、すみ-やか",
+    "examples": [
+      {
+        "word": "速い",
+        "reading": "",
+        "meaningKo": "빠를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5074",
+    "character": "側",
+    "level": "N3",
+    "meaningKo": "곁 측",
+    "onyomi": "ソク",
+    "kunyomi": "がわ",
+    "examples": [
+      {
+        "word": "側",
+        "reading": "",
+        "meaningKo": "곁"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7d9a",
+    "character": "続",
+    "level": "N3",
+    "meaningKo": "이을 속",
+    "onyomi": "ゾク",
+    "kunyomi": "つづ-く、つづ-ける",
+    "examples": [
+      {
+        "word": "続く",
+        "reading": "",
+        "meaningKo": "이을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b58",
+    "character": "存",
+    "level": "N3",
+    "meaningKo": "있을 존",
+    "onyomi": "ソン、ゾン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "存",
+        "reading": "",
+        "meaningKo": "있을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4ed6",
+    "character": "他",
+    "level": "N3",
+    "meaningKo": "다를 타",
+    "onyomi": "タ",
+    "kunyomi": "ほか",
+    "examples": [
+      {
+        "word": "他",
+        "reading": "",
+        "meaningKo": "다를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6253",
+    "character": "打",
+    "level": "N3",
+    "meaningKo": "칠 타",
+    "onyomi": "ダ",
+    "kunyomi": "う-つ",
+    "examples": [
+      {
+        "word": "打つ",
+        "reading": "",
+        "meaningKo": "칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bfe",
+    "character": "対",
+    "level": "N3",
+    "meaningKo": "대할 대",
+    "onyomi": "タイ、ツイ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "対",
+        "reading": "",
+        "meaningKo": "대할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9000",
+    "character": "退",
+    "level": "N3",
+    "meaningKo": "물러날 퇴",
+    "onyomi": "タイ",
+    "kunyomi": "しりぞ-く、しりぞ-ける",
+    "examples": [
+      {
+        "word": "退く",
+        "reading": "",
+        "meaningKo": "물러날"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b85",
+    "character": "宅",
+    "level": "N3",
+    "meaningKo": "집",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "宅",
+        "reading": "",
+        "meaningKo": "집"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9054",
+    "character": "達",
+    "level": "N3",
+    "meaningKo": "통달할 달",
+    "onyomi": "タツ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "達",
+        "reading": "",
+        "meaningKo": "통달할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5358",
+    "character": "単",
+    "level": "N3",
+    "meaningKo": "홑 단",
+    "onyomi": "タン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "単",
+        "reading": "",
+        "meaningKo": "홑"
+      }
+    ]
+  },
+  {
+    "id": "kanji-63a2",
+    "character": "探",
+    "level": "N3",
+    "meaningKo": "찾을 탐",
+    "onyomi": "タン",
+    "kunyomi": "さぐ-る、さが-す",
+    "examples": [
+      {
+        "word": "探る",
+        "reading": "",
+        "meaningKo": "찾을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6bb5",
+    "character": "段",
+    "level": "N3",
+    "meaningKo": "층계 단",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "段",
+        "reading": "",
+        "meaningKo": "층계"
+      }
+    ]
+  },
+  {
+    "id": "kanji-65ad",
+    "character": "断",
+    "level": "N3",
+    "meaningKo": "끊을 단",
+    "onyomi": "ダン",
+    "kunyomi": "た-つ、ことわ-る",
+    "examples": [
+      {
+        "word": "断つ",
+        "reading": "",
+        "meaningKo": "끊을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8ac7",
+    "character": "談",
+    "level": "N3",
+    "meaningKo": "말씀 담",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "談",
+        "reading": "",
+        "meaningKo": "말씀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5024",
+    "character": "値",
+    "level": "N3",
+    "meaningKo": "값 치",
+    "onyomi": "チ",
+    "kunyomi": "ね、あたい",
+    "examples": [
+      {
+        "word": "値",
+        "reading": "",
+        "meaningKo": "값"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6065",
+    "character": "恥",
+    "level": "N3",
+    "meaningKo": "부끄러울 치",
+    "onyomi": "チ",
+    "kunyomi": "は-じる、はじ、は-じらう、は-ずかしい",
+    "examples": [
+      {
+        "word": "恥じる",
+        "reading": "",
+        "meaningKo": "부끄러울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9045",
+    "character": "遅",
+    "level": "N3",
+    "meaningKo": "더딜·늦을 지",
+    "onyomi": "チ",
+    "kunyomi": "おく-れる、おく-らす、おそ-い",
+    "examples": [
+      {
+        "word": "遅れる",
+        "reading": "",
+        "meaningKo": "더딜·늦을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7f6e",
+    "character": "置",
+    "level": "N3",
+    "meaningKo": "둘[措] 치",
+    "onyomi": "チ",
+    "kunyomi": "お-く",
+    "examples": [
+      {
+        "word": "置く",
+        "reading": "",
+        "meaningKo": "둘[措]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9802",
+    "character": "頂",
+    "level": "N3",
+    "meaningKo": "정수리 정",
+    "onyomi": "チョウ",
+    "kunyomi": "いただ-く、いただき",
+    "examples": [
+      {
+        "word": "頂く",
+        "reading": "",
+        "meaningKo": "정수리"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8abf",
+    "character": "調",
+    "level": "N3",
+    "meaningKo": "고를 조",
+    "onyomi": "チョウ",
+    "kunyomi": "しら-べる、ととの-う、ととの-える",
+    "examples": [
+      {
+        "word": "調べる",
+        "reading": "",
+        "meaningKo": "고를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-76f4",
+    "character": "直",
+    "level": "N3",
+    "meaningKo": "곧을 직",
+    "onyomi": "チョク、ジキ",
+    "kunyomi": "ただ-ちに、なお-す、なお-る",
+    "examples": [
+      {
+        "word": "直ちに",
+        "reading": "",
+        "meaningKo": "곧을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8ffd",
+    "character": "追",
+    "level": "N3",
+    "meaningKo": "쫓을·따를 추",
+    "onyomi": "ツイ",
+    "kunyomi": "お-う",
+    "examples": [
+      {
+        "word": "追う",
+        "reading": "",
+        "meaningKo": "쫓을·따를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-75db",
+    "character": "痛",
+    "level": "N3",
+    "meaningKo": "아플 통",
+    "onyomi": "ツウ",
+    "kunyomi": "いた-い、いた-む、いた-める",
+    "examples": [
+      {
+        "word": "痛い",
+        "reading": "",
+        "meaningKo": "아플"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5b9a",
+    "character": "定",
+    "level": "N3",
+    "meaningKo": "정할 정",
+    "onyomi": "テイ、ジョウ",
+    "kunyomi": "さだ-める、さだ-まる、さだ-か",
+    "examples": [
+      {
+        "word": "定める",
+        "reading": "",
+        "meaningKo": "정할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5ead",
+    "character": "庭",
+    "level": "N3",
+    "meaningKo": "뜰 정",
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "examples": [
+      {
+        "word": "庭",
+        "reading": "",
+        "meaningKo": "뜰"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7a0b",
+    "character": "程",
+    "level": "N3",
+    "meaningKo": "한도·길[道] 정",
+    "onyomi": "テイ",
+    "kunyomi": "ほど",
+    "examples": [
+      {
+        "word": "程",
+        "reading": "",
+        "meaningKo": "한도·길[道]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9069",
+    "character": "適",
+    "level": "N3",
+    "meaningKo": "맞을 적",
+    "onyomi": "テキ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "適",
+        "reading": "",
+        "meaningKo": "맞을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-70b9",
+    "character": "点",
+    "level": "N3",
+    "meaningKo": "점[點] 점",
+    "onyomi": "テン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "点",
+        "reading": "",
+        "meaningKo": "점[點]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4f1d",
+    "character": "伝",
+    "level": "N3",
+    "meaningKo": "전할 전",
+    "onyomi": "デン",
+    "kunyomi": "つた-わる、つた-える、つた-う",
+    "examples": [
+      {
+        "word": "伝わる",
+        "reading": "",
+        "meaningKo": "전할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f92",
+    "character": "徒",
+    "level": "N3",
+    "meaningKo": "무리 도",
+    "onyomi": "ト",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "徒",
+        "reading": "",
+        "meaningKo": "무리"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9014",
+    "character": "途",
+    "level": "N3",
+    "meaningKo": "길[行中] 도",
+    "onyomi": "ト",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "途",
+        "reading": "",
+        "meaningKo": "길[行中]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6e21",
+    "character": "渡",
+    "level": "N3",
+    "meaningKo": "건널 도",
+    "onyomi": "ト",
+    "kunyomi": "わた-る、わた-す",
+    "examples": [
+      {
+        "word": "渡る",
+        "reading": "",
+        "meaningKo": "건널"
+      }
+    ]
+  },
+  {
+    "id": "kanji-52aa",
+    "character": "努",
+    "level": "N3",
+    "meaningKo": "힘쓸 노",
+    "onyomi": "ド",
+    "kunyomi": "つと-める",
+    "examples": [
+      {
+        "word": "努める",
+        "reading": "",
+        "meaningKo": "힘쓸"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6012",
+    "character": "怒",
+    "level": "N3",
+    "meaningKo": "성낼 노",
+    "onyomi": "ド",
+    "kunyomi": "いか-る、おこ-る",
+    "examples": [
+      {
+        "word": "怒る",
+        "reading": "",
+        "meaningKo": "성낼"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f53",
+    "character": "当",
+    "level": "N3",
+    "meaningKo": "마땅 당",
+    "onyomi": "トウ",
+    "kunyomi": "あ-たる、あ-てる",
+    "examples": [
+      {
+        "word": "当たる",
+        "reading": "",
+        "meaningKo": "마땅"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6295",
+    "character": "投",
+    "level": "N3",
+    "meaningKo": "던질 투",
+    "onyomi": "トウ",
+    "kunyomi": "な-げる",
+    "examples": [
+      {
+        "word": "投げる",
+        "reading": "",
+        "meaningKo": "던질"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5230",
+    "character": "到",
+    "level": "N3",
+    "meaningKo": "이를 도",
+    "onyomi": "トウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "到",
+        "reading": "",
+        "meaningKo": "이를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9003",
+    "character": "逃",
+    "level": "N3",
+    "meaningKo": "도망할 도",
+    "onyomi": "トウ",
+    "kunyomi": "に-げる、に-がす、のが-す、のが-れる",
+    "examples": [
+      {
+        "word": "逃げる",
+        "reading": "",
+        "meaningKo": "도망할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5012",
+    "character": "倒",
+    "level": "N3",
+    "meaningKo": "넘어질 도",
+    "onyomi": "トウ",
+    "kunyomi": "たお-れる、たお-す",
+    "examples": [
+      {
+        "word": "倒れる",
+        "reading": "",
+        "meaningKo": "넘어질"
+      }
+    ]
+  },
+  {
+    "id": "kanji-76d7",
+    "character": "盗",
+    "level": "N3",
+    "meaningKo": "도둑 도",
+    "onyomi": "トウ",
+    "kunyomi": "ぬす-む",
+    "examples": [
+      {
+        "word": "盗む",
+        "reading": "",
+        "meaningKo": "도둑"
+      }
+    ]
+  },
+  {
+    "id": "kanji-767b",
+    "character": "登",
+    "level": "N3",
+    "meaningKo": "오를 등",
+    "onyomi": "トウ、ト",
+    "kunyomi": "のぼ-る",
+    "examples": [
+      {
+        "word": "登る",
+        "reading": "",
+        "meaningKo": "오를"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7b49",
+    "character": "等",
+    "level": "N3",
+    "meaningKo": "무리 등",
+    "onyomi": "トウ",
+    "kunyomi": "ひと-しい",
+    "examples": [
+      {
+        "word": "等しい",
+        "reading": "",
+        "meaningKo": "무리"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f97",
+    "character": "得",
+    "level": "N3",
+    "meaningKo": "얻을 득",
+    "onyomi": "トク",
+    "kunyomi": "え-る、う-る",
+    "examples": [
+      {
+        "word": "得る",
+        "reading": "",
+        "meaningKo": "얻을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7a81",
+    "character": "突",
+    "level": "N3",
+    "meaningKo": "갑자기 돌",
+    "onyomi": "トツ",
+    "kunyomi": "つ-く",
+    "examples": [
+      {
+        "word": "突く",
+        "reading": "",
+        "meaningKo": "갑자기"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5185",
+    "character": "内",
+    "level": "N3",
+    "meaningKo": "안, 내부",
+    "onyomi": "ナイ（ダイ）",
+    "kunyomi": "うち",
+    "examples": [
+      {
+        "word": "内",
+        "reading": "",
+        "meaningKo": "안"
+      }
+    ]
+  },
+  {
+    "id": "kanji-96e3",
+    "character": "難",
+    "level": "N3",
+    "meaningKo": "어려울 난",
+    "onyomi": "ナン",
+    "kunyomi": "かた-い、むずか-しい",
+    "examples": [
+      {
+        "word": "難い",
+        "reading": "",
+        "meaningKo": "어려울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4efb",
+    "character": "任",
+    "level": "N3",
+    "meaningKo": "맡길 임",
+    "onyomi": "ニン",
+    "kunyomi": "まか-せる、まか-す",
+    "examples": [
+      {
+        "word": "任せる",
+        "reading": "",
+        "meaningKo": "맡길"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8a8d",
+    "character": "認",
+    "level": "N3",
+    "meaningKo": "알[知] 인",
+    "onyomi": "ニン",
+    "kunyomi": "みと-める",
+    "examples": [
+      {
+        "word": "認める",
+        "reading": "",
+        "meaningKo": "알[知]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-71b1",
+    "character": "熱",
+    "level": "N3",
+    "meaningKo": "더울 열",
+    "onyomi": "ネツ",
+    "kunyomi": "あつ-い",
+    "examples": [
+      {
+        "word": "熱い",
+        "reading": "",
+        "meaningKo": "더울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5ff5",
+    "character": "念",
+    "level": "N3",
+    "meaningKo": "생각 념",
+    "onyomi": "ネン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "念",
+        "reading": "",
+        "meaningKo": "생각"
+      }
+    ]
+  },
+  {
+    "id": "kanji-80fd",
+    "character": "能",
+    "level": "N3",
+    "meaningKo": "능할 능",
+    "onyomi": "ノウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "能",
+        "reading": "",
+        "meaningKo": "능할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7834",
+    "character": "破",
+    "level": "N3",
+    "meaningKo": "깨뜨릴 파",
+    "onyomi": "ハ",
+    "kunyomi": "やぶ-る、やぶ-れる",
+    "examples": [
+      {
+        "word": "破る",
+        "reading": "",
+        "meaningKo": "깨뜨릴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-99ac",
+    "character": "馬",
+    "level": "N3",
+    "meaningKo": "말 마",
+    "onyomi": "バ",
+    "kunyomi": "うま（ま）",
+    "examples": [
+      {
+        "word": "馬",
+        "reading": "",
+        "meaningKo": "말"
+      }
+    ]
+  },
+  {
+    "id": "kanji-676f",
+    "character": "杯",
+    "level": "N3",
+    "meaningKo": "잔 배",
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき",
+    "examples": [
+      {
+        "word": "杯",
+        "reading": "",
+        "meaningKo": "잔"
+      }
+    ]
+  },
+  {
+    "id": "kanji-80cc",
+    "character": "背",
+    "level": "N3",
+    "meaningKo": "등 배",
+    "onyomi": "ハイ",
+    "kunyomi": "せ、せい、そむ-く、そむ-ける",
+    "examples": [
+      {
+        "word": "背く",
+        "reading": "",
+        "meaningKo": "등"
+      }
+    ]
+  },
+  {
+    "id": "kanji-914d",
+    "character": "配",
+    "level": "N3",
+    "meaningKo": "나눌·짝 배",
+    "onyomi": "ハイ",
+    "kunyomi": "くば-る",
+    "examples": [
+      {
+        "word": "配る",
+        "reading": "",
+        "meaningKo": "나눌·짝"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6557",
+    "character": "敗",
+    "level": "N3",
+    "meaningKo": "패할 패",
+    "onyomi": "ハイ",
+    "kunyomi": "やぶ-れる",
+    "examples": [
+      {
+        "word": "敗れる",
+        "reading": "",
+        "meaningKo": "패할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7bb1",
+    "character": "箱",
+    "level": "N3",
+    "meaningKo": "상자 상",
+    "onyomi": "",
+    "kunyomi": "はこ",
+    "examples": [
+      {
+        "word": "箱",
+        "reading": "",
+        "meaningKo": "상자"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9aea",
+    "character": "髪",
+    "level": "N3",
+    "meaningKo": "터럭 발",
+    "onyomi": "ハツ",
+    "kunyomi": "かみ",
+    "examples": [
+      {
+        "word": "髪",
+        "reading": "",
+        "meaningKo": "터럭"
+      }
+    ]
+  },
+  {
+    "id": "kanji-629c",
+    "character": "抜",
+    "level": "N3",
+    "meaningKo": "뽑을 발",
+    "onyomi": "バツ",
+    "kunyomi": "ぬ-く、ぬ-ける、ぬ-かす、ぬ-かる",
+    "examples": [
+      {
+        "word": "抜く",
+        "reading": "",
+        "meaningKo": "뽑을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-53cd",
+    "character": "反",
+    "level": "N3",
+    "meaningKo": "돌이킬·돌아올 반",
+    "onyomi": "ハン（ホン）（タン）",
+    "kunyomi": "そ-る、そ-らす",
+    "examples": [
+      {
+        "word": "反る",
+        "reading": "",
+        "meaningKo": "돌이킬·돌아올"
+      }
+    ]
+  },
+  {
+    "id": "kanji-72af",
+    "character": "犯",
+    "level": "N3",
+    "meaningKo": "범할 범",
+    "onyomi": "ハン",
+    "kunyomi": "おか-す",
+    "examples": [
+      {
+        "word": "犯す",
+        "reading": "",
+        "meaningKo": "범할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5224",
+    "character": "判",
+    "level": "N3",
+    "meaningKo": "판단할 판",
+    "onyomi": "ハン、バン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "判",
+        "reading": "",
+        "meaningKo": "판단할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6669",
+    "character": "晩",
+    "level": "N3",
+    "meaningKo": "늦을 만",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "晩",
+        "reading": "",
+        "meaningKo": "늦을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-756a",
+    "character": "番",
+    "level": "N3",
+    "meaningKo": "차례 번",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "番",
+        "reading": "",
+        "meaningKo": "차례"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5426",
+    "character": "否",
+    "level": "N3",
+    "meaningKo": "아닐 부",
+    "onyomi": "ヒ",
+    "kunyomi": "いな",
+    "examples": [
+      {
+        "word": "否",
+        "reading": "",
+        "meaningKo": "아닐"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f7c",
+    "character": "彼",
+    "level": "N3",
+    "meaningKo": "저 피",
+    "onyomi": "ヒ",
+    "kunyomi": "かれ（かの）",
+    "examples": [
+      {
+        "word": "彼",
+        "reading": "",
+        "meaningKo": "저"
+      }
+    ]
+  },
+  {
+    "id": "kanji-975e",
+    "character": "非",
+    "level": "N3",
+    "meaningKo": "아닐 비",
+    "onyomi": "ヒ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "非",
+        "reading": "",
+        "meaningKo": "아닐"
+      }
+    ]
+  },
+  {
+    "id": "kanji-98db",
+    "character": "飛",
+    "level": "N3",
+    "meaningKo": "날 비",
+    "onyomi": "ヒ",
+    "kunyomi": "と-ぶ、と-ばす",
+    "examples": [
+      {
+        "word": "飛ぶ",
+        "reading": "",
+        "meaningKo": "날"
+      }
+    ]
+  },
+  {
+    "id": "kanji-75b2",
+    "character": "疲",
+    "level": "N3",
+    "meaningKo": "피곤할 피",
+    "onyomi": "ヒ",
+    "kunyomi": "つか-れる",
+    "examples": [
+      {
+        "word": "疲れる",
+        "reading": "",
+        "meaningKo": "피곤할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-60b2",
+    "character": "悲",
+    "level": "N3",
+    "meaningKo": "슬플 비",
+    "onyomi": "ヒ",
+    "kunyomi": "かな-しい、かな-しむ",
+    "examples": [
+      {
+        "word": "悲しい",
+        "reading": "",
+        "meaningKo": "슬플"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8cbb",
+    "character": "費",
+    "level": "N3",
+    "meaningKo": "쓸 비",
+    "onyomi": "ヒ",
+    "kunyomi": "つい-やす、つい-える",
+    "examples": [
+      {
+        "word": "費やす",
+        "reading": "",
+        "meaningKo": "쓸"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7f8e",
+    "character": "美",
+    "level": "N3",
+    "meaningKo": "아름다울 미",
+    "onyomi": "ビ",
+    "kunyomi": "うつく-しい",
+    "examples": [
+      {
+        "word": "美しい",
+        "reading": "",
+        "meaningKo": "아름다울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5099",
+    "character": "備",
+    "level": "N3",
+    "meaningKo": "갖출 비",
+    "onyomi": "ビ",
+    "kunyomi": "そな-える、そな-わる",
+    "examples": [
+      {
+        "word": "備える",
+        "reading": "",
+        "meaningKo": "갖출"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5fc5",
+    "character": "必",
+    "level": "N3",
+    "meaningKo": "반드시 필",
+    "onyomi": "ヒツ",
+    "kunyomi": "かなら-ず",
+    "examples": [
+      {
+        "word": "必ず",
+        "reading": "",
+        "meaningKo": "반드시"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8868",
+    "character": "表",
+    "level": "N3",
+    "meaningKo": "겉 표",
+    "onyomi": "ヒョウ",
+    "kunyomi": "おもて、あらわ-す、あらわ-れる",
+    "examples": [
+      {
+        "word": "表す",
+        "reading": "",
+        "meaningKo": "겉"
+      }
+    ]
+  },
+  {
+    "id": "kanji-732b",
+    "character": "猫",
+    "level": "N3",
+    "meaningKo": "고양이 묘",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ",
+    "examples": [
+      {
+        "word": "猫",
+        "reading": "",
+        "meaningKo": "고양이"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8ca7",
+    "character": "貧",
+    "level": "N3",
+    "meaningKo": "가난할 빈",
+    "onyomi": "ヒン、ビン",
+    "kunyomi": "まず-しい",
+    "examples": [
+      {
+        "word": "貧しい",
+        "reading": "",
+        "meaningKo": "가난할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-592b",
+    "character": "夫",
+    "level": "N3",
+    "meaningKo": "지아비 부",
+    "onyomi": "フ（フウ）",
+    "kunyomi": "おっと",
+    "examples": [
+      {
+        "word": "夫",
+        "reading": "",
+        "meaningKo": "지아비"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4ed8",
+    "character": "付",
+    "level": "N3",
+    "meaningKo": "부칠 부",
+    "onyomi": "フ",
+    "kunyomi": "つ-ける、つ-く",
+    "examples": [
+      {
+        "word": "付ける",
+        "reading": "",
+        "meaningKo": "부칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6016",
+    "character": "怖",
+    "level": "N3",
+    "meaningKo": "두려워할 포",
+    "onyomi": "フ",
+    "kunyomi": "こわ-い",
+    "examples": [
+      {
+        "word": "怖い",
+        "reading": "",
+        "meaningKo": "두려워할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8ca0",
+    "character": "負",
+    "level": "N3",
+    "meaningKo": "질[荷] 부",
+    "onyomi": "フ",
+    "kunyomi": "ま-ける、ま-かす、お-う",
+    "examples": [
+      {
+        "word": "負ける",
+        "reading": "",
+        "meaningKo": "질[荷]"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6d6e",
+    "character": "浮",
+    "level": "N3",
+    "meaningKo": "뜰 부",
+    "onyomi": "フ",
+    "kunyomi": "う-く、う-かれる、う-かぶ、う-かべる",
+    "examples": [
+      {
+        "word": "浮く",
+        "reading": "",
+        "meaningKo": "뜰"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5a66",
+    "character": "婦",
+    "level": "N3",
+    "meaningKo": "며느리 부",
+    "onyomi": "フ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "婦",
+        "reading": "",
+        "meaningKo": "며느리"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bcc",
+    "character": "富",
+    "level": "N3",
+    "meaningKo": "부자 부",
+    "onyomi": "フ（フウ）",
+    "kunyomi": "と-む、とみ",
+    "examples": [
+      {
+        "word": "富む",
+        "reading": "",
+        "meaningKo": "부자"
+      }
+    ]
+  },
+  {
+    "id": "kanji-90e8",
+    "character": "部",
+    "level": "N3",
+    "meaningKo": "떼 부",
+    "onyomi": "ブ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "部",
+        "reading": "",
+        "meaningKo": "떼"
+      }
+    ]
+  },
+  {
+    "id": "kanji-821e",
+    "character": "舞",
+    "level": "N3",
+    "meaningKo": "춤출 무",
+    "onyomi": "ブ",
+    "kunyomi": "ま-う、まい",
+    "examples": [
+      {
+        "word": "舞う",
+        "reading": "",
+        "meaningKo": "춤출"
+      }
+    ]
+  },
+  {
+    "id": "kanji-798f",
+    "character": "福",
+    "level": "N3",
+    "meaningKo": "복 복",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "福",
+        "reading": "",
+        "meaningKo": "복"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8179",
+    "character": "腹",
+    "level": "N3",
+    "meaningKo": "배 복",
+    "onyomi": "フク",
+    "kunyomi": "はら",
+    "examples": [
+      {
+        "word": "腹",
+        "reading": "",
+        "meaningKo": "배"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6255",
+    "character": "払",
+    "level": "N3",
+    "meaningKo": "떨칠 불",
+    "onyomi": "フツ",
+    "kunyomi": "はら-う",
+    "examples": [
+      {
+        "word": "払う",
+        "reading": "",
+        "meaningKo": "떨칠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5e73",
+    "character": "平",
+    "level": "N3",
+    "meaningKo": "평평할 평",
+    "onyomi": "ヘイ、ビョウ",
+    "kunyomi": "たい-ら、ひら",
+    "examples": [
+      {
+        "word": "平ら",
+        "reading": "",
+        "meaningKo": "평평할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9589",
+    "character": "閉",
+    "level": "N3",
+    "meaningKo": "닫을 폐",
+    "onyomi": "ヘイ",
+    "kunyomi": "と-じる、と-ざす、し-める、し-まる",
+    "examples": [
+      {
+        "word": "閉じる",
+        "reading": "",
+        "meaningKo": "닫을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7c73",
+    "character": "米",
+    "level": "N3",
+    "meaningKo": "쌀 미",
+    "onyomi": "ベイ、マイ",
+    "kunyomi": "こめ",
+    "examples": [
+      {
+        "word": "米",
+        "reading": "",
+        "meaningKo": "쌀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8fd4",
+    "character": "返",
+    "level": "N3",
+    "meaningKo": "돌이킬 반",
+    "onyomi": "ヘン",
+    "kunyomi": "かえ-す、かえ-る",
+    "examples": [
+      {
+        "word": "返す",
+        "reading": "",
+        "meaningKo": "돌이킬"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5909",
+    "character": "変",
+    "level": "N3",
+    "meaningKo": "변할 변",
+    "onyomi": "ヘン",
+    "kunyomi": "か-わる、か-える",
+    "examples": [
+      {
+        "word": "変わる",
+        "reading": "",
+        "meaningKo": "변할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6355",
+    "character": "捕",
+    "level": "N3",
+    "meaningKo": "잡을 포",
+    "onyomi": "ホ",
+    "kunyomi": "と-らえる、と-らわれる、と-る、つか-まえる、つか-まる",
+    "examples": [
+      {
+        "word": "捕らえる",
+        "reading": "",
+        "meaningKo": "잡을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-66ae",
+    "character": "暮",
+    "level": "N3",
+    "meaningKo": "저물 모",
+    "onyomi": "ボ",
+    "kunyomi": "く-れる、く-らす",
+    "examples": [
+      {
+        "word": "暮れる",
+        "reading": "",
+        "meaningKo": "저물"
+      }
+    ]
+  },
+  {
+    "id": "kanji-62b1",
+    "character": "抱",
+    "level": "N3",
+    "meaningKo": "안을 포",
+    "onyomi": "ホウ",
+    "kunyomi": "だ-く、いだ-く、かか-える",
+    "examples": [
+      {
+        "word": "抱く",
+        "reading": "",
+        "meaningKo": "안을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-653e",
+    "character": "放",
+    "level": "N3",
+    "meaningKo": "놓을 방",
+    "onyomi": "ホウ",
+    "kunyomi": "はな-す、はな-つ、はな-れる、ほう-る",
+    "examples": [
+      {
+        "word": "放す",
+        "reading": "",
+        "meaningKo": "놓을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6cd5",
+    "character": "法",
+    "level": "N3",
+    "meaningKo": "법 법",
+    "onyomi": "ホウ（ハッ）（ホッ）",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "法",
+        "reading": "",
+        "meaningKo": "법"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8a2a",
+    "character": "訪",
+    "level": "N3",
+    "meaningKo": "찾을 방",
+    "onyomi": "ホウ",
+    "kunyomi": "おとず-れる、たず-ねる",
+    "examples": [
+      {
+        "word": "訪れる",
+        "reading": "",
+        "meaningKo": "찾을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5831",
+    "character": "報",
+    "level": "N3",
+    "meaningKo": "갚을·알릴 보",
+    "onyomi": "ホウ",
+    "kunyomi": "むく-いる",
+    "examples": [
+      {
+        "word": "報いる",
+        "reading": "",
+        "meaningKo": "갚을·알릴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4ea1",
+    "character": "亡",
+    "level": "N3",
+    "meaningKo": "망할 망",
+    "onyomi": "ボウ（モウ）",
+    "kunyomi": "な-い",
+    "examples": [
+      {
+        "word": "亡い",
+        "reading": "",
+        "meaningKo": "망할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5fd9",
+    "character": "忙",
+    "level": "N3",
+    "meaningKo": "바쁠 망",
+    "onyomi": "ボウ",
+    "kunyomi": "いそが-しい",
+    "examples": [
+      {
+        "word": "忙しい",
+        "reading": "",
+        "meaningKo": "바쁠"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5fd8",
+    "character": "忘",
+    "level": "N3",
+    "meaningKo": "잊을 망",
+    "onyomi": "ボウ",
+    "kunyomi": "わす-れる",
+    "examples": [
+      {
+        "word": "忘れる",
+        "reading": "",
+        "meaningKo": "잊을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-671b",
+    "character": "望",
+    "level": "N3",
+    "meaningKo": "바랄 망",
+    "onyomi": "ボウ、モウ",
+    "kunyomi": "のぞ-む",
+    "examples": [
+      {
+        "word": "望む",
+        "reading": "",
+        "meaningKo": "바랄"
+      }
+    ]
+  },
+  {
+    "id": "kanji-672b",
+    "character": "末",
+    "level": "N3",
+    "meaningKo": "끝 말",
+    "onyomi": "マツ、バツ",
+    "kunyomi": "すえ",
+    "examples": [
+      {
+        "word": "末",
+        "reading": "",
+        "meaningKo": "끝"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6e80",
+    "character": "満",
+    "level": "N3",
+    "meaningKo": "찰 만",
+    "onyomi": "マン",
+    "kunyomi": "み-ちる、み-たす",
+    "examples": [
+      {
+        "word": "満ちる",
+        "reading": "",
+        "meaningKo": "찰"
+      }
+    ]
+  },
+  {
+    "id": "kanji-672a",
+    "character": "未",
+    "level": "N3",
+    "meaningKo": "아닐 미",
+    "onyomi": "ミ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "未",
+        "reading": "",
+        "meaningKo": "아닐"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7720",
+    "character": "眠",
+    "level": "N3",
+    "meaningKo": "잘 면",
+    "onyomi": "ミン",
+    "kunyomi": "ねむ-る、ねむ-い",
+    "examples": [
+      {
+        "word": "眠る",
+        "reading": "",
+        "meaningKo": "잘"
+      }
+    ]
+  },
+  {
+    "id": "kanji-52d9",
+    "character": "務",
+    "level": "N3",
+    "meaningKo": "힘쓸 무",
+    "onyomi": "ム",
+    "kunyomi": "つと-める、つと-まる",
+    "examples": [
+      {
+        "word": "務める",
+        "reading": "",
+        "meaningKo": "힘쓸"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5922",
+    "character": "夢",
+    "level": "N3",
+    "meaningKo": "꿈 몽",
+    "onyomi": "ム",
+    "kunyomi": "ゆめ",
+    "examples": [
+      {
+        "word": "夢",
+        "reading": "",
+        "meaningKo": "꿈"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5a18",
+    "character": "娘",
+    "level": "N3",
+    "meaningKo": "계집 낭",
+    "onyomi": "",
+    "kunyomi": "むすめ",
+    "examples": [
+      {
+        "word": "娘",
+        "reading": "",
+        "meaningKo": "계집"
+      }
+    ]
+  },
+  {
+    "id": "kanji-547d",
+    "character": "命",
+    "level": "N3",
+    "meaningKo": "목숨 명",
+    "onyomi": "メイ、ミョウ",
+    "kunyomi": "いのち",
+    "examples": [
+      {
+        "word": "命",
+        "reading": "",
+        "meaningKo": "목숨"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8ff7",
+    "character": "迷",
+    "level": "N3",
+    "meaningKo": "미혹할 미",
+    "onyomi": "メイ",
+    "kunyomi": "まよ-う",
+    "examples": [
+      {
+        "word": "迷う",
+        "reading": "",
+        "meaningKo": "미혹할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9cf4",
+    "character": "鳴",
+    "level": "N3",
+    "meaningKo": "울 명",
+    "onyomi": "メイ",
+    "kunyomi": "な-く、な-る、な-らす",
+    "examples": [
+      {
+        "word": "鳴く",
+        "reading": "",
+        "meaningKo": "울"
+      }
+    ]
+  },
+  {
+    "id": "kanji-9762",
+    "character": "面",
+    "level": "N3",
+    "meaningKo": "낯 면",
+    "onyomi": "メン",
+    "kunyomi": "おも、おもて、つら",
+    "examples": [
+      {
+        "word": "面",
+        "reading": "",
+        "meaningKo": "낯"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5f79",
+    "character": "役",
+    "level": "N3",
+    "meaningKo": "부릴 역",
+    "onyomi": "ヤク、エキ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "役",
+        "reading": "",
+        "meaningKo": "부릴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7d04",
+    "character": "約",
+    "level": "N3",
+    "meaningKo": "맺을 약",
+    "onyomi": "ヤク",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "約",
+        "reading": "",
+        "meaningKo": "맺을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-7531",
+    "character": "由",
+    "level": "N3",
+    "meaningKo": "말미암을 유",
+    "onyomi": "ユ、ユウ（ユイ）",
+    "kunyomi": "よし",
+    "examples": [
+      {
+        "word": "由",
+        "reading": "",
+        "meaningKo": "말미암을"
+      }
+    ]
+  },
+  {
+    "id": "kanji-904a",
+    "character": "遊",
+    "level": "N3",
+    "meaningKo": "놀 유",
+    "onyomi": "ユウ（ユ）",
+    "kunyomi": "あそ-ぶ",
+    "examples": [
+      {
+        "word": "遊ぶ",
+        "reading": "",
+        "meaningKo": "놀"
+      }
+    ]
+  },
+  {
+    "id": "kanji-512a",
+    "character": "優",
+    "level": "N3",
+    "meaningKo": "넉넉할 우",
+    "onyomi": "ユウ",
+    "kunyomi": "やさ-しい、すぐ-れる",
+    "examples": [
+      {
+        "word": "優しい",
+        "reading": "",
+        "meaningKo": "넉넉할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e0e",
+    "character": "与",
+    "level": "N3",
+    "meaningKo": "더불·줄 여",
+    "onyomi": "ヨ",
+    "kunyomi": "あた-える",
+    "examples": [
+      {
+        "word": "与える",
+        "reading": "",
+        "meaningKo": "더불·줄"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4e88",
+    "character": "予",
+    "level": "N3",
+    "meaningKo": "나 여",
+    "onyomi": "ヨ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "予",
+        "reading": "",
+        "meaningKo": "나"
+      }
+    ]
+  },
+  {
+    "id": "kanji-4f59",
+    "character": "余",
+    "level": "N3",
+    "meaningKo": "나 여",
+    "onyomi": "ヨ",
+    "kunyomi": "あま-る、あま-す",
+    "examples": [
+      {
+        "word": "余る",
+        "reading": "",
+        "meaningKo": "나"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8981",
+    "character": "要",
+    "level": "N3",
+    "meaningKo": "요긴할 요",
+    "onyomi": "ヨウ",
+    "kunyomi": "かなめ、い-る",
+    "examples": [
+      {
+        "word": "要る",
+        "reading": "",
+        "meaningKo": "요긴할"
+      }
+    ]
+  },
+  {
+    "id": "kanji-5bb9",
+    "character": "容",
+    "level": "N3",
+    "meaningKo": "얼굴 용",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "容",
+        "reading": "",
+        "meaningKo": "얼굴"
+      }
+    ]
+  },
+  {
+    "id": "kanji-8449",
+    "character": "葉",
+    "level": "N3",
+    "meaningKo": "잎 엽",
+    "onyomi": "ヨウ",
+    "kunyomi": "は",
+    "examples": [
+      {
+        "word": "葉",
+        "reading": "",
+        "meaningKo": "잎"
+      }
+    ]
+  },
+  {
+    "id": "kanji-967d",
+    "character": "陽",
+    "level": "N3",
+    "meaningKo": "볕 양",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "examples": [
+      {
+        "word": "陽",
+        "reading": "",
+        "meaningKo": "볕"
+      }
+    ]
+  },
+  {
+    "id": "kanji-69d8",
+    "character": "様",
+    "level": "N3",
+    "meaningKo": "모양 양",
+    "onyomi": "ヨウ",
+    "kunyomi": "さま",
+    "examples": [
+      {
+        "word": "様",
+        "reading": "",
+        "meaningKo": "모양"
+      }
+    ]
+  },
+  {
+    "id": "kanji-6b32",
+    "character": "欲",
+    "level": "N3",
+    "meaningKo": "하고자할 욕",
+    "onyomi": "ヨク",
+    "kunyomi": "ほっ-する、ほ-しい",
+    "examples": [
+      {
+        "word": "欲する",
+        "reading": "",
+        "meaningKo": "하고자할"
+      }
+    ]
   }
 ]

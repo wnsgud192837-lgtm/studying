@@ -34,13 +34,22 @@ body {
     "Noto Sans KR",
     "Noto Sans JP",
     sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 button,
-input {
+input,
+select,
+textarea {
   font: inherit;
+}
+
+input,
+select,
+textarea {
+  font-size: 16px;
 }
 
 button {
@@ -84,11 +93,14 @@ input:focus-visible {
   place-items: start center;
   padding: 0 20px;
   background: var(--bg);
+  overflow-x: hidden;
 }
 
 .phone-shell {
-  width: min(100%, 480px);
+  width: 100%;
+  max-width: 480px;
   min-height: 100svh;
+  margin: 0 auto;
   position: relative;
   display: grid;
   align-content: start;
@@ -123,8 +135,7 @@ input:focus-visible {
   color: var(--muted);
 }
 
-.eyebrow,
-.source-label {
+.eyebrow {
   margin: 0;
   color: var(--primary);
   font-size: 0.82rem;
@@ -347,15 +358,9 @@ input:focus-visible {
 
 .card-actions {
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 12px;
   font-size: 0.82rem;
-}
-
-.card-actions > span {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .card-actions button,
@@ -646,6 +651,12 @@ input:focus-visible {
   margin: 4px 0 0;
   color: var(--text);
   font-size: 1rem;
+  font-weight: 700;
+}
+
+.kanji-info .representative-label {
+  color: var(--muted);
+  font-size: 0.86rem;
   font-weight: 700;
 }
 
