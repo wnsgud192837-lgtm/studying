@@ -1167,6 +1167,10 @@ function groupByLevel(items) {
   }, {});
 }
 
+function extractUsedKanji(value) {
+  return Array.from(new Set(String(value || "").match(/[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]/gu) || [])).join(" ");
+}
+
 let originalWords = readJson("words.json");
 if (!originalWords.some((word) => word.meaningEn)) {
   originalWords = JSON.parse(execFileSync("git", ["show", "HEAD:app/database/words.json"], { encoding: "utf8", maxBuffer: 20 * 1024 * 1024 }));
@@ -1175,6 +1179,7 @@ let translatedCount = 0;
 
 const words = originalWords.map((word) => {
   const meaningKo = wordMeaningOverrides.get(word.japanese) || translateGloss(word.meaningEn || word.meaningKo);
+  const usedKanji = extractUsedKanji(word.japanese);
   if (meaningKo !== word.meaningKo) translatedCount += 1;
   const examples = Array.isArray(word.examples)
     ? word.examples.map((example) => ({ ...example, source: undefined })).map(({ source, ...example }) => example)
@@ -1184,9 +1189,10 @@ const words = originalWords.map((word) => {
   return {
     ...wordWithoutSource,
     meaningKo,
+    usedKanji,
     exampleMeaningKo: word.exampleMeaningKo || "",
     examples,
-    searchText: unique([word.japanese, word.reading, meaningKo, word.level, ...(word.levels || [])]).join(" ")
+    searchText: unique([word.japanese, word.reading, meaningKo, usedKanji, word.level, ...(word.levels || [])]).join(" ")
   };
 });
 

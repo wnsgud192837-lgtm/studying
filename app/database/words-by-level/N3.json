@@ -8,7 +8,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "日本 にほん 일본 N3",
+    "searchText": "日本 にほん 일본 日 本 N3",
     "levels": [
       "N3"
     ],
@@ -26,7 +26,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "日 本"
   },
   {
     "id": "word-今回-こんかい",
@@ -37,7 +38,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "今回 こんかい 지금 N3",
+    "searchText": "今回 こんかい 지금 今 回 N3",
     "levels": [
       "N3"
     ],
@@ -51,7 +52,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "今 回"
   },
   {
     "id": "word-詳しい-くわしい",
@@ -62,7 +64,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "詳しい くわしい 가득하다 N3",
+    "searchText": "詳しい くわしい 가득하다 詳 N3",
     "levels": [
       "N3"
     ],
@@ -76,7 +78,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "詳"
   },
   {
     "id": "word-こんにちは-no-reading",
@@ -101,7 +104,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-ありがとう-no-reading",
@@ -126,7 +130,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-願う-ねがう",
@@ -137,7 +142,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "願う ねがう 하다 N3",
+    "searchText": "願う ねがう 하다 願 N3",
     "levels": [
       "N3"
     ],
@@ -155,7 +160,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "願"
   },
   {
     "id": "word-実は-じつは",
@@ -166,7 +172,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "実は じつは 솔직히, 이다, 하다 N3",
+    "searchText": "実は じつは 솔직히, 이다, 하다 実 N3",
     "levels": [
       "N3"
     ],
@@ -184,7 +190,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "実"
   },
   {
     "id": "word-ちゃんと-no-reading",
@@ -213,7 +220,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-咳-せき",
@@ -234,7 +242,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "咳"
   },
   {
     "id": "word-そして-no-reading",
@@ -263,7 +272,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-生まれ-うまれ",
@@ -274,7 +284,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "生まれ うまれ 출생, 출신지 N3",
+    "searchText": "生まれ うまれ 출생, 출신지 生 N3",
     "levels": [
       "N3"
     ],
@@ -284,7 +294,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "生"
   },
   {
     "id": "word-表現-ひょうげん",
@@ -295,7 +306,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "表現 ひょうげん 설명, 표현 N3",
+    "searchText": "表現 ひょうげん 설명, 표현 表 現 N3",
     "levels": [
       "N3"
     ],
@@ -309,7 +320,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "表 現"
   },
   {
     "id": "word-諦める-あきらめる",
@@ -320,7 +332,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "諦める あきらめる 하다 N3",
+    "searchText": "諦める あきらめる 하다 諦 N3",
     "levels": [
       "N3"
     ],
@@ -330,7 +342,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "諦"
   },
   {
     "id": "word-信頼-しんらい",
@@ -341,7 +354,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "信頼 しんらい 믿음, 의존, 신뢰, 신뢰 N3",
+    "searchText": "信頼 しんらい 믿음, 의존, 신뢰, 신뢰 信 頼 N3",
     "levels": [
       "N3"
     ],
@@ -351,7 +364,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "信 頼"
   },
   {
     "id": "word-情報-じょうほう",
@@ -362,7 +376,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "情報 じょうほう 정보 N3",
+    "searchText": "情報 じょうほう 정보 情 報 N3",
     "levels": [
       "N3"
     ],
@@ -376,7 +390,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "情 報"
   },
   {
     "id": "word-ずっと-no-reading",
@@ -405,7 +420,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-除く-のぞく",
@@ -416,7 +432,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "除く のぞく 하다 N3",
+    "searchText": "除く のぞく 하다 除 N3",
     "levels": [
       "N3"
     ],
@@ -426,7 +442,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "除"
   },
   {
     "id": "word-地域-ちいき",
@@ -437,7 +454,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "地域 ちいき 지역 N3",
+    "searchText": "地域 ちいき 지역 地 域 N3",
     "levels": [
       "N3"
     ],
@@ -455,7 +472,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "地 域"
   },
   {
     "id": "word-感じる-かんじる",
@@ -466,7 +484,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "感じる かんじる 하다, 느끼다, 감동하다 N3",
+    "searchText": "感じる かんじる 하다, 느끼다, 감동하다 感 N3",
     "levels": [
       "N3"
     ],
@@ -484,7 +502,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "感"
   },
   {
     "id": "word-それぞれ-no-reading",
@@ -513,7 +532,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-感想-かんそう",
@@ -524,7 +544,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "感想 かんそう 감상 N3",
+    "searchText": "感想 かんそう 감상 感 想 N3",
     "levels": [
       "N3"
     ],
@@ -534,7 +554,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "感 想"
   },
   {
     "id": "word-出身-しゅっしん",
@@ -545,7 +566,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "出身 しゅっしん 출신 N3",
+    "searchText": "出身 しゅっしん 출신 出 身 N3",
     "levels": [
       "N3"
     ],
@@ -555,7 +576,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "出 身"
   },
   {
     "id": "word-逆-ぎゃく",
@@ -580,7 +602,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "逆"
   },
   {
     "id": "word-ヨーロッパ-よーろっぱ",
@@ -605,7 +628,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-印象-いんしょう",
@@ -616,7 +640,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "印象 いんしょう 인상 N3",
+    "searchText": "印象 いんしょう 인상 印 象 N3",
     "levels": [
       "N3"
     ],
@@ -626,7 +650,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "印 象"
   },
   {
     "id": "word-記事-きじ",
@@ -637,7 +662,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "記事 きじ 설명, 계정, 물건, 기사, 보고 N3",
+    "searchText": "記事 きじ 설명, 계정, 물건, 기사, 보고 記 事 N3",
     "levels": [
       "N3"
     ],
@@ -651,7 +676,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "記 事"
   },
   {
     "id": "word-全く-まったく",
@@ -662,7 +688,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "全く まったく 완전히 N3",
+    "searchText": "全く まったく 완전히 全 N3",
     "levels": [
       "N3"
     ],
@@ -676,7 +702,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "全"
   },
   {
     "id": "word-理解-りかい",
@@ -687,7 +714,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "理解 りかい 이해 N3",
+    "searchText": "理解 りかい 이해 理 解 N3",
     "levels": [
       "N3"
     ],
@@ -701,7 +728,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "理 解"
   },
   {
     "id": "word-発見-はっけん",
@@ -712,7 +740,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "発見 はっけん 발견 N3",
+    "searchText": "発見 はっけん 발견 発 見 N3",
     "levels": [
       "N3"
     ],
@@ -722,7 +750,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "発 見"
   },
   {
     "id": "word-つまり-no-reading",
@@ -747,7 +776,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-一人一人-ひとりひとり",
@@ -758,7 +788,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "一人一人 ひとりひとり 각각 N3",
+    "searchText": "一人一人 ひとりひとり 각각 一 人 N3",
     "levels": [
       "N3"
     ],
@@ -768,7 +798,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "一 人"
   },
   {
     "id": "word-自身-じしん",
@@ -779,7 +810,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "自身 じしん 자신, 그녀 자신, 그 자신, 자기 자신, 당신 자신 N3",
+    "searchText": "自身 じしん 자신, 그녀 자신, 그 자신, 자기 자신, 당신 자신 自 身 N3",
     "levels": [
       "N3"
     ],
@@ -789,7 +820,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "自 身"
   },
   {
     "id": "word-管理-かんり",
@@ -800,7 +832,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "管理 かんり 관리 N3",
+    "searchText": "管理 かんり 관리 管 理 N3",
     "levels": [
       "N3"
     ],
@@ -810,7 +842,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "管 理"
   },
   {
     "id": "word-絶対-ぜったい",
@@ -821,7 +854,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "絶対 ぜったい 절대성 N3",
+    "searchText": "絶対 ぜったい 절대성 絶 対 N3",
     "levels": [
       "N3"
     ],
@@ -839,7 +872,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "絶 対"
   },
   {
     "id": "word-流す-ながす",
@@ -850,7 +884,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "流す ながす 하다, 달리다 N3",
+    "searchText": "流す ながす 하다, 달리다 流 N3",
     "levels": [
       "N3"
     ],
@@ -860,7 +894,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "流"
   },
   {
     "id": "word-常に-つねに",
@@ -871,7 +906,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "常に つねに 항상 N3",
+    "searchText": "常に つねに 항상 常 N3",
     "levels": [
       "N3"
     ],
@@ -885,7 +920,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "常"
   },
   {
     "id": "word-臭い-くさい",
@@ -896,7 +932,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "臭い くさい 냄새나다, 악취가 나다, 수상하다, 서투르다 N3",
+    "searchText": "臭い くさい 냄새나다, 악취가 나다, 수상하다, 서투르다 臭 N3",
     "levels": [
       "N3"
     ],
@@ -906,7 +942,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "臭"
   },
   {
     "id": "word-何か-なにか",
@@ -917,7 +954,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "何か なにか 어떤 N3",
+    "searchText": "何か なにか 어떤 何 N3",
     "levels": [
       "N3"
     ],
@@ -927,7 +964,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "何"
   },
   {
     "id": "word-香り-かおり",
@@ -938,7 +976,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "香り かおり 냄새 N3",
+    "searchText": "香り かおり 냄새 香 N3",
     "levels": [
       "N3"
     ],
@@ -948,7 +986,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "香"
   },
   {
     "id": "word-臭い-におい",
@@ -959,7 +998,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "臭い におい 냄새 N3",
+    "searchText": "臭い におい 냄새 臭 N3",
     "levels": [
       "N3"
     ],
@@ -969,7 +1008,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "臭"
   },
   {
     "id": "word-他-ほか",
@@ -998,7 +1038,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "他"
   },
   {
     "id": "word-海外-かいがい",
@@ -1009,7 +1050,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "海外 かいがい 해외, 외국의 N3",
+    "searchText": "海外 かいがい 해외, 외국의 海 外 N3",
     "levels": [
       "N3"
     ],
@@ -1019,7 +1060,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "海 外"
   },
   {
     "id": "word-癖-くせ",
@@ -1040,7 +1082,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "癖"
   },
   {
     "id": "word-決まり-きまり",
@@ -1051,7 +1094,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "決まり きまり 규칙, 동의, 예정, 결론 N3",
+    "searchText": "決まり きまり 규칙, 동의, 예정, 결론 決 N3",
     "levels": [
       "N3"
     ],
@@ -1061,7 +1104,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "決"
   },
   {
     "id": "word-溶ける-とける",
@@ -1072,7 +1116,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "溶ける とける 하다 N3",
+    "searchText": "溶ける とける 하다 溶 N3",
     "levels": [
       "N3"
     ],
@@ -1082,7 +1126,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "溶"
   },
   {
     "id": "word-慌てる-あわてる",
@@ -1093,7 +1138,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "慌てる あわてる 이다, 되다 하다, 하다 N3",
+    "searchText": "慌てる あわてる 이다, 되다 하다, 하다 慌 N3",
     "levels": [
       "N3"
     ],
@@ -1103,7 +1148,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "慌"
   },
   {
     "id": "word-記憶-きおく",
@@ -1114,7 +1160,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "記憶 きおく 기억 N3",
+    "searchText": "記憶 きおく 기억 記 憶 N3",
     "levels": [
       "N3"
     ],
@@ -1128,7 +1174,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "記 憶"
   },
   {
     "id": "word-共通-きょうつう",
@@ -1139,7 +1186,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "共通 きょうつう 흔하다 N3",
+    "searchText": "共通 きょうつう 흔하다 共 通 N3",
     "levels": [
       "N3"
     ],
@@ -1153,7 +1200,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "共 通"
   },
   {
     "id": "word-正直-しょうじき",
@@ -1164,7 +1212,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "正直 しょうじき 솔직하다, 솔직히 N3",
+    "searchText": "正直 しょうじき 솔직하다, 솔직히 正 直 N3",
     "levels": [
       "N3"
     ],
@@ -1186,7 +1234,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 4
+    "duplicateCount": 4,
+    "usedKanji": "正 直"
   },
   {
     "id": "word-発達-はったつ",
@@ -1197,7 +1246,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "発達 はったつ 발전 N3",
+    "searchText": "発達 はったつ 발전 発 達 N3",
     "levels": [
       "N3"
     ],
@@ -1207,7 +1256,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "発 達"
   },
   {
     "id": "word-種類-しゅるい",
@@ -1218,7 +1268,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "種類 しゅるい 종류, 친절하다, 종류, 을 세는 말 N3",
+    "searchText": "種類 しゅるい 종류, 친절하다, 종류, 을 세는 말 種 類 N3",
     "levels": [
       "N3"
     ],
@@ -1236,7 +1286,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "種 類"
   },
   {
     "id": "word-とにかく-no-reading",
@@ -1261,7 +1312,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-鉄道-てつどう",
@@ -1272,7 +1324,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "鉄道 てつどう 철도 N3",
+    "searchText": "鉄道 てつどう 철도 鉄 道 N3",
     "levels": [
       "N3"
     ],
@@ -1282,7 +1334,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "鉄 道"
   },
   {
     "id": "word-重要-じゅうよう",
@@ -1293,7 +1346,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "重要 じゅうよう 중요하다 N3",
+    "searchText": "重要 じゅうよう 중요하다 重 要 N3",
     "levels": [
       "N3"
     ],
@@ -1311,7 +1364,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "重 要"
   },
   {
     "id": "word-説-せつ",
@@ -1332,7 +1386,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "説"
   },
   {
     "id": "word-事件-じけん",
@@ -1343,7 +1398,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "事件 じけん 경우, 사건, 행사, 부지 N3",
+    "searchText": "事件 じけん 경우, 사건, 행사, 부지 事 件 N3",
     "levels": [
       "N3"
     ],
@@ -1353,7 +1408,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "事 件"
   },
   {
     "id": "word-与える-あたえる",
@@ -1364,7 +1420,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "与える あたえる 하다, 주다 N3",
+    "searchText": "与える あたえる 하다, 주다 与 N3",
     "levels": [
       "N3"
     ],
@@ -1374,7 +1430,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "与"
   },
   {
     "id": "word-通勤-つうきん",
@@ -1385,7 +1442,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "通勤 つうきん 일 N3",
+    "searchText": "通勤 つうきん 일 通 勤 N3",
     "levels": [
       "N3"
     ],
@@ -1395,7 +1452,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "通 勤"
   },
   {
     "id": "word-あんまり-no-reading",
@@ -1420,7 +1478,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-平和-へいわ",
@@ -1431,7 +1490,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "平和 へいわ 평화 N3",
+    "searchText": "平和 へいわ 평화 平 和 N3",
     "levels": [
       "N3"
     ],
@@ -1441,7 +1500,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "平 和"
   },
   {
     "id": "word-起こる-おこる",
@@ -1452,7 +1512,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "起こる おこる 하다 N3",
+    "searchText": "起こる おこる 하다 起 N3",
     "levels": [
       "N3"
     ],
@@ -1462,7 +1522,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "起"
   },
   {
     "id": "word-数字-すうじ",
@@ -1473,7 +1534,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "数字 すうじ 문자, 성격, 모습, 숫자, 수, 번호 N3",
+    "searchText": "数字 すうじ 문자, 성격, 모습, 숫자, 수, 번호 数 字 N3",
     "levels": [
       "N3"
     ],
@@ -1487,7 +1548,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "数 字"
   },
   {
     "id": "word-当時-とうじ",
@@ -1498,7 +1560,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "当時 とうじ 당시 N3",
+    "searchText": "当時 とうじ 당시 当 時 N3",
     "levels": [
       "N3"
     ],
@@ -1516,7 +1578,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "当 時"
   },
   {
     "id": "word-存在-そんざい",
@@ -1527,7 +1590,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "存在 そんざい 존재 N3",
+    "searchText": "存在 そんざい 존재 存 在 N3",
     "levels": [
       "N3"
     ],
@@ -1541,7 +1604,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "存 在"
   },
   {
     "id": "word-信仰-しんこう",
@@ -1552,7 +1616,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "信仰 しんこう 믿음, 신조 N3",
+    "searchText": "信仰 しんこう 믿음, 신조 信 仰 N3",
     "levels": [
       "N3"
     ],
@@ -1562,7 +1626,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "信 仰"
   },
   {
     "id": "word-宗教-しゅうきょう",
@@ -1573,7 +1638,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "宗教 しゅうきょう 종교 N3",
+    "searchText": "宗教 しゅうきょう 종교 宗 教 N3",
     "levels": [
       "N3"
     ],
@@ -1583,7 +1648,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "宗 教"
   },
   {
     "id": "word-数-かず",
@@ -1604,7 +1670,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "数"
   },
   {
     "id": "word-団体-だんたい",
@@ -1615,7 +1682,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "団体 だんたい 단체, 연상, 몸 N3",
+    "searchText": "団体 だんたい 단체, 연상, 몸 団 体 N3",
     "levels": [
       "N3"
     ],
@@ -1625,7 +1692,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "団 体"
   },
   {
     "id": "word-撒く-まく",
@@ -1636,7 +1704,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "撒く まく 하다 N3",
+    "searchText": "撒く まく 하다 撒 N3",
     "levels": [
       "N3"
     ],
@@ -1646,7 +1714,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "撒"
   },
   {
     "id": "word-相当-そうとう",
@@ -1657,7 +1726,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "相当 そうとう 상당히, 꽤, 꽤, 예쁘다, 오히려 N3",
+    "searchText": "相当 そうとう 상당히, 꽤, 꽤, 예쁘다, 오히려 相 当 N3",
     "levels": [
       "N3"
     ],
@@ -1675,7 +1744,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "相 当"
   },
   {
     "id": "word-実際-じっさい",
@@ -1686,7 +1756,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "実際 じっさい 실제 N3",
+    "searchText": "実際 じっさい 실제 実 際 N3",
     "levels": [
       "N3"
     ],
@@ -1704,7 +1774,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "実 際"
   },
   {
     "id": "word-光景-こうけい",
@@ -1715,7 +1786,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "光景 こうけい 장면, 시야, 관점 N3",
+    "searchText": "光景 こうけい 장면, 시야, 관점 光 景 N3",
     "levels": [
       "N3"
     ],
@@ -1729,7 +1800,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "光 景"
   },
   {
     "id": "word-しかも-no-reading",
@@ -1758,7 +1830,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-出来事-できごと",
@@ -1769,7 +1842,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "出来事 できごと 사건, 행사 N3",
+    "searchText": "出来事 できごと 사건, 행사 出 来 事 N3",
     "levels": [
       "N3"
     ],
@@ -1783,7 +1856,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "出 来 事"
   },
   {
     "id": "word-現在-げんざい",
@@ -1794,7 +1868,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "現在 げんざい 지금, 현재 N3",
+    "searchText": "現在 げんざい 지금, 현재 現 在 N3",
     "levels": [
       "N3"
     ],
@@ -1808,7 +1882,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "現 在"
   },
   {
     "id": "word-挙げる-あげる",
@@ -1819,7 +1894,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "挙げる あげる 하다, 올리다 N3",
+    "searchText": "挙げる あげる 하다, 올리다 挙 N3",
     "levels": [
       "N3"
     ],
@@ -1833,7 +1908,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "挙"
   },
   {
     "id": "word-含む-ふくむ",
@@ -1844,7 +1920,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "含む ふくむ 하다, 가지다, 들다 N3",
+    "searchText": "含む ふくむ 하다, 가지다, 들다 含 N3",
     "levels": [
       "N3"
     ],
@@ -1854,7 +1930,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "含"
   },
   {
     "id": "word-袋-ふくろ",
@@ -1875,7 +1952,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "袋"
   },
   {
     "id": "word-穴-あな",
@@ -1896,7 +1974,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "穴"
   },
   {
     "id": "word-舞台-ぶたい",
@@ -1907,7 +1986,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "舞台 ぶたい 단계, 무대, 장면 N3",
+    "searchText": "舞台 ぶたい 단계, 무대, 장면 舞 台 N3",
     "levels": [
       "N3"
     ],
@@ -1921,7 +2000,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "舞 台"
   },
   {
     "id": "word-対する-たいする",
@@ -1932,7 +2012,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "対する たいする 이다, 하다 N3",
+    "searchText": "対する たいする 이다, 하다 対 N3",
     "levels": [
       "N3"
     ],
@@ -1946,7 +2026,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "対"
   },
   {
     "id": "word-中身-なかみ",
@@ -1957,7 +2038,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "中身 なかみ 내부, 내용, 물질, 내용 N3",
+    "searchText": "中身 なかみ 내부, 내용, 물질, 내용 中 身 N3",
     "levels": [
       "N3"
     ],
@@ -1967,7 +2048,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "中 身"
   },
   {
     "id": "word-感じ-かんじ",
@@ -1978,7 +2060,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "感じ かんじ 느낌, 인상, 감각, 의미 N3",
+    "searchText": "感じ かんじ 느낌, 인상, 감각, 의미 感 N3",
     "levels": [
       "N3"
     ],
@@ -1996,7 +2078,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "感"
   },
   {
     "id": "word-影響-えいきょう",
@@ -2007,7 +2090,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "影響 えいきょう 영향 N3",
+    "searchText": "影響 えいきょう 영향 影 響 N3",
     "levels": [
       "N3"
     ],
@@ -2021,7 +2104,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "影 響"
   },
   {
     "id": "word-知識-ちしき",
@@ -2032,7 +2116,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "知識 ちしき 정보 N3",
+    "searchText": "知識 ちしき 정보 知 識 N3",
     "levels": [
       "N3"
     ],
@@ -2042,7 +2126,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "知 識"
   },
   {
     "id": "word-列車-れっしゃ",
@@ -2053,7 +2138,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "列車 れっしゃ 기차 N3",
+    "searchText": "列車 れっしゃ 기차 列 車 N3",
     "levels": [
       "N3"
     ],
@@ -2063,7 +2148,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "列 車"
   },
   {
     "id": "word-爆発-ばくはつ",
@@ -2074,7 +2160,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "爆発 ばくはつ 폭발, 분출 N3",
+    "searchText": "爆発 ばくはつ 폭발, 분출 爆 発 N3",
     "levels": [
       "N3"
     ],
@@ -2084,7 +2170,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "爆 発"
   },
   {
     "id": "word-及ぼす-およぼす",
@@ -2095,7 +2182,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "及ぼす およぼす 대해하다, 원인하다, 하다 N3",
+    "searchText": "及ぼす およぼす 대해하다, 원인하다, 하다 及 N3",
     "levels": [
       "N3"
     ],
@@ -2105,7 +2192,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "及"
   },
   {
     "id": "word-完全-かんぜん",
@@ -2116,7 +2204,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "完全 かんぜん 완전하다 N3",
+    "searchText": "完全 かんぜん 완전하다 完 全 N3",
     "levels": [
       "N3"
     ],
@@ -2130,7 +2218,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "完 全"
   },
   {
     "id": "word-協力-きょうりょく",
@@ -2141,7 +2230,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "協力 きょうりょく 협력 N3",
+    "searchText": "協力 きょうりょく 협력 協 力 N3",
     "levels": [
       "N3"
     ],
@@ -2151,7 +2240,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "協 力"
   },
   {
     "id": "word-機関-きかん",
@@ -2162,7 +2252,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "機関 きかん 몸 N3",
+    "searchText": "機関 きかん 몸 機 関 N3",
     "levels": [
       "N3"
     ],
@@ -2172,7 +2262,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "機 関"
   },
   {
     "id": "word-治める-おさめる",
@@ -2183,7 +2274,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "治める おさめる 하다 N3",
+    "searchText": "治める おさめる 하다 治 N3",
     "levels": [
       "N3"
     ],
@@ -2193,7 +2284,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "治"
   },
   {
     "id": "word-取り上げる-とりあげる",
@@ -2204,7 +2296,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "取り上げる とりあげる 줍다, 받아들이다, 하다 N3",
+    "searchText": "取り上げる とりあげる 줍다, 받아들이다, 하다 取 上 N3",
     "levels": [
       "N3"
     ],
@@ -2218,7 +2310,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "取 上"
   },
   {
     "id": "word-申し訳-もうしわけ",
@@ -2229,7 +2322,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "申し訳 もうしわけ 변명, 실례 N3",
+    "searchText": "申し訳 もうしわけ 변명, 실례 申 訳 N3",
     "levels": [
       "N3"
     ],
@@ -2239,7 +2332,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "申 訳"
   },
   {
     "id": "word-姿-すがた",
@@ -2260,7 +2354,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "姿"
   },
   {
     "id": "word-意外-いがい",
@@ -2271,7 +2366,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "意外 いがい 의외다, 예상 밖이다 N3",
+    "searchText": "意外 いがい 의외다, 예상 밖이다 意 外 N3",
     "levels": [
       "N3"
     ],
@@ -2285,7 +2380,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "意 外"
   },
   {
     "id": "word-時期-じき",
@@ -2296,7 +2392,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "時期 じき 기간, 계절, 단계, 무대, 시간 N3",
+    "searchText": "時期 じき 기간, 계절, 단계, 무대, 시간 時 期 N3",
     "levels": [
       "N3"
     ],
@@ -2314,7 +2410,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "時 期"
   },
   {
     "id": "word-流行-りゅうこう",
@@ -2325,7 +2422,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "流行 りゅうこう 유행 N3",
+    "searchText": "流行 りゅうこう 유행 流 行 N3",
     "levels": [
       "N3"
     ],
@@ -2339,7 +2436,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "流 行"
   },
   {
     "id": "word-加える-くわえる",
@@ -2350,7 +2448,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "加える くわえる 더하다, 더하다 하다, 하다 N3",
+    "searchText": "加える くわえる 더하다, 더하다 하다, 하다 加 N3",
     "levels": [
       "N3"
     ],
@@ -2364,7 +2462,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "加"
   },
   {
     "id": "word-容器-ようき",
@@ -2375,7 +2474,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "容器 ようき 용기, 포장, 그릇 N3",
+    "searchText": "容器 ようき 용기, 포장, 그릇 容 器 N3",
     "levels": [
       "N3"
     ],
@@ -2385,7 +2484,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "容 器"
   },
   {
     "id": "word-納得-なっとく",
@@ -2396,7 +2496,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "納得 なっとく 납득, 동의, 만족 N3",
+    "searchText": "納得 なっとく 납득, 동의, 만족 納 得 N3",
     "levels": [
       "N3"
     ],
@@ -2406,7 +2506,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "納 得"
   },
   {
     "id": "word-流行る-はやる",
@@ -2417,7 +2518,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "流行る はやる 이다, 하다 N3",
+    "searchText": "流行る はやる 이다, 하다 流 行 N3",
     "levels": [
       "N3"
     ],
@@ -2431,7 +2532,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "流 行"
   },
   {
     "id": "word-状況-じょうきょう",
@@ -2442,7 +2544,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "状況 じょうきょう 상황 N3",
+    "searchText": "状況 じょうきょう 상황 状 況 N3",
     "levels": [
       "N3"
     ],
@@ -2460,7 +2562,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "状 況"
   },
   {
     "id": "word-企業-きぎょう",
@@ -2471,7 +2574,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "企業 きぎょう 일, 사업, 회사 N3",
+    "searchText": "企業 きぎょう 일, 사업, 회사 企 業 N3",
     "levels": [
       "N3"
     ],
@@ -2481,7 +2584,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "企 業"
   },
   {
     "id": "word-様子-ようす",
@@ -2492,7 +2596,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "様子 ようす 상황, 국가, 상태, 공기, 분위기, 모습 N3",
+    "searchText": "様子 ようす 상황, 국가, 상태, 공기, 분위기, 모습 様 子 N3",
     "levels": [
       "N3"
     ],
@@ -2510,7 +2614,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "様 子"
   },
   {
     "id": "word-脇-わき",
@@ -2531,7 +2636,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "脇"
   },
   {
     "id": "word-人間-にんげん",
@@ -2542,7 +2648,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "人間 にんげん 남자 N3",
+    "searchText": "人間 にんげん 남자 人 間 N3",
     "levels": [
       "N3"
     ],
@@ -2556,7 +2662,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "人 間"
   },
   {
     "id": "word-街-まち",
@@ -2581,7 +2688,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "街"
   },
   {
     "id": "word-意識-いしき",
@@ -2592,7 +2700,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "意識 いしき 감각, 의미 N3",
+    "searchText": "意識 いしき 감각, 의미 意 識 N3",
     "levels": [
       "N3"
     ],
@@ -2606,7 +2714,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "意 識"
   },
   {
     "id": "word-容易-ようい",
@@ -2617,7 +2726,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "容易 ようい 쉽다, 간단하다 N3",
+    "searchText": "容易 ようい 쉽다, 간단하다 容 易 N3",
     "levels": [
       "N3"
     ],
@@ -2627,7 +2736,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "容 易"
   },
   {
     "id": "word-想像-そうぞう",
@@ -2638,7 +2748,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "想像 そうぞう 상상 N3",
+    "searchText": "想像 そうぞう 상상 想 像 N3",
     "levels": [
       "N3"
     ],
@@ -2652,7 +2762,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "想 像"
   },
   {
     "id": "word-曜日-ようび",
@@ -2663,7 +2774,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "曜日 ようび 날 N3",
+    "searchText": "曜日 ようび 날 曜 日 N3",
     "levels": [
       "N3"
     ],
@@ -2673,7 +2784,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "曜 日"
   },
   {
     "id": "word-広まる-ひろまる",
@@ -2684,7 +2796,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "広まる ひろまる 이다, 하다 N3",
+    "searchText": "広まる ひろまる 이다, 하다 広 N3",
     "levels": [
       "N3"
     ],
@@ -2698,7 +2810,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "広"
   },
   {
     "id": "word-費用-ひよう",
@@ -2709,7 +2822,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "費用 ひよう 비용 N3",
+    "searchText": "費用 ひよう 비용 費 用 N3",
     "levels": [
       "N3"
     ],
@@ -2719,7 +2832,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "費 用"
   },
   {
     "id": "word-溜まる-たまる",
@@ -2730,7 +2844,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "溜まる たまる 하다 N3",
+    "searchText": "溜まる たまる 하다 溜 N3",
     "levels": [
       "N3"
     ],
@@ -2740,7 +2854,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "溜"
   },
   {
     "id": "word-かなり-no-reading",
@@ -2769,7 +2884,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-処理-しょり",
@@ -2780,7 +2896,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "処理 しょり 처리 N3",
+    "searchText": "処理 しょり 처리 処 理 N3",
     "levels": [
       "N3"
     ],
@@ -2790,7 +2906,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "処 理"
   },
   {
     "id": "word-負う-おう",
@@ -2801,7 +2918,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "負う おう 하다, ' 뒤하다, 받아들이다 N3",
+    "searchText": "負う おう 하다, ' 뒤하다, 받아들이다 負 N3",
     "levels": [
       "N3"
     ],
@@ -2811,7 +2928,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "負"
   },
   {
     "id": "word-個人-こじん",
@@ -2822,7 +2940,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "個人 こじん 개인 N3",
+    "searchText": "個人 こじん 개인 個 人 N3",
     "levels": [
       "N3"
     ],
@@ -2832,7 +2950,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "個 人"
   },
   {
     "id": "word-減る-へる",
@@ -2843,7 +2962,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "減る へる 하다 N3",
+    "searchText": "減る へる 하다 減 N3",
     "levels": [
       "N3"
     ],
@@ -2861,7 +2980,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "減"
   },
   {
     "id": "word-タイトル-たいとる",
@@ -2882,7 +3002,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-満足-まんぞく",
@@ -2893,7 +3014,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "満足 まんぞく 만족, 충분하다, 괜찮다 N3",
+    "searchText": "満足 まんぞく 만족, 충분하다, 괜찮다 満 足 N3",
     "levels": [
       "N3"
     ],
@@ -2903,7 +3024,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "満 足"
   },
   {
     "id": "word-率-りつ",
@@ -2924,7 +3046,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "率"
   },
   {
     "id": "word-環境-かんきょう",
@@ -2935,7 +3058,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "環境 かんきょう 상황, 주변 N3",
+    "searchText": "環境 かんきょう 상황, 주변 環 境 N3",
     "levels": [
       "N3"
     ],
@@ -2953,7 +3076,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "環 境"
   },
   {
     "id": "word-まとめる-no-reading",
@@ -2978,7 +3102,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-比較-ひかく",
@@ -2989,7 +3114,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "比較 ひかく 비교 N3",
+    "searchText": "比較 ひかく 비교 比 較 N3",
     "levels": [
       "N3"
     ],
@@ -2999,7 +3124,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "比 較"
   },
   {
     "id": "word-データ-でーた",
@@ -3024,7 +3150,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-イメージ-いめーじ",
@@ -3045,7 +3172,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-面-めん",
@@ -3066,7 +3194,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "面"
   },
   {
     "id": "word-優秀-ゆうしゅう",
@@ -3077,7 +3206,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "優秀 ゆうしゅう 훌륭하다 N3",
+    "searchText": "優秀 ゆうしゅう 훌륭하다 優 秀 N3",
     "levels": [
       "N3"
     ],
@@ -3087,7 +3216,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "優 秀"
   },
   {
     "id": "word-缶-かん",
@@ -3108,7 +3238,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "缶"
   },
   {
     "id": "word-装置-そうち",
@@ -3119,7 +3250,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "装置 そうち 장치, 장비, 설치 N3",
+    "searchText": "装置 そうち 장치, 장비, 설치 装 置 N3",
     "levels": [
       "N3"
     ],
@@ -3129,7 +3260,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "装 置"
   },
   {
     "id": "word-自動-じどう",
@@ -3140,7 +3272,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "自動 じどう 자동 N3",
+    "searchText": "自動 じどう 자동 自 動 N3",
     "levels": [
       "N3"
     ],
@@ -3150,7 +3282,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "自 動"
   },
   {
     "id": "word-機械-きかい",
@@ -3161,7 +3294,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "機械 きかい 기계, 장치, 기기, 도구 N3",
+    "searchText": "機械 きかい 기계, 장치, 기기, 도구 機 械 N3",
     "levels": [
       "N3"
     ],
@@ -3171,7 +3304,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "機 械"
   },
   {
     "id": "word-人生-じんせい",
@@ -3182,7 +3316,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "人生 じんせい 생활, 생명 N3",
+    "searchText": "人生 じんせい 생활, 생명 人 生 N3",
     "levels": [
       "N3"
     ],
@@ -3200,7 +3334,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "人 生"
   },
   {
     "id": "word-任せる-まかせる",
@@ -3211,7 +3346,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "任せる まかせる 하다, 떠나다, 주다 N3",
+    "searchText": "任せる まかせる 하다, 떠나다, 주다 任 N3",
     "levels": [
       "N3"
     ],
@@ -3225,7 +3360,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "任"
   },
   {
     "id": "word-判断-はんだん",
@@ -3236,7 +3372,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "判断 はんだん 결론 N3",
+    "searchText": "判断 はんだん 결론 判 断 N3",
     "levels": [
       "N3"
     ],
@@ -3246,7 +3382,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "判 断"
   },
   {
     "id": "word-最高-さいこう",
@@ -3257,7 +3394,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "最高 さいこう 가장 좋다 N3",
+    "searchText": "最高 さいこう 가장 좋다 最 高 N3",
     "levels": [
       "N3"
     ],
@@ -3271,7 +3408,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "最 高"
   },
   {
     "id": "word-観光-かんこう",
@@ -3282,7 +3420,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "観光 かんこう 관광 N3",
+    "searchText": "観光 かんこう 관광 観 光 N3",
     "levels": [
       "N3"
     ],
@@ -3292,7 +3430,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "観 光"
   },
   {
     "id": "word-限る-かぎる",
@@ -3303,7 +3442,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "限る かぎる 하다, 이다 N3",
+    "searchText": "限る かぎる 하다, 이다 限 N3",
     "levels": [
       "N3"
     ],
@@ -3321,7 +3460,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "限"
   },
   {
     "id": "word-移動-いどう",
@@ -3332,7 +3472,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "移動 いどう 이동 N3",
+    "searchText": "移動 いどう 이동 移 動 N3",
     "levels": [
       "N3"
     ],
@@ -3342,7 +3482,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "移 動"
   },
   {
     "id": "word-不満-ふまん",
@@ -3353,7 +3494,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "不満 ふまん 불만, 불쾌감 N3",
+    "searchText": "不満 ふまん 불만, 불쾌감 不 満 N3",
     "levels": [
       "N3"
     ],
@@ -3363,7 +3504,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "不 満"
   },
   {
     "id": "word-左右-さゆう",
@@ -3374,7 +3516,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "左右 さゆう 왼쪽 오른쪽, 맞다, 오른쪽, 맞다 왼쪽, 관리 N3",
+    "searchText": "左右 さゆう 왼쪽 오른쪽, 맞다, 오른쪽, 맞다 왼쪽, 관리 左 右 N3",
     "levels": [
       "N3"
     ],
@@ -3384,7 +3526,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "左 右"
   },
   {
     "id": "word-一方-いっぽう",
@@ -3395,7 +3538,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "一方 いっぽう 하나 N3",
+    "searchText": "一方 いっぽう 하나 一 方 N3",
     "levels": [
       "N3"
     ],
@@ -3413,7 +3556,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "一 方"
   },
   {
     "id": "word-依然-いぜん",
@@ -3424,7 +3568,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "依然 いぜん 아직 N3",
+    "searchText": "依然 いぜん 아직 依 然 N3",
     "levels": [
       "N3"
     ],
@@ -3434,7 +3578,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "依 然"
   },
   {
     "id": "word-流れる-ながれる",
@@ -3445,7 +3590,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "流れる ながれる 하다, 달리다, 이다 N3",
+    "searchText": "流れる ながれる 하다, 달리다, 이다 流 N3",
     "levels": [
       "N3"
     ],
@@ -3455,7 +3600,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "流"
   },
   {
     "id": "word-現象-げんしょう",
@@ -3466,12 +3612,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "現象 げんしょう 현상 N3",
+    "searchText": "現象 げんしょう 현상 現 象 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "現 象"
   },
   {
     "id": "word-デザート-でざーと",
@@ -3487,7 +3634,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-良い-よい",
@@ -3498,7 +3646,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "良い よい 훌륭하다, 좋다 N3",
+    "searchText": "良い よい 훌륭하다, 좋다 良 N3",
     "levels": [
       "N3"
     ],
@@ -3512,7 +3660,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "良"
   },
   {
     "id": "word-当たり前-あたりまえ",
@@ -3523,7 +3672,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "当たり前 あたりまえ 자연스럽다, 흔하다 N3",
+    "searchText": "当たり前 あたりまえ 자연스럽다, 흔하다 当 前 N3",
     "levels": [
       "N3"
     ],
@@ -3533,7 +3682,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "当 前"
   },
   {
     "id": "word-同様-どうよう",
@@ -3544,12 +3694,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "同様 どうよう 같다 N3",
+    "searchText": "同様 どうよう 같다 同 様 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "同 様"
   },
   {
     "id": "word-制限-せいげん",
@@ -3560,12 +3711,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "制限 せいげん 제한 N3",
+    "searchText": "制限 せいげん 제한 制 限 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "制 限"
   },
   {
     "id": "word-向ける-むける",
@@ -3576,7 +3728,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "向ける むける 하다 N3",
+    "searchText": "向ける むける 하다 向 N3",
     "levels": [
       "N3"
     ],
@@ -3586,7 +3738,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "向"
   },
   {
     "id": "word-規制-きせい",
@@ -3597,12 +3750,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "規制 きせい 관리, 제한 N3",
+    "searchText": "規制 きせい 관리, 제한 規 制 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "規 制"
   },
   {
     "id": "word-被害-ひがい",
@@ -3613,12 +3767,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "被害 ひがい 피해, 부상 N3",
+    "searchText": "被害 ひがい 피해, 부상 被 害 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "被 害"
   },
   {
     "id": "word-そのまま-no-reading",
@@ -3639,7 +3794,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-平均-へいきん",
@@ -3650,12 +3806,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "平均 へいきん 평균 N3",
+    "searchText": "平均 へいきん 평균 平 均 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "平 均"
   },
   {
     "id": "word-年齢-ねんれい",
@@ -3666,7 +3823,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "年齢 ねんれい 나이, 시대 N3",
+    "searchText": "年齢 ねんれい 나이, 시대 年 齢 N3",
     "levels": [
       "N3"
     ],
@@ -3676,7 +3833,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "年 齢"
   },
   {
     "id": "word-新た-あらた",
@@ -3687,12 +3845,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "新た あらた 신선하다, 새롭다 N3",
+    "searchText": "新た あらた 신선하다, 새롭다 新 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "新"
   },
   {
     "id": "word-ルール-るーる",
@@ -3708,7 +3867,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-円-えん",
@@ -3729,7 +3889,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "円"
   },
   {
     "id": "word-全国-ぜんこく",
@@ -3740,12 +3901,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "全国 ぜんこく 전국 N3",
+    "searchText": "全国 ぜんこく 전국 全 国 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "全 国"
   },
   {
     "id": "word-支払う-しはらう",
@@ -3756,12 +3918,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "支払う しはらう 하다 N3",
+    "searchText": "支払う しはらう 하다 支 払 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "支 払"
   },
   {
     "id": "word-改善-かいぜん",
@@ -3772,12 +3935,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "改善 かいぜん 개선 N3",
+    "searchText": "改善 かいぜん 개선 改 善 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "改 善"
   },
   {
     "id": "word-効果-こうか",
@@ -3788,7 +3952,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "効果 こうか 영향, 효과 N3",
+    "searchText": "効果 こうか 영향, 효과 効 果 N3",
     "levels": [
       "N3"
     ],
@@ -3798,7 +3962,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "効 果"
   },
   {
     "id": "word-単に-たんに",
@@ -3809,12 +3974,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "単に たんに 오직 N3",
+    "searchText": "単に たんに 오직 単 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "単"
   },
   {
     "id": "word-立場-たちば",
@@ -3825,12 +3991,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "立場 たちば 위치, 입장, 상황, 입장, 관점 N3",
+    "searchText": "立場 たちば 위치, 입장, 상황, 입장, 관점 立 場 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "立 場"
   },
   {
     "id": "word-考え-かんがえ",
@@ -3841,7 +4008,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "考え かんがえ 의견, 관점 N3",
+    "searchText": "考え かんがえ 의견, 관점 考 N3",
     "levels": [
       "N3"
     ],
@@ -3855,7 +4022,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "考"
   },
   {
     "id": "word-こぼれる-no-reading",
@@ -3871,7 +4039,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-汚す-よごす",
@@ -3882,12 +4051,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "汚す よごす 하다 N3",
+    "searchText": "汚す よごす 하다 汚 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "汚"
   },
   {
     "id": "word-全て-すべて",
@@ -3898,7 +4068,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "全て すべて 모두, 모든 것 N3",
+    "searchText": "全て すべて 모두, 모든 것 全 N3",
     "levels": [
       "N3"
     ],
@@ -3908,7 +4078,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "全"
   },
   {
     "id": "word-様々-さまざま",
@@ -3919,7 +4090,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "様々 さまざま 여러 가지, 다양하다 N3",
+    "searchText": "様々 さまざま 여러 가지, 다양하다 様 N3",
     "levels": [
       "N3"
     ],
@@ -3933,7 +4104,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "様"
   },
   {
     "id": "word-高まる-たかまる",
@@ -3944,7 +4116,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "高まる たかまる 이다, 오르다, 하다 N3",
+    "searchText": "高まる たかまる 이다, 오르다, 하다 高 N3",
     "levels": [
       "N3"
     ],
@@ -3954,7 +4126,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "高"
   },
   {
     "id": "word-日光-にっこう",
@@ -3965,7 +4138,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "日光 にっこう 햇빛 N3",
+    "searchText": "日光 にっこう 햇빛 日 光 N3",
     "levels": [
       "N3"
     ],
@@ -3975,7 +4148,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "日 光"
   },
   {
     "id": "word-度-ど",
@@ -3996,7 +4170,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "度"
   },
   {
     "id": "word-超える-こえる",
@@ -4007,7 +4182,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "超える こえる 하다 N3",
+    "searchText": "超える こえる 하다 超 N3",
     "levels": [
       "N3"
     ],
@@ -4017,7 +4192,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "超"
   },
   {
     "id": "word-温度-おんど",
@@ -4028,7 +4204,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "温度 おんど 관련 표현 N3",
+    "searchText": "温度 おんど 관련 표현 温 度 N3",
     "levels": [
       "N3"
     ],
@@ -4038,7 +4214,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "温 度"
   },
   {
     "id": "word-変化-へんか",
@@ -4049,7 +4226,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "変化 へんか 변경, 변화 N3",
+    "searchText": "変化 へんか 변경, 변화 変 化 N3",
     "levels": [
       "N3"
     ],
@@ -4059,7 +4236,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "変 化"
   },
   {
     "id": "word-激しい-はげしい",
@@ -4070,7 +4248,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "激しい はげしい 관련 표현 N3",
+    "searchText": "激しい はげしい 관련 표현 激 N3",
     "levels": [
       "N3"
     ],
@@ -4080,7 +4258,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "激"
   },
   {
     "id": "word-日中-にっちゅう",
@@ -4091,7 +4270,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "日中 にっちゅう 날 N3",
+    "searchText": "日中 にっちゅう 날 日 中 N3",
     "levels": [
       "N3"
     ],
@@ -4101,7 +4280,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "日 中"
   },
   {
     "id": "word-服装-ふくそう",
@@ -4112,7 +4292,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "服装 ふくそう 관련 표현 N3",
+    "searchText": "服装 ふくそう 관련 표현 服 装 N3",
     "levels": [
       "N3"
     ],
@@ -4122,7 +4302,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "服 装"
   },
   {
     "id": "word-汗-あせ",
@@ -4143,7 +4324,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "汗"
   },
   {
     "id": "word-過ごす-すごす",
@@ -4154,7 +4336,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "過ごす すごす 하다, 살다 N3",
+    "searchText": "過ごす すごす 하다, 살다 過 N3",
     "levels": [
       "N3"
     ],
@@ -4168,7 +4350,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "過"
   },
   {
     "id": "word-追う-おう",
@@ -4179,7 +4362,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "追う おう 하다 N3",
+    "searchText": "追う おう 하다 追 N3",
     "levels": [
       "N3"
     ],
@@ -4189,7 +4372,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "追"
   },
   {
     "id": "word-感覚-かんかく",
@@ -4200,7 +4384,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "感覚 かんかく 느낌, 감각, 의미 N3",
+    "searchText": "感覚 かんかく 느낌, 감각, 의미 感 覚 N3",
     "levels": [
       "N3"
     ],
@@ -4210,7 +4394,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "感 覚"
   },
   {
     "id": "word-身-み",
@@ -4231,7 +4416,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "身"
   },
   {
     "id": "word-天候-てんこう",
@@ -4242,7 +4428,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "天候 てんこう 관련 표현 N3",
+    "searchText": "天候 てんこう 관련 표현 天 候 N3",
     "levels": [
       "N3"
     ],
@@ -4252,7 +4438,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "天 候"
   },
   {
     "id": "word-気温-きおん",
@@ -4263,7 +4450,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "気温 きおん 관련 표현 N3",
+    "searchText": "気温 きおん 관련 표현 気 温 N3",
     "levels": [
       "N3"
     ],
@@ -4273,7 +4460,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "気 温"
   },
   {
     "id": "word-梅雨-つゆ",
@@ -4284,7 +4472,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "梅雨 つゆ 관련 표현 N3",
+    "searchText": "梅雨 つゆ 관련 표현 梅 雨 N3",
     "levels": [
       "N3"
     ],
@@ -4294,7 +4482,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "梅 雨"
   },
   {
     "id": "word-先日-せんじつ",
@@ -4305,7 +4494,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "先日 せんじつ 다른 날 N3",
+    "searchText": "先日 せんじつ 다른 날 先 日 N3",
     "levels": [
       "N3"
     ],
@@ -4315,7 +4504,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "先 日"
   },
   {
     "id": "word-緊張-きんちょう",
@@ -4326,7 +4516,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "緊張 きんちょう 관련 표현 N3",
+    "searchText": "緊張 きんちょう 관련 표현 緊 張 N3",
     "levels": [
       "N3"
     ],
@@ -4336,7 +4526,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "緊 張"
   },
   {
     "id": "word-スタイル-すたいる",
@@ -4357,7 +4548,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-エネルギー-えねるぎー",
@@ -4378,7 +4570,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-消費-しょうひ",
@@ -4389,7 +4582,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "消費 しょうひ 관련 표현 N3",
+    "searchText": "消費 しょうひ 관련 표현 消 費 N3",
     "levels": [
       "N3"
     ],
@@ -4399,7 +4592,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "消 費"
   },
   {
     "id": "word-温かい-あたたかい",
@@ -4410,7 +4604,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "温かい あたたかい 따뜻하다 N3",
+    "searchText": "温かい あたたかい 따뜻하다 温 N3",
     "levels": [
       "N3"
     ],
@@ -4420,7 +4614,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "温"
   },
   {
     "id": "word-太陽-たいよう",
@@ -4431,7 +4626,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "太陽 たいよう 관련 표현 N3",
+    "searchText": "太陽 たいよう 관련 표현 太 陽 N3",
     "levels": [
       "N3"
     ],
@@ -4441,7 +4636,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "太 陽"
   },
   {
     "id": "word-澄む-すむ",
@@ -4452,7 +4648,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "澄む すむ 되다 하다, 하다, 자유롭다, 무료 이다 N3",
+    "searchText": "澄む すむ 되다 하다, 하다, 자유롭다, 무료 이다 澄 N3",
     "levels": [
       "N3"
     ],
@@ -4462,7 +4658,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "澄"
   },
   {
     "id": "word-全員-ぜんいん",
@@ -4473,7 +4670,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "全員 ぜんいん 모두 N3",
+    "searchText": "全員 ぜんいん 모두 全 員 N3",
     "levels": [
       "N3"
     ],
@@ -4483,7 +4680,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "全 員"
   },
   {
     "id": "word-調査-ちょうさ",
@@ -4494,7 +4692,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "調査 ちょうさ 관련 표현 N3",
+    "searchText": "調査 ちょうさ 관련 표현 調 査 N3",
     "levels": [
       "N3"
     ],
@@ -4508,7 +4706,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "調 査"
   },
   {
     "id": "word-自然-しぜん",
@@ -4519,7 +4718,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "自然 しぜん 성질, 자연, 자동, 자연스럽다 N3",
+    "searchText": "自然 しぜん 성질, 자연, 자동, 자연스럽다 自 然 N3",
     "levels": [
       "N3"
     ],
@@ -4537,7 +4736,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "自 然"
   },
   {
     "id": "word-活用-かつよう",
@@ -4548,7 +4748,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "活用 かつよう 이용 N3",
+    "searchText": "活用 かつよう 이용 活 用 N3",
     "levels": [
       "N3"
     ],
@@ -4558,7 +4758,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "活 用"
   },
   {
     "id": "word-裸-はだか",
@@ -4579,7 +4780,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "裸"
   },
   {
     "id": "word-全身-ぜんしん",
@@ -4590,7 +4792,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "全身 ぜんしん 가득하다, 전체 N3",
+    "searchText": "全身 ぜんしん 가득하다, 전체 全 身 N3",
     "levels": [
       "N3"
     ],
@@ -4600,7 +4802,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "全 身"
   },
   {
     "id": "word-肌-はだ",
@@ -4621,7 +4824,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "肌"
   },
   {
     "id": "word-状態-じょうたい",
@@ -4632,7 +4836,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "状態 じょうたい 모습, 상황, 상태, 국가, 상태 N3",
+    "searchText": "状態 じょうたい 모습, 상황, 상태, 국가, 상태 状 態 N3",
     "levels": [
       "N3"
     ],
@@ -4646,7 +4850,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "状 態"
   },
   {
     "id": "word-刺す-さす",
@@ -4657,7 +4862,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "刺す さす 하다 N3",
+    "searchText": "刺す さす 하다 刺 N3",
     "levels": [
       "N3"
     ],
@@ -4667,7 +4872,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "刺"
   },
   {
     "id": "word-特徴-とくちょう",
@@ -4678,7 +4884,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "特徴 とくちょう 특징, 구별 N3",
+    "searchText": "特徴 とくちょう 특징, 구별 特 徴 N3",
     "levels": [
       "N3"
     ],
@@ -4692,7 +4898,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "特 徴"
   },
   {
     "id": "word-疑問-ぎもん",
@@ -4703,7 +4910,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "疑問 ぎもん 질문, 문제 N3",
+    "searchText": "疑問 ぎもん 질문, 문제 疑 問 N3",
     "levels": [
       "N3"
     ],
@@ -4713,7 +4920,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "疑 問"
   },
   {
     "id": "word-元-もと",
@@ -4738,7 +4946,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "元"
   },
   {
     "id": "word-当てる-あてる",
@@ -4749,7 +4958,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "当てる あてる 하다 N3",
+    "searchText": "当てる あてる 하다 当 N3",
     "levels": [
       "N3"
     ],
@@ -4759,7 +4968,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "当"
   },
   {
     "id": "word-濃い-こい",
@@ -4770,7 +4980,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "濃い こい 깊다, 강하다 N3",
+    "searchText": "濃い こい 깊다, 강하다 濃 N3",
     "levels": [
       "N3"
     ],
@@ -4780,7 +4990,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "濃"
   },
   {
     "id": "word-生える-はえる",
@@ -4791,7 +5002,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "生える はえる 하다 N3",
+    "searchText": "生える はえる 하다 生 N3",
     "levels": [
       "N3"
     ],
@@ -4801,7 +5012,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "生"
   },
   {
     "id": "word-一種-いっしゅ",
@@ -4812,7 +5024,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "一種 いっしゅ 종류, 친절하다 N3",
+    "searchText": "一種 いっしゅ 종류, 친절하다 一 種 N3",
     "levels": [
       "N3"
     ],
@@ -4822,7 +5034,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "一 種"
   },
   {
     "id": "word-生やす-はやす",
@@ -4833,7 +5046,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "生やす はやす 하다 N3",
+    "searchText": "生やす はやす 하다 生 N3",
     "levels": [
       "N3"
     ],
@@ -4843,7 +5056,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "生"
   },
   {
     "id": "word-舌-した",
@@ -4864,7 +5078,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "舌"
   },
   {
     "id": "word-確認-かくにん",
@@ -4875,7 +5090,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "確認 かくにん 관련 표현 N3",
+    "searchText": "確認 かくにん 관련 표현 確 認 N3",
     "levels": [
       "N3"
     ],
@@ -4885,7 +5100,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "確 認"
   },
   {
     "id": "word-完了-かんりょう",
@@ -4896,7 +5112,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "完了 かんりょう 결론 N3",
+    "searchText": "完了 かんりょう 결론 完 了 N3",
     "levels": [
       "N3"
     ],
@@ -4906,7 +5122,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "完 了"
   },
   {
     "id": "word-跡-あと",
@@ -4927,7 +5144,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "跡"
   },
   {
     "id": "word-袖-そで",
@@ -4948,7 +5166,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "袖"
   },
   {
     "id": "word-部分-ぶぶん",
@@ -4959,7 +5178,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "部分 ぶぶん 부분 N3",
+    "searchText": "部分 ぶぶん 부분 部 分 N3",
     "levels": [
       "N3"
     ],
@@ -4969,7 +5188,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "部 分"
   },
   {
     "id": "word-避ける-さける",
@@ -4980,7 +5200,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "避ける さける 하다 N3",
+    "searchText": "避ける さける 하다 避 N3",
     "levels": [
       "N3"
     ],
@@ -4994,7 +5214,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "避"
   },
   {
     "id": "word-残す-のこす",
@@ -5005,7 +5226,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "残す のこす 떠나다, 하다 N3",
+    "searchText": "残す のこす 떠나다, 하다 残 N3",
     "levels": [
       "N3"
     ],
@@ -5015,7 +5236,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "残"
   },
   {
     "id": "word-勇気-ゆうき",
@@ -5026,7 +5248,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "勇気 ゆうき 관련 표현 N3",
+    "searchText": "勇気 ゆうき 관련 표현 勇 気 N3",
     "levels": [
       "N3"
     ],
@@ -5036,7 +5258,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "勇 気"
   },
   {
     "id": "word-わがまま-no-reading",
@@ -5057,7 +5280,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-被る-かぶる",
@@ -5068,7 +5292,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "被る かぶる 하다 N3",
+    "searchText": "被る かぶる 하다 被 N3",
     "levels": [
       "N3"
     ],
@@ -5078,7 +5302,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "被"
   },
   {
     "id": "word-商品-しょうひん",
@@ -5089,7 +5314,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "商品 しょうひん 관련 표현 N3",
+    "searchText": "商品 しょうひん 관련 표현 商 品 N3",
     "levels": [
       "N3"
     ],
@@ -5099,7 +5324,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "商 品"
   },
   {
     "id": "word-文字-もじ",
@@ -5110,7 +5336,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "文字 もじ 문자, 성격 N3",
+    "searchText": "文字 もじ 문자, 성격 文 字 N3",
     "levels": [
       "N3"
     ],
@@ -5120,7 +5346,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "文 字"
   },
   {
     "id": "word-言語-げんご",
@@ -5131,7 +5358,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "言語 げんご 언어 N3",
+    "searchText": "言語 げんご 언어 言 語 N3",
     "levels": [
       "N3"
     ],
@@ -5141,7 +5368,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "言 語"
   },
   {
     "id": "word-雰囲気-ふんいき",
@@ -5152,7 +5380,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "雰囲気 ふんいき 관련 표현 N3",
+    "searchText": "雰囲気 ふんいき 관련 표현 雰 囲 気 N3",
     "levels": [
       "N3"
     ],
@@ -5166,7 +5394,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "雰 囲 気"
   },
   {
     "id": "word-普段-ふだん",
@@ -5177,7 +5406,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "普段 ふだん 보통 N3",
+    "searchText": "普段 ふだん 보통 普 段 N3",
     "levels": [
       "N3"
     ],
@@ -5187,7 +5416,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "普 段"
   },
   {
     "id": "word-独特-どくとく",
@@ -5198,7 +5428,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "独特 どくとく 특징, 오직 N3",
+    "searchText": "独特 どくとく 특징, 오직 独 特 N3",
     "levels": [
       "N3"
     ],
@@ -5212,7 +5442,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "独 特"
   },
   {
     "id": "word-さっぱり-no-reading",
@@ -5233,7 +5464,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-途端-とたん",
@@ -5244,7 +5476,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "途端 とたん 행동, 막, 단지 N3",
+    "searchText": "途端 とたん 행동, 막, 단지 途 端 N3",
     "levels": [
       "N3"
     ],
@@ -5254,7 +5486,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "途 端"
   },
   {
     "id": "word-求める-もとめる",
@@ -5265,7 +5498,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "求める もとめる 하다 N3",
+    "searchText": "求める もとめる 하다 求 N3",
     "levels": [
       "N3"
     ],
@@ -5275,7 +5508,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "求"
   },
   {
     "id": "word-機能-きのう",
@@ -5286,7 +5520,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "機能 きのう 관련 표현 N3",
+    "searchText": "機能 きのう 관련 표현 機 能 N3",
     "levels": [
       "N3"
     ],
@@ -5296,7 +5530,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "機 能"
   },
   {
     "id": "word-テント-てんと",
@@ -5317,7 +5552,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-燃やす-もやす",
@@ -5328,7 +5564,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "燃やす もやす 하다, 이다 N3",
+    "searchText": "燃やす もやす 하다, 이다 燃 N3",
     "levels": [
       "N3"
     ],
@@ -5338,7 +5574,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "燃"
   },
   {
     "id": "word-温める-あたためる",
@@ -5349,7 +5586,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "温める あたためる 하다 N3",
+    "searchText": "温める あたためる 하다 温 N3",
     "levels": [
       "N3"
     ],
@@ -5359,7 +5596,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "温"
   },
   {
     "id": "word-幸せ-しあわせ",
@@ -5370,7 +5608,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "幸せ しあわせ 관련 표현 N3",
+    "searchText": "幸せ しあわせ 관련 표현 幸 N3",
     "levels": [
       "N3"
     ],
@@ -5384,7 +5622,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "幸"
   },
   {
     "id": "word-当たる-あたる",
@@ -5395,7 +5634,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "当たる あたる 이다, 하다, 만지다 N3",
+    "searchText": "当たる あたる 이다, 하다, 만지다 当 N3",
     "levels": [
       "N3"
     ],
@@ -5405,7 +5644,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "当"
   },
   {
     "id": "word-取れる-とれる",
@@ -5416,7 +5656,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "取れる とれる 하다, 이다, 나오다 N3",
+    "searchText": "取れる とれる 하다, 이다, 나오다 取 N3",
     "levels": [
       "N3"
     ],
@@ -5426,7 +5666,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "取"
   },
   {
     "id": "word-性格-せいかく",
@@ -5437,7 +5678,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "性格 せいかく 문자, 성격, 성질, 자연 N3",
+    "searchText": "性格 せいかく 문자, 성격, 성질, 자연 性 格 N3",
     "levels": [
       "N3"
     ],
@@ -5451,7 +5692,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "性 格"
   },
   {
     "id": "word-繰り返す-くりかえす",
@@ -5462,7 +5704,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "繰り返す くりかえす 다시하다, 하다 N3",
+    "searchText": "繰り返す くりかえす 다시하다, 하다 繰 返 N3",
     "levels": [
       "N3"
     ],
@@ -5476,7 +5718,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "繰 返"
   },
   {
     "id": "word-過程-かてい",
@@ -5487,7 +5730,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "過程 かてい 장치 N3",
+    "searchText": "過程 かてい 장치 過 程 N3",
     "levels": [
       "N3"
     ],
@@ -5497,7 +5740,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "過 程"
   },
   {
     "id": "word-レベル-れべる",
@@ -5522,7 +5766,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-不安-ふあん",
@@ -5533,7 +5778,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "不安 ふあん 관련 표현 N3",
+    "searchText": "不安 ふあん 관련 표현 不 安 N3",
     "levels": [
       "N3"
     ],
@@ -5543,7 +5788,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "不 安"
   },
   {
     "id": "word-広告-こうこく",
@@ -5554,7 +5800,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "広告 こうこく 관련 표현 N3",
+    "searchText": "広告 こうこく 관련 표현 広 告 N3",
     "levels": [
       "N3"
     ],
@@ -5564,7 +5810,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "広 告"
   },
   {
     "id": "word-学ぶ-まなぶ",
@@ -5575,7 +5822,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "学ぶ まなぶ 배우다, 공부하다, 하다 N3",
+    "searchText": "学ぶ まなぶ 배우다, 공부하다, 하다 学 N3",
     "levels": [
       "N3"
     ],
@@ -5585,7 +5832,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "学"
   },
   {
     "id": "word-恐怖-きょうふ",
@@ -5596,7 +5844,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "恐怖 きょうふ 관련 표현 N3",
+    "searchText": "恐怖 きょうふ 관련 표현 恐 怖 N3",
     "levels": [
       "N3"
     ],
@@ -5606,7 +5854,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "恐 怖"
   },
   {
     "id": "word-現代-げんだい",
@@ -5617,7 +5866,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "現代 げんだい 현재, 현재 날, 오늘 N3",
+    "searchText": "現代 げんだい 현재, 현재 날, 오늘 現 代 N3",
     "levels": [
       "N3"
     ],
@@ -5631,7 +5880,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "現 代"
   },
   {
     "id": "word-人類-じんるい",
@@ -5642,7 +5892,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "人類 じんるい 관련 표현 N3",
+    "searchText": "人類 じんるい 관련 표현 人 類 N3",
     "levels": [
       "N3"
     ],
@@ -5652,7 +5902,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "人 類"
   },
   {
     "id": "word-利益-りえき",
@@ -5663,7 +5914,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "利益 りえき 좋다 N3",
+    "searchText": "利益 りえき 좋다 利 益 N3",
     "levels": [
       "N3"
     ],
@@ -5673,7 +5924,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "利 益"
   },
   {
     "id": "word-例-れい",
@@ -5698,7 +5950,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "例"
   },
   {
     "id": "word-高める-たかめる",
@@ -5709,7 +5962,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "高める たかめる 하다, 올리다 N3",
+    "searchText": "高める たかめる 하다, 올리다 高 N3",
     "levels": [
       "N3"
     ],
@@ -5719,7 +5972,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "高"
   },
   {
     "id": "word-栄養-えいよう",
@@ -5730,7 +5984,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "栄養 えいよう 관련 표현 N3",
+    "searchText": "栄養 えいよう 관련 표현 栄 養 N3",
     "levels": [
       "N3"
     ],
@@ -5740,7 +5994,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "栄 養"
   },
   {
     "id": "word-事実-じじつ",
@@ -5751,7 +6006,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "事実 じじつ 사실, 현실, 진실 N3",
+    "searchText": "事実 じじつ 사실, 현실, 진실 事 実 N3",
     "levels": [
       "N3"
     ],
@@ -5765,7 +6020,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "事 実"
   },
   {
     "id": "word-役割-やくわり",
@@ -5776,7 +6032,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "役割 やくわり 부분 N3",
+    "searchText": "役割 やくわり 부분 役 割 N3",
     "levels": [
       "N3"
     ],
@@ -5786,7 +6042,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "役 割"
   },
   {
     "id": "word-深まる-ふかまる",
@@ -5797,7 +6054,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "深まる ふかまる 하다 N3",
+    "searchText": "深まる ふかまる 하다 深 N3",
     "levels": [
       "N3"
     ],
@@ -5807,7 +6064,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "深"
   },
   {
     "id": "word-留学-りゅうがく",
@@ -5818,7 +6076,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "留学 りゅうがく 학교 N3",
+    "searchText": "留学 りゅうがく 학교 留 学 N3",
     "levels": [
       "N3"
     ],
@@ -5828,7 +6086,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "留 学"
   },
   {
     "id": "word-謎-なぞ",
@@ -5849,7 +6108,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "謎"
   },
   {
     "id": "word-解ける-とける",
@@ -5860,7 +6120,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "解ける とける 이다, 하다 N3",
+    "searchText": "解ける とける 이다, 하다 解 N3",
     "levels": [
       "N3"
     ],
@@ -5870,7 +6130,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "解"
   },
   {
     "id": "word-昇る-のぼる",
@@ -5881,7 +6142,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "昇る のぼる 하다, 오르다 N3",
+    "searchText": "昇る のぼる 하다, 오르다 昇 N3",
     "levels": [
       "N3"
     ],
@@ -5891,7 +6152,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "昇"
   },
   {
     "id": "word-関連-かんれん",
@@ -5902,7 +6164,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "関連 かんれん 연결, 관계 N3",
+    "searchText": "関連 かんれん 연결, 관계 関 連 N3",
     "levels": [
       "N3"
     ],
@@ -5912,7 +6174,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "関 連"
   },
   {
     "id": "word-精神-せいしん",
@@ -5923,7 +6186,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "精神 せいしん 마음, 정신 N3",
+    "searchText": "精神 せいしん 마음, 정신 精 神 N3",
     "levels": [
       "N3"
     ],
@@ -5933,7 +6196,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "精 神"
   },
   {
     "id": "word-安定-あんてい",
@@ -5944,7 +6208,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "安定 あんてい 균형 N3",
+    "searchText": "安定 あんてい 균형 安 定 N3",
     "levels": [
       "N3"
     ],
@@ -5954,7 +6218,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "安 定"
   },
   {
     "id": "word-患者-かんじゃ",
@@ -5965,7 +6230,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "患者 かんじゃ 관련 표현 N3",
+    "searchText": "患者 かんじゃ 관련 표현 患 者 N3",
     "levels": [
       "N3"
     ],
@@ -5975,7 +6240,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "患 者"
   },
   {
     "id": "word-勧める-すすめる",
@@ -5986,7 +6252,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "勧める すすめる 하다 N3",
+    "searchText": "勧める すすめる 하다 勧 N3",
     "levels": [
       "N3"
     ],
@@ -5996,7 +6262,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "勧"
   },
   {
     "id": "word-視覚-しかく",
@@ -6007,7 +6274,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "視覚 しかく 시야, 시력 N3",
+    "searchText": "視覚 しかく 시야, 시력 視 覚 N3",
     "levels": [
       "N3"
     ],
@@ -6017,7 +6284,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "視 覚"
   },
   {
     "id": "word-風景-ふうけい",
@@ -6028,7 +6296,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "風景 ふうけい 장면, 시야, 관점 N3",
+    "searchText": "風景 ふうけい 장면, 시야, 관점 風 景 N3",
     "levels": [
       "N3"
     ],
@@ -6042,7 +6310,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "風 景"
   },
   {
     "id": "word-苦手-にがて",
@@ -6053,7 +6322,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "苦手 にがて 가난하다, 서투르다 N3",
+    "searchText": "苦手 にがて 가난하다, 서투르다 苦 手 N3",
     "levels": [
       "N3"
     ],
@@ -6063,7 +6332,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "苦 手"
   },
   {
     "id": "word-記録-きろく",
@@ -6074,7 +6344,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "記録 きろく 관련 표현 N3",
+    "searchText": "記録 きろく 관련 표현 記 録 N3",
     "levels": [
       "N3"
     ],
@@ -6084,7 +6354,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "記 録"
   },
   {
     "id": "word-ビデオ-びでお",
@@ -6105,7 +6376,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-通す-とおす",
@@ -6116,7 +6388,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "通す とおす 하다, 사이 하다 N3",
+    "searchText": "通す とおす 하다, 사이 하다 通 N3",
     "levels": [
       "N3"
     ],
@@ -6126,7 +6398,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "通"
   },
   {
     "id": "word-睡眠-すいみん",
@@ -6137,7 +6410,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "睡眠 すいみん 관련 표현 N3",
+    "searchText": "睡眠 すいみん 관련 표현 睡 眠 N3",
     "levels": [
       "N3"
     ],
@@ -6147,7 +6420,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "睡 眠"
   },
   {
     "id": "word-連続-れんぞく",
@@ -6158,7 +6432,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "連続 れんぞく 관련 표현 N3",
+    "searchText": "連続 れんぞく 관련 표현 連 続 N3",
     "levels": [
       "N3"
     ],
@@ -6168,7 +6442,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "連 続"
   },
   {
     "id": "word-解決-かいけつ",
@@ -6179,7 +6454,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "解決 かいけつ 관련 표현 N3",
+    "searchText": "解決 かいけつ 관련 표현 解 決 N3",
     "levels": [
       "N3"
     ],
@@ -6189,7 +6464,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "解 決"
   },
   {
     "id": "word-替える-かえる",
@@ -6200,7 +6476,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "替える かえる 바꾸다, 하다 N3",
+    "searchText": "替える かえる 바꾸다, 하다 替 N3",
     "levels": [
       "N3"
     ],
@@ -6210,7 +6486,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "替"
   },
   {
     "id": "word-評価-ひょうか",
@@ -6221,7 +6498,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "評価 ひょうか 관련 표현 N3",
+    "searchText": "評価 ひょうか 관련 표현 評 価 N3",
     "levels": [
       "N3"
     ],
@@ -6231,7 +6508,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "評 価"
   },
   {
     "id": "word-外す-はずす",
@@ -6242,7 +6520,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "外す はずす 하다 N3",
+    "searchText": "外す はずす 하다 外 N3",
     "levels": [
       "N3"
     ],
@@ -6252,7 +6530,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "外"
   },
   {
     "id": "word-外れる-はずれる",
@@ -6263,7 +6542,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "外れる はずれる 이다, 장소하다, 하다 N3",
+    "searchText": "外れる はずれる 이다, 장소하다, 하다 外 N3",
     "levels": [
       "N3"
     ],
@@ -6273,7 +6552,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "外"
   },
   {
     "id": "word-位置-いち",
@@ -6284,12 +6564,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "位置 いち 위치, 장소, 위치, 입장, 상황 N3",
+    "searchText": "位置 いち 위치, 장소, 위치, 입장, 상황 位 置 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "位 置"
   },
   {
     "id": "word-携帯-けいたい",
@@ -6300,12 +6581,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "携帯 けいたい 관련 표현 N3",
+    "searchText": "携帯 けいたい 관련 표현 携 帯 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "携 帯"
   },
   {
     "id": "word-ショック-しょっく",
@@ -6321,7 +6603,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-高価-こうか",
@@ -6332,12 +6615,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "高価 こうか 비싸다 N3",
+    "searchText": "高価 こうか 비싸다 高 価 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "高 価"
   },
   {
     "id": "word-湧く-わく",
@@ -6348,12 +6632,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "湧く わく 하다 N3",
+    "searchText": "湧く わく 하다 湧 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "湧"
   },
   {
     "id": "word-欠点-けってん",
@@ -6364,12 +6649,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "欠点 けってん 관련 표현 N3",
+    "searchText": "欠点 けってん 관련 표현 欠 点 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "欠 点"
   },
   {
     "id": "word-覆う-おおう",
@@ -6380,12 +6666,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "覆う おおう 하다 N3",
+    "searchText": "覆う おおう 하다 覆 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "覆"
   },
   {
     "id": "word-予測-よそく",
@@ -6396,12 +6683,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "予測 よそく 관련 표현 N3",
+    "searchText": "予測 よそく 관련 표현 予 測 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "予 測"
   },
   {
     "id": "word-実-じつ",
@@ -6417,7 +6705,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "実"
   },
   {
     "id": "word-覚める-さめる",
@@ -6428,12 +6717,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "覚める さめる 하다, 되다 하다 N3",
+    "searchText": "覚める さめる 하다, 되다 하다 覚 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "覚"
   },
   {
     "id": "word-吸収-きゅうしゅう",
@@ -6444,12 +6734,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "吸収 きゅうしゅう 관련 표현 N3",
+    "searchText": "吸収 きゅうしゅう 관련 표현 吸 収 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "吸 収"
   },
   {
     "id": "word-達する-たっする",
@@ -6460,7 +6751,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "達する たっする 하다 N3",
+    "searchText": "達する たっする 하다 達 N3",
     "levels": [
       "N3"
     ],
@@ -6470,7 +6761,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "達"
   },
   {
     "id": "word-金属-きんぞく",
@@ -6481,12 +6773,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "金属 きんぞく 관련 표현 N3",
+    "searchText": "金属 きんぞく 관련 표현 金 属 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "金 属"
   },
   {
     "id": "word-触れる-ふれる",
@@ -6497,12 +6790,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "触れる ふれる 느끼다, 만지다, 하다 N3",
+    "searchText": "触れる ふれる 느끼다, 만지다, 하다 触 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "触"
   },
   {
     "id": "word-伸ばす-のばす",
@@ -6513,12 +6807,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "伸ばす のばす 길다하다, 하다 N3",
+    "searchText": "伸ばす のばす 길다하다, 하다 伸 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "伸"
   },
   {
     "id": "word-数-すう",
@@ -6534,7 +6829,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "数"
   },
   {
     "id": "word-冷やす-ひやす",
@@ -6545,12 +6841,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "冷やす ひやす 하다 N3",
+    "searchText": "冷やす ひやす 하다 冷 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "冷"
   },
   {
     "id": "word-悩む-なやむ",
@@ -6561,7 +6858,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "悩む なやむ 곤란하다, 이다 N3",
+    "searchText": "悩む なやむ 곤란하다, 이다 悩 N3",
     "levels": [
       "N3"
     ],
@@ -6571,7 +6868,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "悩"
   },
   {
     "id": "word-程度-ていど",
@@ -6582,7 +6880,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "程度 ていど 대해, 양 N3",
+    "searchText": "程度 ていど 대해, 양 程 度 N3",
     "levels": [
       "N3"
     ],
@@ -6592,7 +6890,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "程 度"
   },
   {
     "id": "word-唯一-ゆいいつ",
@@ -6603,12 +6902,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "唯一 ゆいいつ 오직 N3",
+    "searchText": "唯一 ゆいいつ 오직 唯 一 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "唯 一"
   },
   {
     "id": "word-語る-かたる",
@@ -6619,7 +6919,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "語る かたる 하다, 대해하다 N3",
+    "searchText": "語る かたる 하다, 대해하다 語 N3",
     "levels": [
       "N3"
     ],
@@ -6629,7 +6929,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "語"
   },
   {
     "id": "word-参考-さんこう",
@@ -6640,7 +6941,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "参考 さんこう 관련 표현 N3",
+    "searchText": "参考 さんこう 관련 표현 参 考 N3",
     "levels": [
       "N3"
     ],
@@ -6650,7 +6951,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "参 考"
   },
   {
     "id": "word-混乱-こんらん",
@@ -6661,7 +6963,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "混乱 こんらん 관련 표현 N3",
+    "searchText": "混乱 こんらん 관련 표현 混 乱 N3",
     "levels": [
       "N3"
     ],
@@ -6671,7 +6973,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "混 乱"
   },
   {
     "id": "word-いわゆる-no-reading",
@@ -6692,7 +6995,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-順番-じゅんばん",
@@ -6703,7 +7007,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "順番 じゅんばん 순서, 명령 N3",
+    "searchText": "順番 じゅんばん 순서, 명령 順 番 N3",
     "levels": [
       "N3"
     ],
@@ -6713,7 +7017,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "順 番"
   },
   {
     "id": "word-繋ぐ-つなぐ",
@@ -6724,7 +7029,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "繋ぐ つなぐ 하다, 함께하다 N3",
+    "searchText": "繋ぐ つなぐ 하다, 함께하다 繋 N3",
     "levels": [
       "N3"
     ],
@@ -6734,7 +7039,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "繋"
   },
   {
     "id": "word-デート-でーと",
@@ -6755,7 +7061,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-互い-たがい",
@@ -6766,7 +7073,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "互い たがい 다른 N3",
+    "searchText": "互い たがい 다른 互 N3",
     "levels": [
       "N3"
     ],
@@ -6776,7 +7083,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "互"
   },
   {
     "id": "word-恋人-こいびと",
@@ -6787,7 +7095,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "恋人 こいびと 관련 표현 N3",
+    "searchText": "恋人 こいびと 관련 표현 恋 人 N3",
     "levels": [
       "N3"
     ],
@@ -6797,7 +7105,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "恋 人"
   },
   {
     "id": "word-明確-めいかく",
@@ -6808,7 +7117,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "明確 めいかく 분명하다, 확실하다 N3",
+    "searchText": "明確 めいかく 분명하다, 확실하다 明 確 N3",
     "levels": [
       "N3"
     ],
@@ -6818,7 +7127,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "明 確"
   },
   {
     "id": "word-報告-ほうこく",
@@ -6829,7 +7139,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "報告 ほうこく 정보, 보고 N3",
+    "searchText": "報告 ほうこく 정보, 보고 報 告 N3",
     "levels": [
       "N3"
     ],
@@ -6839,7 +7149,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "報 告"
   },
   {
     "id": "word-経つ-たつ",
@@ -6850,7 +7161,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "経つ たつ 하다 N3",
+    "searchText": "経つ たつ 하다 経 N3",
     "levels": [
       "N3"
     ],
@@ -6860,7 +7171,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "経"
   },
   {
     "id": "word-祝う-いわう",
@@ -6871,7 +7183,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "祝う いわう 하다, 관찰하다, 현재 하다 N3",
+    "searchText": "祝う いわう 하다, 관찰하다, 현재 하다 祝 N3",
     "levels": [
       "N3"
     ],
@@ -6881,7 +7193,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "祝"
   },
   {
     "id": "word-同士-どうし",
@@ -6892,7 +7205,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "同士 どうし 동행 N3",
+    "searchText": "同士 どうし 동행 同 士 N3",
     "levels": [
       "N3"
     ],
@@ -6902,7 +7215,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "同 士"
   },
   {
     "id": "word-方法-ほうほう",
@@ -6913,7 +7227,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "方法 ほうほう 방식, 방법 N3",
+    "searchText": "方法 ほうほう 방식, 방법 方 法 N3",
     "levels": [
       "N3"
     ],
@@ -6923,7 +7237,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "方 法"
   },
   {
     "id": "word-抱く-いだく",
@@ -6934,7 +7249,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "抱く いだく 하다, ' 하다 N3",
+    "searchText": "抱く いだく 하다, ' 하다 抱 N3",
     "levels": [
       "N3"
     ],
@@ -6944,7 +7259,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "抱"
   },
   {
     "id": "word-仲-なか",
@@ -6965,7 +7281,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "仲"
   },
   {
     "id": "word-ドラマ-どらま",
@@ -6986,7 +7303,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-見解-けんかい",
@@ -6997,7 +7315,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "見解 けんかい 의견 N3",
+    "searchText": "見解 けんかい 의견 見 解 N3",
     "levels": [
       "N3"
     ],
@@ -7007,7 +7325,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "見 解"
   },
   {
     "id": "word-教授-きょうじゅ",
@@ -7018,7 +7337,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "教授 きょうじゅ 관련 표현 N3",
+    "searchText": "教授 きょうじゅ 관련 표현 教 授 N3",
     "levels": [
       "N3"
     ],
@@ -7028,7 +7347,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "教 授"
   },
   {
     "id": "word-述べる-のべる",
@@ -7039,7 +7359,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "述べる のべる 하다, 말하다 N3",
+    "searchText": "述べる のべる 하다, 말하다 述 N3",
     "levels": [
       "N3"
     ],
@@ -7049,7 +7369,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "述"
   },
   {
     "id": "word-出版-しゅっぱん",
@@ -7060,7 +7381,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "出版 しゅっぱん 관련 표현 N3",
+    "searchText": "出版 しゅっぱん 관련 표현 出 版 N3",
     "levels": [
       "N3"
     ],
@@ -7070,7 +7391,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "出 版"
   },
   {
     "id": "word-内容-ないよう",
@@ -7081,7 +7403,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "内容 ないよう 내용, 문제, 일 N3",
+    "searchText": "内容 ないよう 내용, 문제, 일 内 容 N3",
     "levels": [
       "N3"
     ],
@@ -7091,7 +7413,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "内 容"
   },
   {
     "id": "word-引用-いんよう",
@@ -7102,7 +7425,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "引用 いんよう 관련 표현 N3",
+    "searchText": "引用 いんよう 관련 표현 引 用 N3",
     "levels": [
       "N3"
     ],
@@ -7112,7 +7435,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "引 用"
   },
   {
     "id": "word-出会い-であい",
@@ -7123,7 +7447,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "出会い であい 가로질러, 처음 N3",
+    "searchText": "出会い であい 가로질러, 처음 出 会 N3",
     "levels": [
       "N3"
     ],
@@ -7133,7 +7457,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "出 会"
   },
   {
     "id": "word-成長-せいちょう",
@@ -7144,7 +7469,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "成長 せいちょう 성장 N3",
+    "searchText": "成長 せいちょう 성장 成 長 N3",
     "levels": [
       "N3"
     ],
@@ -7154,7 +7479,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "成 長"
   },
   {
     "id": "word-指す-さす",
@@ -7165,7 +7491,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "指す さす 하다 N3",
+    "searchText": "指す さす 하다 指 N3",
     "levels": [
       "N3"
     ],
@@ -7175,7 +7501,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "指"
   },
   {
     "id": "word-勢い-いきおい",
@@ -7186,7 +7513,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "勢い いきおい 힘, 생활, 생명, 정신, 활력 N3",
+    "searchText": "勢い いきおい 힘, 생활, 생명, 정신, 활력 勢 N3",
     "levels": [
       "N3"
     ],
@@ -7196,7 +7523,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "勢"
   },
   {
     "id": "word-年間-ねんかん",
@@ -7207,7 +7535,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "年間 ねんかん 관련 표현 N3",
+    "searchText": "年間 ねんかん 관련 표현 年 間 N3",
     "levels": [
       "N3"
     ],
@@ -7217,7 +7545,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "年 間"
   },
   {
     "id": "word-石油-せきゆ",
@@ -7228,7 +7557,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "石油 せきゆ 관련 표현 N3",
+    "searchText": "石油 せきゆ 관련 표현 石 油 N3",
     "levels": [
       "N3"
     ],
@@ -7238,7 +7567,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "石 油"
   },
   {
     "id": "word-大-だい",
@@ -7259,7 +7589,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "大"
   },
   {
     "id": "word-価値-かち",
@@ -7270,7 +7601,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "価値 かち 관련 표현 N3",
+    "searchText": "価値 かち 관련 표현 価 値 N3",
     "levels": [
       "N3"
     ],
@@ -7280,7 +7611,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "価 値"
   },
   {
     "id": "word-品-ひん",
@@ -7301,7 +7633,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "品"
   },
   {
     "id": "word-失う-うしなう",
@@ -7312,7 +7645,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "失う うしなう 하다, 이다 N3",
+    "searchText": "失う うしなう 하다, 이다 失 N3",
     "levels": [
       "N3"
     ],
@@ -7322,7 +7655,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "失"
   },
   {
     "id": "word-重なる-かさなる",
@@ -7333,7 +7667,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "重なる かさなる 이다, 하다 N3",
+    "searchText": "重なる かさなる 이다, 하다 重 N3",
     "levels": [
       "N3"
     ],
@@ -7343,7 +7677,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "重"
   },
   {
     "id": "word-暮らし-くらし",
@@ -7354,7 +7689,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "暮らし くらし 생활, 생명 N3",
+    "searchText": "暮らし くらし 생활, 생명 暮 N3",
     "levels": [
       "N3"
     ],
@@ -7364,7 +7699,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "暮"
   },
   {
     "id": "word-発展-はってん",
@@ -7375,7 +7711,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "発展 はってん 발전 N3",
+    "searchText": "発展 はってん 발전 発 展 N3",
     "levels": [
       "N3"
     ],
@@ -7385,7 +7721,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "発 展"
   },
   {
     "id": "word-選択-せんたく",
@@ -7396,7 +7733,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "選択 せんたく 관련 표현 N3",
+    "searchText": "選択 せんたく 관련 표현 選 択 N3",
     "levels": [
       "N3"
     ],
@@ -7406,7 +7743,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "選 択"
   },
   {
     "id": "word-繋がる-つながる",
@@ -7417,7 +7755,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "繋がる つながる 이다, 함께이다, 하다 N3",
+    "searchText": "繋がる つながる 이다, 함께이다, 하다 繋 N3",
     "levels": [
       "N3"
     ],
@@ -7427,7 +7765,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "繋"
   },
   {
     "id": "word-組織-そしき",
@@ -7438,7 +7777,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "組織 そしき 형성, 조직 N3",
+    "searchText": "組織 そしき 형성, 조직 組 織 N3",
     "levels": [
       "N3"
     ],
@@ -7448,7 +7787,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "組 織"
   },
   {
     "id": "word-中学-ちゅうがく",
@@ -7459,7 +7799,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "中学 ちゅうがく 학교, 가운데 학교 N3",
+    "searchText": "中学 ちゅうがく 학교, 가운데 학교 中 学 N3",
     "levels": [
       "N3"
     ],
@@ -7469,7 +7809,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "中 学"
   },
   {
     "id": "word-出会う-であう",
@@ -7480,7 +7821,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "出会う であう 가로질러하다, 하다, 만나다 N3",
+    "searchText": "出会う であう 가로질러하다, 하다, 만나다 出 会 N3",
     "levels": [
       "N3"
     ],
@@ -7490,7 +7831,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "出 会"
   },
   {
     "id": "word-付き合い-つきあい",
@@ -7501,7 +7843,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "付き合い つきあい 단체, 연상 N3",
+    "searchText": "付き合い つきあい 단체, 연상 付 合 N3",
     "levels": [
       "N3"
     ],
@@ -7511,7 +7853,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "付 合"
   },
   {
     "id": "word-当然-とうぜん",
@@ -7522,7 +7865,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "当然 とうぜん 자연스럽게, 물론, 막, 단지, 자연스럽다 N3",
+    "searchText": "当然 とうぜん 자연스럽게, 물론, 막, 단지, 자연스럽다 当 然 N3",
     "levels": [
       "N3"
     ],
@@ -7536,7 +7879,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "当 然"
   },
   {
     "id": "word-友人-ゆうじん",
@@ -7547,7 +7891,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "友人 ゆうじん 친구 N3",
+    "searchText": "友人 ゆうじん 친구 友 人 N3",
     "levels": [
       "N3"
     ],
@@ -7557,7 +7901,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "友 人"
   },
   {
     "id": "word-区別-くべつ",
@@ -7568,7 +7913,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "区別 くべつ 차이, 구별 N3",
+    "searchText": "区別 くべつ 차이, 구별 区 別 N3",
     "levels": [
       "N3"
     ],
@@ -7578,7 +7923,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "区 別"
   },
   {
     "id": "word-スイッチ-すいっち",
@@ -7599,7 +7945,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-進める-すすめる",
@@ -7610,7 +7957,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "進める すすめる 하다 N3",
+    "searchText": "進める すすめる 하다 進 N3",
     "levels": [
       "N3"
     ],
@@ -7620,7 +7967,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "進"
   },
   {
     "id": "word-以前-いぜん",
@@ -7631,7 +7979,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "以前 いぜん 전 N3",
+    "searchText": "以前 いぜん 전 以 前 N3",
     "levels": [
       "N3"
     ],
@@ -7641,7 +7989,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "以 前"
   },
   {
     "id": "word-友情-ゆうじょう",
@@ -7652,7 +8001,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "友情 ゆうじょう 관련 표현 N3",
+    "searchText": "友情 ゆうじょう 관련 표현 友 情 N3",
     "levels": [
       "N3"
     ],
@@ -7662,7 +8011,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "友 情"
   },
   {
     "id": "word-示す-しめす",
@@ -7673,7 +8023,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "示す しめす 하다 N3",
+    "searchText": "示す しめす 하다 示 N3",
     "levels": [
       "N3"
     ],
@@ -7683,7 +8033,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "示"
   },
   {
     "id": "word-単なる-たんなる",
@@ -7694,7 +8045,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "単なる たんなる 간단하다 N3",
+    "searchText": "単なる たんなる 간단하다 単 N3",
     "levels": [
       "N3"
     ],
@@ -7704,7 +8055,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "単"
   },
   {
     "id": "word-活動-かつどう",
@@ -7715,7 +8067,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "活動 かつどう 행동, 활동 N3",
+    "searchText": "活動 かつどう 행동, 활동 活 動 N3",
     "levels": [
       "N3"
     ],
@@ -7725,7 +8077,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "活 動"
   },
   {
     "id": "word-参加-さんか",
@@ -7736,7 +8089,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "参加 さんか 관련 표현 N3",
+    "searchText": "参加 さんか 관련 표현 参 加 N3",
     "levels": [
       "N3"
     ],
@@ -7746,7 +8099,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "参 加"
   },
   {
     "id": "word-ますます-no-reading",
@@ -7767,7 +8121,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-年代-ねんだい",
@@ -7778,7 +8133,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "年代 ねんだい 나이, 시대, 기간 N3",
+    "searchText": "年代 ねんだい 나이, 시대, 기간 年 代 N3",
     "levels": [
       "N3"
     ],
@@ -7788,7 +8143,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "年 代"
   },
   {
     "id": "word-場-ば",
@@ -7809,7 +8165,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "場"
   },
   {
     "id": "word-勤め-つとめ",
@@ -7820,7 +8177,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "勤め つとめ 일, 사업 N3",
+    "searchText": "勤め つとめ 일, 사업 勤 N3",
     "levels": [
       "N3"
     ],
@@ -7830,7 +8187,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "勤"
   },
   {
     "id": "word-成功-せいこう",
@@ -7841,7 +8199,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "成功 せいこう 관련 표현 N3",
+    "searchText": "成功 せいこう 관련 표현 成 功 N3",
     "levels": [
       "N3"
     ],
@@ -7851,7 +8209,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "成 功"
   },
   {
     "id": "word-寄せる-よせる",
@@ -7862,7 +8221,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "寄せる よせる 하다, 함께하다 N3",
+    "searchText": "寄せる よせる 하다, 함께하다 寄 N3",
     "levels": [
       "N3"
     ],
@@ -7872,7 +8231,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "寄"
   },
   {
     "id": "word-断る-ことわる",
@@ -7883,7 +8243,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "断る ことわる 하다 N3",
+    "searchText": "断る ことわる 하다 断 N3",
     "levels": [
       "N3"
     ],
@@ -7893,7 +8253,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "断"
   },
   {
     "id": "word-交際-こうさい",
@@ -7904,7 +8265,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "交際 こうさい 단체, 연상, 회사, 사회 N3",
+    "searchText": "交際 こうさい 단체, 연상, 회사, 사회 交 際 N3",
     "levels": [
       "N3"
     ],
@@ -7914,7 +8275,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "交 際"
   },
   {
     "id": "word-続き-つづき",
@@ -7925,7 +8287,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "続き つづき 다음 N3",
+    "searchText": "続き つづき 다음 続 N3",
     "levels": [
       "N3"
     ],
@@ -7935,7 +8297,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "続"
   },
   {
     "id": "word-チャンス-ちゃんす",
@@ -7956,7 +8319,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-議論-ぎろん",
@@ -7967,7 +8331,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "議論 ぎろん 관련 표현 N3",
+    "searchText": "議論 ぎろん 관련 표현 議 論 N3",
     "levels": [
       "N3"
     ],
@@ -7977,7 +8341,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "議 論"
   },
   {
     "id": "word-必死-ひっし",
@@ -7988,7 +8353,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "必死 ひっし 관련 표현 N3",
+    "searchText": "必死 ひっし 관련 표현 必 死 N3",
     "levels": [
       "N3"
     ],
@@ -7998,7 +8363,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "必 死"
   },
   {
     "id": "word-問い-とい",
@@ -8009,7 +8375,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "問い とい 질문, 문제 N3",
+    "searchText": "問い とい 질문, 문제 問 N3",
     "levels": [
       "N3"
     ],
@@ -8019,7 +8385,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "問"
   },
   {
     "id": "word-理想-りそう",
@@ -8030,7 +8397,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "理想 りそう 관련 표현 N3",
+    "searchText": "理想 りそう 관련 표현 理 想 N3",
     "levels": [
       "N3"
     ],
@@ -8040,7 +8407,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "理 想"
   },
   {
     "id": "word-渇く-かわく",
@@ -8051,7 +8419,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "渇く かわく 이다, 하다 N3",
+    "searchText": "渇く かわく 이다, 하다 渇 N3",
     "levels": [
       "N3"
     ],
@@ -8061,7 +8429,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "渇"
   },
   {
     "id": "word-噂-うわさ",
@@ -8082,7 +8451,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "噂"
   },
   {
     "id": "word-話題-わだい",
@@ -8093,7 +8463,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "話題 わだい 주제 N3",
+    "searchText": "話題 わだい 주제 話 題 N3",
     "levels": [
       "N3"
     ],
@@ -8103,7 +8473,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "話 題"
   },
   {
     "id": "word-メッセージ-めっせーじ",
@@ -8124,7 +8495,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-幅-はば",
@@ -8145,7 +8517,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "幅"
   },
   {
     "id": "word-広がる-ひろがる",
@@ -8156,7 +8529,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "広がる ひろがる 하다, 주변하다 N3",
+    "searchText": "広がる ひろがる 하다, 주변하다 広 N3",
     "levels": [
       "N3"
     ],
@@ -8166,7 +8539,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "広"
   },
   {
     "id": "word-直接-ちょくせつ",
@@ -8177,7 +8551,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "直接 ちょくせつ 개인의 N3",
+    "searchText": "直接 ちょくせつ 개인의 直 接 N3",
     "levels": [
       "N3"
     ],
@@ -8187,7 +8561,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "直 接"
   },
   {
     "id": "word-差-さ",
@@ -8208,7 +8583,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "差"
   },
   {
     "id": "word-対象-たいしょう",
@@ -8219,7 +8595,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "対象 たいしょう 물건, 주제 N3",
+    "searchText": "対象 たいしょう 물건, 주제 対 象 N3",
     "levels": [
       "N3"
     ],
@@ -8229,7 +8605,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "対 象"
   },
   {
     "id": "word-結果-けっか",
@@ -8240,7 +8617,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "結果 けっか 영향, 효과 N3",
+    "searchText": "結果 けっか 영향, 효과 結 果 N3",
     "levels": [
       "N3"
     ],
@@ -8250,7 +8627,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "結 果"
   },
   {
     "id": "word-全体-ぜんたい",
@@ -8261,7 +8639,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "全体 ぜんたい 전체 N3",
+    "searchText": "全体 ぜんたい 전체 全 体 N3",
     "levels": [
       "N3"
     ],
@@ -8271,7 +8649,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "全 体"
   },
   {
     "id": "word-現実-げんじつ",
@@ -8282,7 +8661,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "現実 げんじつ 실제, 어렵다, 현실 N3",
+    "searchText": "現実 げんじつ 실제, 어렵다, 현실 現 実 N3",
     "levels": [
       "N3"
     ],
@@ -8292,7 +8671,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "現 実"
   },
   {
     "id": "word-アンケート-あんけーと",
@@ -8313,7 +8693,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-経由-けいゆ",
@@ -8324,7 +8705,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "経由 けいゆ 관련 표현 N3",
+    "searchText": "経由 けいゆ 관련 표현 経 由 N3",
     "levels": [
       "N3"
     ],
@@ -8334,7 +8715,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "経 由"
   },
   {
     "id": "word-相手-あいて",
@@ -8345,7 +8727,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "相手 あいて 동행, 회사 N3",
+    "searchText": "相手 あいて 동행, 회사 相 手 N3",
     "levels": [
       "N3"
     ],
@@ -8355,7 +8737,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "相 手"
   },
   {
     "id": "word-分-ぶん",
@@ -8376,7 +8759,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "分"
   },
   {
     "id": "word-作法-さほう",
@@ -8387,7 +8771,7 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "作法 さほう 관련 표현 N3",
+    "searchText": "作法 さほう 관련 표현 作 法 N3",
     "levels": [
       "N3"
     ],
@@ -8397,7 +8781,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "作 法"
   },
   {
     "id": "word-ゴール-ごーる",
@@ -8418,7 +8803,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-同時-どうじ",
@@ -8429,12 +8815,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "同時 どうじ 같다 N3",
+    "searchText": "同時 どうじ 같다 同 時 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "同 時"
   },
   {
     "id": "word-方々-かたがた",
@@ -8445,12 +8832,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "方々 かたがた 모두, 사람들 N3",
+    "searchText": "方々 かたがた 모두, 사람들 方 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "方"
   },
   {
     "id": "word-誕生-たんじょう",
@@ -8461,12 +8849,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "誕生 たんじょう 출생, 형성 N3",
+    "searchText": "誕生 たんじょう 출생, 형성 誕 生 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "誕 生"
   },
   {
     "id": "word-愛情-あいじょう",
@@ -8477,12 +8866,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "愛情 あいじょう 관련 표현 N3",
+    "searchText": "愛情 あいじょう 관련 표현 愛 情 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "愛 情"
   },
   {
     "id": "word-お前-おまえ",
@@ -8493,12 +8883,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "お前 おまえ 당신 N3",
+    "searchText": "お前 おまえ 당신 前 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "前"
   },
   {
     "id": "word-愛する-あいする",
@@ -8509,12 +8900,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "愛する あいする 하다 N3",
+    "searchText": "愛する あいする 하다 愛 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "愛"
   },
   {
     "id": "word-夫婦-ふうふ",
@@ -8525,12 +8917,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "夫婦 ふうふ 관련 표현 N3",
+    "searchText": "夫婦 ふうふ 관련 표현 夫 婦 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "夫 婦"
   },
   {
     "id": "word-愛-あい",
@@ -8546,7 +8939,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "愛"
   },
   {
     "id": "word-黙る-だまる",
@@ -8557,12 +8951,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "黙る だまる 이다, 하다 N3",
+    "searchText": "黙る だまる 이다, 하다 黙 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "黙"
   },
   {
     "id": "word-維持-いじ",
@@ -8573,12 +8968,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "維持 いじ 개선 N3",
+    "searchText": "維持 いじ 개선 維 持 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "維 持"
   },
   {
     "id": "word-型-がた",
@@ -8594,7 +8990,8 @@
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "型"
   },
   {
     "id": "word-行動-こうどう",
@@ -8605,12 +9002,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "行動 こうどう 행동 N3",
+    "searchText": "行動 こうどう 행동 行 動 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "行 動"
   },
   {
     "id": "word-契約-けいやく",
@@ -8621,12 +9019,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "契約 けいやく 동의 N3",
+    "searchText": "契約 けいやく 동의 契 約 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "契 約"
   },
   {
     "id": "word-物事-ものごと",
@@ -8637,12 +9036,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "物事 ものごと 모든 것 N3",
+    "searchText": "物事 ものごと 모든 것 物 事 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "物 事"
   },
   {
     "id": "word-他人-たにん",
@@ -8653,12 +9053,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "他人 たにん 다른 사람들 N3",
+    "searchText": "他人 たにん 다른 사람들 他 人 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "他 人"
   },
   {
     "id": "word-解釈-かいしゃく",
@@ -8669,12 +9070,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "解釈 かいしゃく 관련 표현 N3",
+    "searchText": "解釈 かいしゃく 관련 표현 解 釈 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "解 釈"
   },
   {
     "id": "word-築く-きずく",
@@ -8685,12 +9087,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "築く きずく 짓다, 건설하다, 하다, 세우다 N3",
+    "searchText": "築く きずく 짓다, 건설하다, 하다, 세우다 築 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "築"
   },
   {
     "id": "word-挑戦-ちょうせん",
@@ -8701,12 +9104,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "挑戦 ちょうせん 관련 표현 N3",
+    "searchText": "挑戦 ちょうせん 관련 표현 挑 戦 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "挑 戦"
   },
   {
     "id": "word-世間-せけん",
@@ -8717,12 +9121,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "世間 せけん 사람들, 사회, 세계 N3",
+    "searchText": "世間 せけん 사람들, 사회, 세계 世 間 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "世 間"
   },
   {
     "id": "word-関する-かんする",
@@ -8733,12 +9138,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "関する かんする 이다, 하다 N3",
+    "searchText": "関する かんする 이다, 하다 関 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "関"
   },
   {
     "id": "word-未来-みらい",
@@ -8749,12 +9155,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "未来 みらい 관련 표현 N3",
+    "searchText": "未来 みらい 관련 표현 未 来 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "未 来"
   },
   {
     "id": "word-観察-かんさつ",
@@ -8765,12 +9172,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "観察 かんさつ 관련 표현 N3",
+    "searchText": "観察 かんさつ 관련 표현 観 察 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "観 察"
   },
   {
     "id": "word-正式-せいしき",
@@ -8781,12 +9189,13 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "正式 せいしき 관련 표현 N3",
+    "searchText": "正式 せいしき 관련 표현 正 式 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "正 式"
   },
   {
     "id": "word-人気-にんき",
@@ -8797,11 +9206,12 @@
     "exampleMeaningKo": "",
     "level": "N3",
     "reviewType": "word",
-    "searchText": "人気 にんき 인기, 문자, 성격, 상태, 성질, 자연 N3",
+    "searchText": "人気 にんき 인기, 문자, 성격, 상태, 성질, 자연 人 気 N3",
     "levels": [
       "N3"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "人 気"
   }
 ]

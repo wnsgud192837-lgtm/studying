@@ -8,7 +8,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "来る くる 다가오다, 도착하다, 오다, 돌아오다, 하고 돌아오다 N5",
+    "searchText": "来る くる 다가오다, 도착하다, 오다, 돌아오다, 하고 돌아오다 来 N5",
     "levels": [
       "N5"
     ],
@@ -26,7 +26,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "来"
   },
   {
     "id": "word-人-ひと",
@@ -55,7 +56,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "人"
   },
   {
     "id": "word-本当-ほんとう",
@@ -66,7 +68,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "本当 ほんとう 실제, 사실, 현실, 진실 N5",
+    "searchText": "本当 ほんとう 실제, 사실, 현실, 진실 本 当 N5",
     "levels": [
       "N5"
     ],
@@ -84,7 +86,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "本 当"
   },
   {
     "id": "word-少ない-すくない",
@@ -95,7 +98,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "少ない すくない 적다, 부족하다, 낮다, 드물다 N5",
+    "searchText": "少ない すくない 적다, 부족하다, 낮다, 드물다 少 N5",
     "levels": [
       "N5"
     ],
@@ -113,7 +116,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "少"
   },
   {
     "id": "word-話す-はなす",
@@ -124,7 +128,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "話す はなす 이야기하다, 대화하다, 말하다, 설명하다 N5",
+    "searchText": "話す はなす 이야기하다, 대화하다, 말하다, 설명하다 話 N5",
     "levels": [
       "N5"
     ],
@@ -142,7 +146,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "話"
   },
   {
     "id": "word-皆さん-みなさん",
@@ -153,7 +158,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "皆さん みなさん 모두 N5",
+    "searchText": "皆さん みなさん 모두 皆 N5",
     "levels": [
       "N5"
     ],
@@ -167,7 +172,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "皆"
   },
   {
     "id": "word-聞く-きく",
@@ -178,7 +184,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "聞く きく 듣다, 묻다, 질문하다 N5",
+    "searchText": "聞く きく 듣다, 묻다, 질문하다 聞 N5",
     "levels": [
       "N5"
     ],
@@ -196,7 +202,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "聞"
   },
   {
     "id": "word-みんな-no-reading",
@@ -225,7 +232,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-住む-すむ",
@@ -236,7 +244,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "住む すむ 머무르다, 살다, 거주하다 N5",
+    "searchText": "住む すむ 머무르다, 살다, 거주하다 住 N5",
     "levels": [
       "N5"
     ],
@@ -254,7 +262,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "住"
   },
   {
     "id": "word-結構-けっこう",
@@ -265,7 +274,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "結構 けっこう 꽤, 꽤 잘, 꽤, 예쁘다, 상당히, 기분 좋다, 훌륭하다 N5",
+    "searchText": "結構 けっこう 꽤, 꽤 잘, 꽤, 예쁘다, 상당히, 기분 좋다, 훌륭하다 結 構 N5",
     "levels": [
       "N5"
     ],
@@ -287,7 +296,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 5
+    "duplicateCount": 5,
+    "usedKanji": "結 構"
   },
   {
     "id": "word-子供-こども",
@@ -298,7 +308,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "子供 こども 아이, 아이들 N5",
+    "searchText": "子供 こども 아이, 아이들 子 供 N5",
     "levels": [
       "N5"
     ],
@@ -316,7 +326,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "子 供"
   },
   {
     "id": "word-年-ねん",
@@ -345,7 +356,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "年"
   },
   {
     "id": "word-出る-でる",
@@ -356,7 +368,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "出る でる 나오다, 나가다, 외출하다, 떠나다 N5",
+    "searchText": "出る でる 나오다, 나가다, 외출하다, 떠나다 出 N5",
     "levels": [
       "N5"
     ],
@@ -374,7 +386,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "出"
   },
   {
     "id": "word-今日-きょう",
@@ -385,7 +398,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "今日 きょう 오늘, 요즘, 최근 N5",
+    "searchText": "今日 きょう 오늘, 요즘, 최근 今 日 N5",
     "levels": [
       "N5"
     ],
@@ -403,7 +416,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "今 日"
   },
   {
     "id": "word-全部-ぜんぶ",
@@ -414,7 +428,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "全部 ぜんぶ 모두, 전부, 전체 N5",
+    "searchText": "全部 ぜんぶ 모두, 전부, 전체 全 部 N5",
     "levels": [
       "N5"
     ],
@@ -428,7 +442,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "全 部"
   },
   {
     "id": "word-できる-no-reading",
@@ -457,7 +472,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-生まれる-うまれる",
@@ -468,7 +484,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "生まれる うまれる 태어나다 N5",
+    "searchText": "生まれる うまれる 태어나다 生 N5",
     "levels": [
       "N5"
     ],
@@ -486,7 +502,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "生"
   },
   {
     "id": "word-外国-がいこく",
@@ -497,7 +514,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "外国 がいこく 외국 N5",
+    "searchText": "外国 がいこく 외국 外 国 N5",
     "levels": [
       "N5"
     ],
@@ -507,7 +524,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "外 国"
   },
   {
     "id": "word-行く-いく",
@@ -518,7 +536,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "行く いく 가다, 향하다, 떠나다, 움직이다, 지나가다 N5",
+    "searchText": "行く いく 가다, 향하다, 떠나다, 움직이다, 지나가다 行 N5",
     "levels": [
       "N5"
     ],
@@ -536,7 +554,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "行"
   },
   {
     "id": "word-国-くに",
@@ -565,7 +584,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "国"
   },
   {
     "id": "word-違う-ちがう",
@@ -576,7 +596,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "違う ちがう 다르다, 뚜렷이 다르다, 같지 않다, 의견이 다르다 N5",
+    "searchText": "違う ちがう 다르다, 뚜렷이 다르다, 같지 않다, 의견이 다르다 違 N5",
     "levels": [
       "N5"
     ],
@@ -594,7 +614,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "違"
   },
   {
     "id": "word-綺麗-きれい",
@@ -605,7 +626,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "綺麗 きれい 아름답다, 공정하다, 사랑스럽다, 꽤, 예쁘다, 깨끗하다 N5",
+    "searchText": "綺麗 きれい 아름답다, 공정하다, 사랑스럽다, 꽤, 예쁘다, 깨끗하다 綺 麗 N5",
     "levels": [
       "N5"
     ],
@@ -615,7 +636,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "綺 麗"
   },
   {
     "id": "word-言う-いう",
@@ -626,7 +648,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "言う いう 말하다, 부르다, 이름 붙이다 N5",
+    "searchText": "言う いう 말하다, 부르다, 이름 붙이다 言 N5",
     "levels": [
       "N5"
     ],
@@ -644,7 +666,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "言"
   },
   {
     "id": "word-方-かた",
@@ -673,7 +696,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 4
+    "duplicateCount": 4,
+    "usedKanji": "方"
   },
   {
     "id": "word-多い-おおい",
@@ -684,7 +708,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "多い おおい 많다, 많은 양 N5",
+    "searchText": "多い おおい 많다, 많은 양 多 N5",
     "levels": [
       "N5"
     ],
@@ -702,7 +726,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "多"
   },
   {
     "id": "word-汚い-きたない",
@@ -713,7 +738,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "汚い きたない 더럽다, 불쾌하다, 깨끗하지 않다, 어지럽다 N5",
+    "searchText": "汚い きたない 더럽다, 불쾌하다, 깨끗하지 않다, 어지럽다 汚 N5",
     "levels": [
       "N5"
     ],
@@ -727,7 +752,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "汚"
   },
   {
     "id": "word-見る-みる",
@@ -738,7 +764,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "見る みる 보다, 관찰하다, 지켜보다 N5",
+    "searchText": "見る みる 보다, 관찰하다, 지켜보다 見 N5",
     "levels": [
       "N5"
     ],
@@ -756,7 +782,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "見"
   },
   {
     "id": "word-持つ-もつ",
@@ -767,7 +794,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "持つ もつ 들고 다니다, 들다, 가져가다, 가지다, 소유하다 N5",
+    "searchText": "持つ もつ 들고 다니다, 들다, 가져가다, 가지다, 소유하다 持 N5",
     "levels": [
       "N5"
     ],
@@ -785,7 +812,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "持"
   },
   {
     "id": "word-道-みち",
@@ -806,7 +834,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "道"
   },
   {
     "id": "word-覚える-おぼえる",
@@ -817,7 +846,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "覚える おぼえる 마음에 새기다, 암기하다, 외우다 N5",
+    "searchText": "覚える おぼえる 마음에 새기다, 암기하다, 외우다 覚 N5",
     "levels": [
       "N5"
     ],
@@ -835,7 +864,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "覚"
   },
   {
     "id": "word-ニュース-にゅーす",
@@ -856,7 +886,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-目-め",
@@ -893,7 +924,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 5
+    "duplicateCount": 5,
+    "usedKanji": "目"
   },
   {
     "id": "word-二-に",
@@ -918,7 +950,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "二"
   },
   {
     "id": "word-方-ほう",
@@ -947,7 +980,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "方"
   },
   {
     "id": "word-トイレ-といれ",
@@ -968,7 +1002,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-新しい-あたらしい",
@@ -979,7 +1014,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "新しい あたらしい 신선하다, 최신, 현대적이다, 새롭다 N5",
+    "searchText": "新しい あたらしい 신선하다, 최신, 현대적이다, 새롭다 新 N5",
     "levels": [
       "N5"
     ],
@@ -993,7 +1028,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "新"
   },
   {
     "id": "word-多分-たぶん",
@@ -1004,7 +1040,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "多分 たぶん 그럴 듯하다, 아마 N5",
+    "searchText": "多分 たぶん 그럴 듯하다, 아마 多 分 N5",
     "levels": [
       "N5"
     ],
@@ -1022,7 +1058,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "多 分"
   },
   {
     "id": "word-置く-おく",
@@ -1033,7 +1070,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "置く おく 두다, 놓다, 떠나다, 세우다, 설치하다 N5",
+    "searchText": "置く おく 두다, 놓다, 떠나다, 세우다, 설치하다 置 N5",
     "levels": [
       "N5"
     ],
@@ -1047,7 +1084,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "置"
   },
   {
     "id": "word-公園-こうえん",
@@ -1058,7 +1096,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "公園 こうえん 공원 N5",
+    "searchText": "公園 こうえん 공원 公 園 N5",
     "levels": [
       "N5"
     ],
@@ -1072,7 +1110,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "公 園"
   },
   {
     "id": "word-古い-ふるい",
@@ -1083,7 +1122,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "古い ふるい 오래되다, 옛날의, 낡다 N5",
+    "searchText": "古い ふるい 오래되다, 옛날의, 낡다 古 N5",
     "levels": [
       "N5"
     ],
@@ -1093,7 +1132,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "古"
   },
   {
     "id": "word-掃除-そうじ",
@@ -1104,7 +1144,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "掃除 そうじ 청소, 먼지 털기, 문질러 닦기, 쓸기 N5",
+    "searchText": "掃除 そうじ 청소, 먼지 털기, 문질러 닦기, 쓸기 掃 除 N5",
     "levels": [
       "N5"
     ],
@@ -1114,7 +1154,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "掃 除"
   },
   {
     "id": "word-使う-つかう",
@@ -1125,7 +1166,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "使う つかう 하다, 쓰다 N5",
+    "searchText": "使う つかう 하다, 쓰다 使 N5",
     "levels": [
       "N5"
     ],
@@ -1143,7 +1184,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "使"
   },
   {
     "id": "word-一番-いちばん",
@@ -1154,7 +1196,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "一番 いちばん 가장 좋다, 가장, 실험 N5",
+    "searchText": "一番 いちばん 가장 좋다, 가장, 실험 一 番 N5",
     "levels": [
       "N5"
     ],
@@ -1172,7 +1214,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "一 番"
   },
   {
     "id": "word-早い-はやい",
@@ -1183,7 +1226,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "早い はやい 빠르다 N5",
+    "searchText": "早い はやい 빠르다 早 N5",
     "levels": [
       "N5"
     ],
@@ -1201,7 +1244,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "早"
   },
   {
     "id": "word-昼-ひる",
@@ -1226,7 +1270,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "昼"
   },
   {
     "id": "word-開く-ひらく",
@@ -1237,7 +1282,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "開く ひらく 열다, 하다 N5",
+    "searchText": "開く ひらく 열다, 하다 開 N5",
     "levels": [
       "N5"
     ],
@@ -1247,7 +1292,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "開"
   },
   {
     "id": "word-朝-あさ",
@@ -1272,7 +1318,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "朝"
   },
   {
     "id": "word-夜-よる",
@@ -1301,7 +1348,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "夜"
   },
   {
     "id": "word-店-みせ",
@@ -1322,7 +1370,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "店"
   },
   {
     "id": "word-閉まる-しまる",
@@ -1333,7 +1382,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "閉まる しまる 이다, 닫다, -이다 N5",
+    "searchText": "閉まる しまる 이다, 닫다, -이다 閉 N5",
     "levels": [
       "N5"
     ],
@@ -1343,7 +1392,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "閉"
   },
   {
     "id": "word-難しい-むずかしい",
@@ -1354,7 +1404,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "難しい むずかしい 어렵다, 진지하다 N5",
+    "searchText": "難しい むずかしい 어렵다, 진지하다 難 N5",
     "levels": [
       "N5"
     ],
@@ -1368,7 +1418,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "難"
   },
   {
     "id": "word-今-いま",
@@ -1405,7 +1456,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 5
+    "duplicateCount": 5,
+    "usedKanji": "今"
   },
   {
     "id": "word-大丈夫-だいじょうぶ",
@@ -1416,7 +1468,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大丈夫 だいじょうぶ 오른쪽, 맞다, 문제 자유롭다, 무료 N5",
+    "searchText": "大丈夫 だいじょうぶ 오른쪽, 맞다, 문제 자유롭다, 무료 大 丈 夫 N5",
     "levels": [
       "N5"
     ],
@@ -1426,7 +1478,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "大 丈 夫"
   },
   {
     "id": "word-いつも-no-reading",
@@ -1451,7 +1504,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-起きる-おきる",
@@ -1462,7 +1516,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "起きる おきる 하다, 오르다, 이다 N5",
+    "searchText": "起きる おきる 하다, 오르다, 이다 起 N5",
     "levels": [
       "N5"
     ],
@@ -1480,7 +1534,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "起"
   },
   {
     "id": "word-問題-もんだい",
@@ -1491,7 +1546,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "問題 もんだい 문제 N5",
+    "searchText": "問題 もんだい 문제 問 題 N5",
     "levels": [
       "N5"
     ],
@@ -1505,7 +1560,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "問 題"
   },
   {
     "id": "word-中-なか",
@@ -1534,7 +1590,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "中"
   },
   {
     "id": "word-入れる-いれる",
@@ -1545,7 +1602,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "入れる いれる 하다 N5",
+    "searchText": "入れる いれる 하다 入 N5",
     "levels": [
       "N5"
     ],
@@ -1559,7 +1616,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "入"
   },
   {
     "id": "word-危ない-あぶない",
@@ -1570,7 +1628,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "危ない あぶない 위험하다, 위태롭다 N5",
+    "searchText": "危ない あぶない 위험하다, 위태롭다 危 N5",
     "levels": [
       "N5"
     ],
@@ -1580,7 +1638,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "危"
   },
   {
     "id": "word-毎日-まいにち",
@@ -1591,7 +1650,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "毎日 まいにち 날 N5",
+    "searchText": "毎日 まいにち 날 毎 日 N5",
     "levels": [
       "N5"
     ],
@@ -1609,7 +1668,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "毎 日"
   },
   {
     "id": "word-水-みず",
@@ -1634,7 +1694,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "水"
   },
   {
     "id": "word-出す-だす",
@@ -1645,7 +1706,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "出す だす 나가다, 하다 N5",
+    "searchText": "出す だす 나가다, 하다 出 N5",
     "levels": [
       "N5"
     ],
@@ -1655,7 +1716,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "出"
   },
   {
     "id": "word-風-ふう",
@@ -1684,7 +1746,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "風"
   },
   {
     "id": "word-忘れる-わすれる",
@@ -1695,7 +1758,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "忘れる わすれる 이다, 잊다, 대해하다, 하다 N5",
+    "searchText": "忘れる わすれる 이다, 잊다, 대해하다, 하다 忘 N5",
     "levels": [
       "N5"
     ],
@@ -1709,7 +1772,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "忘"
   },
   {
     "id": "word-何-なに",
@@ -1746,7 +1810,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 5
+    "duplicateCount": 5,
+    "usedKanji": "何"
   },
   {
     "id": "word-駅-えき",
@@ -1771,7 +1836,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "駅"
   },
   {
     "id": "word-電車-でんしゃ",
@@ -1782,7 +1848,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "電車 でんしゃ 전기의, 기차 N5",
+    "searchText": "電車 でんしゃ 전기의, 기차 電 車 N5",
     "levels": [
       "N5"
     ],
@@ -1792,7 +1858,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "電 車"
   },
   {
     "id": "word-地下鉄-ちかてつ",
@@ -1803,7 +1870,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "地下鉄 ちかてつ 지하철, 지하 N5",
+    "searchText": "地下鉄 ちかてつ 지하철, 지하 地 下 鉄 N5",
     "levels": [
       "N5"
     ],
@@ -1813,7 +1880,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "地 下 鉄"
   },
   {
     "id": "word-車-くるま",
@@ -1834,7 +1902,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "車"
   },
   {
     "id": "word-自転車-じてんしゃ",
@@ -1845,7 +1914,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "自転車 じてんしゃ 자전거 N5",
+    "searchText": "自転車 じてんしゃ 자전거 自 転 車 N5",
     "levels": [
       "N5"
     ],
@@ -1855,7 +1924,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "自 転 車"
   },
   {
     "id": "word-乗る-のる",
@@ -1866,7 +1936,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "乗る のる 하다, 가져가다 N5",
+    "searchText": "乗る のる 하다, 가져가다 乗 N5",
     "levels": [
       "N5"
     ],
@@ -1884,7 +1954,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "乗"
   },
   {
     "id": "word-消える-きえる",
@@ -1895,7 +1966,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "消える きえる 되다 하다, 하다 N5",
+    "searchText": "消える きえる 되다 하다, 하다 消 N5",
     "levels": [
       "N5"
     ],
@@ -1905,7 +1976,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "消"
   },
   {
     "id": "word-有名-ゆうめい",
@@ -1916,7 +1988,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "有名 ゆうめい 유명하다, 잘 알려져 있다 N5",
+    "searchText": "有名 ゆうめい 유명하다, 잘 알려져 있다 有 名 N5",
     "levels": [
       "N5"
     ],
@@ -1930,7 +2002,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "有 名"
   },
   {
     "id": "word-何-なん",
@@ -1959,7 +2032,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "何"
   },
   {
     "id": "word-知る-しる",
@@ -1970,7 +2044,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "知る しる 이다, 하다, 알다 N5",
+    "searchText": "知る しる 이다, 하다, 알다 知 N5",
     "levels": [
       "N5"
     ],
@@ -1988,7 +2062,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "知"
   },
   {
     "id": "word-手-て",
@@ -2013,7 +2088,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "手"
   },
   {
     "id": "word-名前-なまえ",
@@ -2024,7 +2100,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "名前 なまえ 이름, 처음 이름 N5",
+    "searchText": "名前 なまえ 이름, 처음 이름 名 前 N5",
     "levels": [
       "N5"
     ],
@@ -2034,7 +2110,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "名 前"
   },
   {
     "id": "word-友達-ともだち",
@@ -2045,7 +2122,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "友達 ともだち 동행, 친구 N5",
+    "searchText": "友達 ともだち 동행, 친구 友 達 N5",
     "levels": [
       "N5"
     ],
@@ -2063,7 +2140,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "友 達"
   },
   {
     "id": "word-前-まえ",
@@ -2092,7 +2170,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "前"
   },
   {
     "id": "word-もっと-no-reading",
@@ -2121,7 +2200,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-傘-かさ",
@@ -2146,7 +2226,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "傘"
   },
   {
     "id": "word-開ける-あける",
@@ -2157,7 +2238,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "開ける あける 열다, 하다 N5",
+    "searchText": "開ける あける 열다, 하다 開 N5",
     "levels": [
       "N5"
     ],
@@ -2167,7 +2248,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "開"
   },
   {
     "id": "word-こちら-no-reading",
@@ -2192,7 +2274,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-誰-だれ",
@@ -2217,7 +2300,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "誰"
   },
   {
     "id": "word-家-いえ",
@@ -2246,7 +2330,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "家"
   },
   {
     "id": "word-家庭-かてい",
@@ -2257,7 +2342,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "家庭 かてい 가족, 집, 가정 N5",
+    "searchText": "家庭 かてい 가족, 집, 가정 家 庭 N5",
     "levels": [
       "N5"
     ],
@@ -2267,7 +2352,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "家 庭"
   },
   {
     "id": "word-強い-つよい",
@@ -2278,7 +2364,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "強い つよい 강하다 N5",
+    "searchText": "強い つよい 강하다 強 N5",
     "levels": [
       "N5"
     ],
@@ -2292,7 +2378,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "強"
   },
   {
     "id": "word-色々-いろいろ",
@@ -2303,7 +2390,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "色々 いろいろ 여러 가지로, 다양하게 N5",
+    "searchText": "色々 いろいろ 여러 가지로, 다양하게 色 N5",
     "levels": [
       "N5"
     ],
@@ -2313,7 +2400,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "色"
   },
   {
     "id": "word-大きな-おおきな",
@@ -2324,7 +2412,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大きな おおきな 크다, 대단하다 N5",
+    "searchText": "大きな おおきな 크다, 대단하다 大 N5",
     "levels": [
       "N5"
     ],
@@ -2334,7 +2422,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "大"
   },
   {
     "id": "word-会社-かいしゃ",
@@ -2345,7 +2434,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "会社 かいしゃ 회사 N5",
+    "searchText": "会社 かいしゃ 회사 会 社 N5",
     "levels": [
       "N5"
     ],
@@ -2359,7 +2448,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "会 社"
   },
   {
     "id": "word-呼ぶ-よぶ",
@@ -2370,7 +2460,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "呼ぶ よぶ 부르다, 하다 N5",
+    "searchText": "呼ぶ よぶ 부르다, 하다 呼 N5",
     "levels": [
       "N5"
     ],
@@ -2388,7 +2478,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "呼"
   },
   {
     "id": "word-走る-はしる",
@@ -2399,7 +2490,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "走る はしる 달리다, 하다, 움직이다 N5",
+    "searchText": "走る はしる 달리다, 하다, 움직이다 走 N5",
     "levels": [
       "N5"
     ],
@@ -2413,7 +2504,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "走"
   },
   {
     "id": "word-こんな-no-reading",
@@ -2438,7 +2530,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-書く-かく",
@@ -2449,7 +2542,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "書く かく 하다, 쓰다 N5",
+    "searchText": "書く かく 하다, 쓰다 書 N5",
     "levels": [
       "N5"
     ],
@@ -2467,7 +2560,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "書"
   },
   {
     "id": "word-同じ-おなじ",
@@ -2478,7 +2572,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "同じ おなじ 같다 N5",
+    "searchText": "同じ おなじ 같다 同 N5",
     "levels": [
       "N5"
     ],
@@ -2496,7 +2590,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "同"
   },
   {
     "id": "word-テレビ-てれび",
@@ -2517,7 +2612,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-大人-おとな",
@@ -2528,7 +2624,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大人 おとな 어른 N5",
+    "searchText": "大人 おとな 어른 大 人 N5",
     "levels": [
       "N5"
     ],
@@ -2542,7 +2638,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "大 人"
   },
   {
     "id": "word-初めて-はじめて",
@@ -2553,7 +2650,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "初めて はじめて 처음, 오직 N5",
+    "searchText": "初めて はじめて 처음, 오직 初 N5",
     "levels": [
       "N5"
     ],
@@ -2567,7 +2664,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "初"
   },
   {
     "id": "word-下手-へた",
@@ -2578,7 +2676,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "下手 へた 가난하다, 서투르다 N5",
+    "searchText": "下手 へた 가난하다, 서투르다 下 手 N5",
     "levels": [
       "N5"
     ],
@@ -2588,7 +2686,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "下 手"
   },
   {
     "id": "word-待つ-まつ",
@@ -2599,7 +2698,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "待つ まつ 기다리다, 하다 N5",
+    "searchText": "待つ まつ 기다리다, 하다 待 N5",
     "levels": [
       "N5"
     ],
@@ -2613,7 +2712,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "待"
   },
   {
     "id": "word-消す-けす",
@@ -2624,7 +2724,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "消す けす 하다 N5",
+    "searchText": "消す けす 하다 消 N5",
     "levels": [
       "N5"
     ],
@@ -2638,7 +2738,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "消"
   },
   {
     "id": "word-答える-こたえる",
@@ -2649,7 +2750,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "答える こたえる 대답하다, 하다 N5",
+    "searchText": "答える こたえる 대답하다, 하다 答 N5",
     "levels": [
       "N5"
     ],
@@ -2663,7 +2764,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "答"
   },
   {
     "id": "word-飲み物-のみもの",
@@ -2674,7 +2776,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "飲み物 のみもの 음료, 마실 것 N5",
+    "searchText": "飲み物 のみもの 음료, 마실 것 飲 物 N5",
     "levels": [
       "N5"
     ],
@@ -2684,7 +2786,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "飲 物"
   },
   {
     "id": "word-毎週-まいしゅう",
@@ -2695,7 +2798,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "毎週 まいしゅう 매주 N5",
+    "searchText": "毎週 まいしゅう 매주 毎 週 N5",
     "levels": [
       "N5"
     ],
@@ -2705,7 +2808,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "毎 週"
   },
   {
     "id": "word-鳥-とり",
@@ -2726,7 +2830,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "鳥"
   },
   {
     "id": "word-頭-あたま",
@@ -2755,7 +2860,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "頭"
   },
   {
     "id": "word-食べ物-たべもの",
@@ -2766,7 +2872,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "食べ物 たべもの 음식 N5",
+    "searchText": "食べ物 たべもの 음식 食 物 N5",
     "levels": [
       "N5"
     ],
@@ -2780,7 +2886,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "食 物"
   },
   {
     "id": "word-外-そと",
@@ -2805,7 +2912,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "外"
   },
   {
     "id": "word-動物-どうぶつ",
@@ -2816,7 +2924,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "動物 どうぶつ 동물 N5",
+    "searchText": "動物 どうぶつ 동물 動 物 N5",
     "levels": [
       "N5"
     ],
@@ -2826,7 +2934,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "動 物"
   },
   {
     "id": "word-かかる-no-reading",
@@ -2855,7 +2964,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-買う-かう",
@@ -2866,7 +2976,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "買う かう 사다, 하다 N5",
+    "searchText": "買う かう 사다, 하다 買 N5",
     "levels": [
       "N5"
     ],
@@ -2880,7 +2990,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "買"
   },
   {
     "id": "word-分かる-わかる",
@@ -2891,7 +3002,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "分かる わかる 하다, 얻다, 보다 N5",
+    "searchText": "分かる わかる 하다, 얻다, 보다 分 N5",
     "levels": [
       "N5"
     ],
@@ -2909,7 +3020,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "分"
   },
   {
     "id": "word-どんな-no-reading",
@@ -2938,7 +3050,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-お金-おかね",
@@ -2949,7 +3062,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "お金 おかね 돈 N5",
+    "searchText": "お金 おかね 돈 金 N5",
     "levels": [
       "N5"
     ],
@@ -2963,7 +3076,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "金"
   },
   {
     "id": "word-話-はなし",
@@ -2992,7 +3106,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "話"
   },
   {
     "id": "word-困る-こまる",
@@ -3003,7 +3118,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "困る こまる 이다, 곤란하다 N5",
+    "searchText": "困る こまる 이다, 곤란하다 困 N5",
     "levels": [
       "N5"
     ],
@@ -3013,7 +3128,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "困"
   },
   {
     "id": "word-上-じょう",
@@ -3034,7 +3150,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "上"
   },
   {
     "id": "word-高い-たかい",
@@ -3045,7 +3162,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "高い たかい 높다, 비싸다, 위 N5",
+    "searchText": "高い たかい 높다, 비싸다, 위 高 N5",
     "levels": [
       "N5"
     ],
@@ -3063,7 +3180,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "高"
   },
   {
     "id": "word-低い-ひくい",
@@ -3074,7 +3192,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "低い ひくい 낮다, 가깝다, 닫다, 짧다, 깊다 N5",
+    "searchText": "低い ひくい 낮다, 가깝다, 닫다, 짧다, 깊다 低 N5",
     "levels": [
       "N5"
     ],
@@ -3084,7 +3202,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "低"
   },
   {
     "id": "word-後-あと",
@@ -3113,7 +3232,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "後"
   },
   {
     "id": "word-横-よこ",
@@ -3138,7 +3258,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "横"
   },
   {
     "id": "word-働く-はたらく",
@@ -3149,7 +3270,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "働く はたらく 하다, 일하다, 이다 N5",
+    "searchText": "働く はたらく 하다, 일하다, 이다 働 N5",
     "levels": [
       "N5"
     ],
@@ -3159,7 +3280,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "働"
   },
   {
     "id": "word-外国人-がいこくじん",
@@ -3170,7 +3292,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "外国人 がいこくじん 외국인, 일본인이 아닌 사람 N5",
+    "searchText": "外国人 がいこくじん 외국인, 일본인이 아닌 사람 外 国 人 N5",
     "levels": [
       "N5"
     ],
@@ -3180,7 +3302,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "外 国 人"
   },
   {
     "id": "word-好き-すき",
@@ -3191,7 +3314,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "好き すき 좋아함, ' 하다 N5",
+    "searchText": "好き すき 좋아함, ' 하다 好 N5",
     "levels": [
       "N5"
     ],
@@ -3205,7 +3328,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "好"
   },
   {
     "id": "word-旅行-りょこう",
@@ -3216,7 +3340,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "旅行 りょこう 여행 N5",
+    "searchText": "旅行 りょこう 여행 旅 行 N5",
     "levels": [
       "N5"
     ],
@@ -3230,7 +3354,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "旅 行"
   },
   {
     "id": "word-夏-なつ",
@@ -3255,7 +3380,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "夏"
   },
   {
     "id": "word-暑い-あつい",
@@ -3266,7 +3392,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "暑い あつい 따뜻하다 N5",
+    "searchText": "暑い あつい 따뜻하다 暑 N5",
     "levels": [
       "N5"
     ],
@@ -3280,7 +3406,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "暑"
   },
   {
     "id": "word-食べる-たべる",
@@ -3291,7 +3418,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "食べる たべる 먹다, 하다 N5",
+    "searchText": "食べる たべる 먹다, 하다 食 N5",
     "levels": [
       "N5"
     ],
@@ -3305,7 +3432,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "食"
   },
   {
     "id": "word-次-じ",
@@ -3326,7 +3454,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "次"
   },
   {
     "id": "word-ホテル-ほてる",
@@ -3355,7 +3484,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": ""
   },
   {
     "id": "word-帰る-かえる",
@@ -3366,7 +3496,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "帰る かえる 집하다, 뒤하다, 하다, 떠나다 N5",
+    "searchText": "帰る かえる 집하다, 뒤하다, 하다, 떠나다 帰 N5",
     "levels": [
       "N5"
     ],
@@ -3380,7 +3510,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "帰"
   },
   {
     "id": "word-次-つぎ",
@@ -3405,7 +3536,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "次"
   },
   {
     "id": "word-去年-きょねん",
@@ -3416,7 +3548,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "去年 きょねん 마지막 N5",
+    "searchText": "去年 きょねん 마지막 去 年 N5",
     "levels": [
       "N5"
     ],
@@ -3430,7 +3562,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "去 年"
   },
   {
     "id": "word-今年-ことし",
@@ -3441,7 +3574,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "今年 ことし 올해 N5",
+    "searchText": "今年 ことし 올해 今 年 N5",
     "levels": [
       "N5"
     ],
@@ -3459,7 +3592,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "今 年"
   },
   {
     "id": "word-中-ちゅう",
@@ -3488,7 +3622,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "中"
   },
   {
     "id": "word-右-みぎ",
@@ -3509,7 +3644,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "右"
   },
   {
     "id": "word-意味-いみ",
@@ -3520,7 +3656,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "意味 いみ 의미, 감각, 의미 N5",
+    "searchText": "意味 いみ 의미, 감각, 의미 意 味 N5",
     "levels": [
       "N5"
     ],
@@ -3534,7 +3670,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "意 味"
   },
   {
     "id": "word-半分-はんぶん",
@@ -3545,7 +3682,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "半分 はんぶん 절반 N5",
+    "searchText": "半分 はんぶん 절반 半 分 N5",
     "levels": [
       "N5"
     ],
@@ -3563,7 +3700,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "半 分"
   },
   {
     "id": "word-左-ひだり",
@@ -3584,7 +3722,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "左"
   },
   {
     "id": "word-一-ひと",
@@ -3613,7 +3752,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "一"
   },
   {
     "id": "word-飲む-のむ",
@@ -3624,7 +3764,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "飲む のむ 마시다, 하다, 가져가다 N5",
+    "searchText": "飲む のむ 마시다, 하다, 가져가다 飲 N5",
     "levels": [
       "N5"
     ],
@@ -3638,7 +3778,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "飲"
   },
   {
     "id": "word-お菓子-おかし",
@@ -3649,12 +3790,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "お菓子 おかし 케이크, 사탕, 과자 N5",
+    "searchText": "お菓子 おかし 케이크, 사탕, 과자 菓 子 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "菓 子"
   },
   {
     "id": "word-物-もの",
@@ -3670,7 +3812,8 @@
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "物"
   },
   {
     "id": "word-狭い-せまい",
@@ -3681,12 +3824,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "狭い せまい 작다 N5",
+    "searchText": "狭い せまい 작다 狭 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "狭"
   },
   {
     "id": "word-吸う-すう",
@@ -3697,12 +3841,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "吸う すう 하다 N5",
+    "searchText": "吸う すう 하다 吸 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "吸"
   },
   {
     "id": "word-所-しょ",
@@ -3718,7 +3863,8 @@
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "所"
   },
   {
     "id": "word-今月-こんげつ",
@@ -3729,12 +3875,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "今月 こんげつ 이번 달 N5",
+    "searchText": "今月 こんげつ 이번 달 今 月 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "今 月"
   },
   {
     "id": "word-時間-じかん",
@@ -3745,7 +3892,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "時間 じかん 시간, 수업, 등급, 수업, 기간 N5",
+    "searchText": "時間 じかん 시간, 수업, 등급, 수업, 기간 時 間 N5",
     "levels": [
       "N5"
     ],
@@ -3759,7 +3906,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "時 間"
   },
   {
     "id": "word-大切-たいせつ",
@@ -3770,12 +3918,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大切 たいせつ 중요하다, 진지하다 N5",
+    "searchText": "大切 たいせつ 중요하다, 진지하다 大 切 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "大 切"
   },
   {
     "id": "word-作る-つくる",
@@ -3786,7 +3935,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "作る つくる 짓다, 건설하다, 만들다, 하다 N5",
+    "searchText": "作る つくる 짓다, 건설하다, 만들다, 하다 作 N5",
     "levels": [
       "N5"
     ],
@@ -3800,7 +3949,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "作"
   },
   {
     "id": "word-遊ぶ-あそぶ",
@@ -3811,7 +3961,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "遊ぶ あそぶ 하다, 놀다, 대해하다, 이다 N5",
+    "searchText": "遊ぶ あそぶ 하다, 놀다, 대해하다, 이다 遊 N5",
     "levels": [
       "N5"
     ],
@@ -3821,7 +3971,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "遊"
   },
   {
     "id": "word-歩く-あるく",
@@ -3832,7 +3983,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "歩く あるく 걷다 N5",
+    "searchText": "歩く あるく 걷다 歩 N5",
     "levels": [
       "N5"
     ],
@@ -3846,7 +3997,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "歩"
   },
   {
     "id": "word-大好き-だいすき",
@@ -3857,7 +4009,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大好き だいすき 아주 좋아하다, 매우 좋아하다, 사랑하다 N5",
+    "searchText": "大好き だいすき 아주 좋아하다, 매우 좋아하다, 사랑하다 大 好 N5",
     "levels": [
       "N5"
     ],
@@ -3867,7 +4019,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "大 好"
   },
   {
     "id": "word-楽しい-たのしい",
@@ -3878,7 +4031,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "楽しい たのしい 기분 좋다, 재미 N5",
+    "searchText": "楽しい たのしい 기분 좋다, 재미 楽 N5",
     "levels": [
       "N5"
     ],
@@ -3892,7 +4045,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "楽"
   },
   {
     "id": "word-入る-はいる",
@@ -3903,7 +4057,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "入る はいる 도착하다, 하다 N5",
+    "searchText": "入る はいる 도착하다, 하다 入 N5",
     "levels": [
       "N5"
     ],
@@ -3917,7 +4071,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "入"
   },
   {
     "id": "word-一-いち",
@@ -3942,7 +4097,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 3
+    "duplicateCount": 3,
+    "usedKanji": "一"
   },
   {
     "id": "word-いかが-no-reading",
@@ -3958,7 +4114,8 @@
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-質問-しつもん",
@@ -3969,7 +4126,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "質問 しつもん 질문, 문제 N5",
+    "searchText": "質問 しつもん 질문, 문제 質 問 N5",
     "levels": [
       "N5"
     ],
@@ -3983,7 +4140,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "質 問"
   },
   {
     "id": "word-どっち-no-reading",
@@ -4004,7 +4162,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-寒い-さむい",
@@ -4015,7 +4174,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "寒い さむい 춥다 N5",
+    "searchText": "寒い さむい 춥다 寒 N5",
     "levels": [
       "N5"
     ],
@@ -4025,7 +4184,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "寒"
   },
   {
     "id": "word-暖かい-あたたかい",
@@ -4036,7 +4196,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "暖かい あたたかい 따뜻하다 N5",
+    "searchText": "暖かい あたたかい 따뜻하다 暖 N5",
     "levels": [
       "N5"
     ],
@@ -4046,7 +4206,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "暖"
   },
   {
     "id": "word-着る-きる",
@@ -4057,7 +4218,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "着る きる 하다, 가져가다 N5",
+    "searchText": "着る きる 하다, 가져가다 着 N5",
     "levels": [
       "N5"
     ],
@@ -4067,7 +4228,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "着"
   },
   {
     "id": "word-お腹-おなか",
@@ -4078,7 +4240,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "お腹 おなか 관련 표현 N5",
+    "searchText": "お腹 おなか 관련 표현 腹 N5",
     "levels": [
       "N5"
     ],
@@ -4088,7 +4250,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "腹"
   },
   {
     "id": "word-痛い-いたい",
@@ -4099,7 +4262,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "痛い いたい 부끄럽다 N5",
+    "searchText": "痛い いたい 부끄럽다 痛 N5",
     "levels": [
       "N5"
     ],
@@ -4109,7 +4272,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "痛"
   },
   {
     "id": "word-とても-no-reading",
@@ -4134,7 +4298,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-天気-てんき",
@@ -4145,7 +4310,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "天気 てんき 관련 표현 N5",
+    "searchText": "天気 てんき 관련 표현 天 気 N5",
     "levels": [
       "N5"
     ],
@@ -4155,7 +4320,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "天 気"
   },
   {
     "id": "word-雨-あめ",
@@ -4176,7 +4342,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "雨"
   },
   {
     "id": "word-降る-ふる",
@@ -4187,7 +4354,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "降る ふる 하다, 떨어지다, 형태하다 N5",
+    "searchText": "降る ふる 하다, 떨어지다, 형태하다 降 N5",
     "levels": [
       "N5"
     ],
@@ -4197,7 +4364,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "降"
   },
   {
     "id": "word-大変-たいへん",
@@ -4208,7 +4376,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大変 たいへん 대단하다, 무섭다 N5",
+    "searchText": "大変 たいへん 대단하다, 무섭다 大 変 N5",
     "levels": [
       "N5"
     ],
@@ -4218,7 +4386,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "大 変"
   },
   {
     "id": "word-秋-あき",
@@ -4239,7 +4408,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "秋"
   },
   {
     "id": "word-死ぬ-しぬ",
@@ -4250,7 +4420,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "死ぬ しぬ 하다 N5",
+    "searchText": "死ぬ しぬ 하다 死 N5",
     "levels": [
       "N5"
     ],
@@ -4260,7 +4430,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "死"
   },
   {
     "id": "word-部屋-へや",
@@ -4271,7 +4442,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "部屋 へや 방 N5",
+    "searchText": "部屋 へや 방 部 屋 N5",
     "levels": [
       "N5"
     ],
@@ -4281,7 +4452,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "部 屋"
   },
   {
     "id": "word-涼しい-すずしい",
@@ -4292,7 +4464,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "涼しい すずしい 밝다, 분명하다 N5",
+    "searchText": "涼しい すずしい 밝다, 분명하다 涼 N5",
     "levels": [
       "N5"
     ],
@@ -4302,7 +4474,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "涼"
   },
   {
     "id": "word-つける-no-reading",
@@ -4327,7 +4500,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-一人-ひとり",
@@ -4338,7 +4512,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "一人 ひとり 혼자 N5",
+    "searchText": "一人 ひとり 혼자 一 人 N5",
     "levels": [
       "N5"
     ],
@@ -4352,7 +4526,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "一 人"
   },
   {
     "id": "word-体-からだ",
@@ -4373,7 +4548,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "体"
   },
   {
     "id": "word-冬-ふゆ",
@@ -4394,7 +4570,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "冬"
   },
   {
     "id": "word-晴れ-はれ",
@@ -4405,7 +4582,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "晴れ はれ 공공 N5",
+    "searchText": "晴れ はれ 공공 晴 N5",
     "levels": [
       "N5"
     ],
@@ -4415,7 +4592,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "晴"
   },
   {
     "id": "word-明るい-あかるい",
@@ -4426,7 +4604,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "明るい あかるい 밝다, 빛, 가볍다 N5",
+    "searchText": "明るい あかるい 밝다, 빛, 가볍다 明 N5",
     "levels": [
       "N5"
     ],
@@ -4436,7 +4614,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "明"
   },
   {
     "id": "word-長い-ながい",
@@ -4447,7 +4626,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "長い ながい 길다 N5",
+    "searchText": "長い ながい 길다 長 N5",
     "levels": [
       "N5"
     ],
@@ -4461,7 +4640,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "長"
   },
   {
     "id": "word-年-とし",
@@ -4486,7 +4666,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "年"
   },
   {
     "id": "word-海-うみ",
@@ -4507,7 +4688,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "海"
   },
   {
     "id": "word-色-いろ",
@@ -4528,7 +4710,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "色"
   },
   {
     "id": "word-大きい-おおきい",
@@ -4539,7 +4722,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大きい おおきい 크다, 대단하다 N5",
+    "searchText": "大きい おおきい 크다, 대단하다 大 N5",
     "levels": [
       "N5"
     ],
@@ -4553,7 +4736,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "大"
   },
   {
     "id": "word-帽子-ぼうし",
@@ -4564,7 +4748,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "帽子 ぼうし 관련 표현 N5",
+    "searchText": "帽子 ぼうし 관련 표현 帽 子 N5",
     "levels": [
       "N5"
     ],
@@ -4574,7 +4758,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "帽 子"
   },
   {
     "id": "word-かぶる-no-reading",
@@ -4595,7 +4780,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-浴びる-あびる",
@@ -4606,7 +4792,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "浴びる あびる 하다, 이다 N5",
+    "searchText": "浴びる あびる 하다, 이다 浴 N5",
     "levels": [
       "N5"
     ],
@@ -4616,7 +4802,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "浴"
   },
   {
     "id": "word-嫌-いや",
@@ -4637,7 +4824,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "嫌"
   },
   {
     "id": "word-熱い-あつい",
@@ -4648,7 +4836,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "熱い あつい 관련 표현 N5",
+    "searchText": "熱い あつい 관련 표현 熱 N5",
     "levels": [
       "N5"
     ],
@@ -4658,7 +4846,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "熱"
   },
   {
     "id": "word-服-ふく",
@@ -4679,7 +4868,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "服"
   },
   {
     "id": "word-悪い-わるい",
@@ -4690,7 +4880,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "悪い わるい 나쁘다, 가난하다, 서투르다, 부족하다 N5",
+    "searchText": "悪い わるい 나쁘다, 가난하다, 서투르다, 부족하다 悪 N5",
     "levels": [
       "N5"
     ],
@@ -4704,7 +4894,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "悪"
   },
   {
     "id": "word-小さい-ちいさい",
@@ -4715,7 +4906,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "小さい ちいさい 적다, 작다 N5",
+    "searchText": "小さい ちいさい 적다, 작다 小 N5",
     "levels": [
       "N5"
     ],
@@ -4725,7 +4916,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "小"
   },
   {
     "id": "word-先-さき",
@@ -4746,7 +4938,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "先"
   },
   {
     "id": "word-売る-うる",
@@ -4757,7 +4950,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "売る うる 팔다, 하다 N5",
+    "searchText": "売る うる 팔다, 하다 売 N5",
     "levels": [
       "N5"
     ],
@@ -4767,7 +4960,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "売"
   },
   {
     "id": "word-どちら-no-reading",
@@ -4792,7 +4986,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": ""
   },
   {
     "id": "word-出かける-でかける",
@@ -4803,7 +4998,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "出かける でかける 하다, 외출하다, 떠나다, 시작하다 N5",
+    "searchText": "出かける でかける 하다, 외출하다, 떠나다, 시작하다 出 N5",
     "levels": [
       "N5"
     ],
@@ -4813,7 +5008,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "出"
   },
   {
     "id": "word-英語-えいご",
@@ -4824,7 +5020,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "英語 えいご 관련 표현 N5",
+    "searchText": "英語 えいご 관련 표현 英 語 N5",
     "levels": [
       "N5"
     ],
@@ -4834,7 +5030,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "英 語"
   },
   {
     "id": "word-教える-おしえる",
@@ -4845,7 +5042,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "教える おしえる 하다 N5",
+    "searchText": "教える おしえる 하다 教 N5",
     "levels": [
       "N5"
     ],
@@ -4859,7 +5056,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "教"
   },
   {
     "id": "word-漢字-かんじ",
@@ -4870,7 +5068,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "漢字 かんじ 문자, 성격 N5",
+    "searchText": "漢字 かんじ 문자, 성격 漢 字 N5",
     "levels": [
       "N5"
     ],
@@ -4880,7 +5078,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "漢 字"
   },
   {
     "id": "word-白い-しろい",
@@ -4891,7 +5090,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "白い しろい 관련 표현 N5",
+    "searchText": "白い しろい 관련 표현 白 N5",
     "levels": [
       "N5"
     ],
@@ -4901,7 +5100,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "白"
   },
   {
     "id": "word-白-しろ",
@@ -4922,7 +5122,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "白"
   },
   {
     "id": "word-顔-かお",
@@ -4943,7 +5144,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "顔"
   },
   {
     "id": "word-軽い-かるい",
@@ -4954,7 +5156,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "軽い かるい 빛, 가볍다 N5",
+    "searchText": "軽い かるい 빛, 가볍다 軽 N5",
     "levels": [
       "N5"
     ],
@@ -4964,7 +5166,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "軽"
   },
   {
     "id": "word-一緒-いっしょ",
@@ -4975,7 +5178,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "一緒 いっしょ 함께, 같다 N5",
+    "searchText": "一緒 いっしょ 함께, 같다 一 緒 N5",
     "levels": [
       "N5"
     ],
@@ -4989,7 +5192,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "一 緒"
   },
   {
     "id": "word-近く-ちかく",
@@ -5000,7 +5204,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "近く ちかく 동네, 가깝다, 닫다 N5",
+    "searchText": "近く ちかく 동네, 가깝다, 닫다 近 N5",
     "levels": [
       "N5"
     ],
@@ -5010,7 +5214,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "近"
   },
   {
     "id": "word-小さな-ちいさな",
@@ -5021,7 +5226,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "小さな ちいさな 적다, 작다 N5",
+    "searchText": "小さな ちいさな 적다, 작다 小 N5",
     "levels": [
       "N5"
     ],
@@ -5031,7 +5236,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "小"
   },
   {
     "id": "word-椅子-いす",
@@ -5042,7 +5248,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "椅子 いす 관련 표현 N5",
+    "searchText": "椅子 いす 관련 표현 椅 子 N5",
     "levels": [
       "N5"
     ],
@@ -5052,7 +5258,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "椅 子"
   },
   {
     "id": "word-座る-すわる",
@@ -5063,7 +5270,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "座る すわる 하다 N5",
+    "searchText": "座る すわる 하다 座 N5",
     "levels": [
       "N5"
     ],
@@ -5073,7 +5280,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "座"
   },
   {
     "id": "word-一日-いちにち",
@@ -5084,7 +5292,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "一日 いちにち 날, 아침 밤, 처음 날 N5",
+    "searchText": "一日 いちにち 날, 아침 밤, 처음 날 一 日 N5",
     "levels": [
       "N5"
     ],
@@ -5094,7 +5302,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "一 日"
   },
   {
     "id": "word-後-ご",
@@ -5115,7 +5324,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "後"
   },
   {
     "id": "word-会う-あう",
@@ -5126,7 +5336,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "会う あう 하다, 만나다, 보다, 나쁘다 하다 N5",
+    "searchText": "会う あう 하다, 만나다, 보다, 나쁘다 하다 会 N5",
     "levels": [
       "N5"
     ],
@@ -5140,7 +5350,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "会"
   },
   {
     "id": "word-赤い-あかい",
@@ -5151,7 +5362,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "赤い あかい 관련 표현 N5",
+    "searchText": "赤い あかい 관련 표현 赤 N5",
     "levels": [
       "N5"
     ],
@@ -5161,7 +5372,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "赤"
   },
   {
     "id": "word-赤-あか",
@@ -5182,7 +5394,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "赤"
   },
   {
     "id": "word-若い-わかい",
@@ -5193,7 +5406,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "若い わかい 젊다, 낮다 N5",
+    "searchText": "若い わかい 젊다, 낮다 若 N5",
     "levels": [
       "N5"
     ],
@@ -5203,7 +5416,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "若"
   },
   {
     "id": "word-上げる-あげる",
@@ -5214,7 +5428,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "上げる あげる 하다, 올리다 N5",
+    "searchText": "上げる あげる 하다, 올리다 上 N5",
     "levels": [
       "N5"
     ],
@@ -5228,7 +5442,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "上"
   },
   {
     "id": "word-短い-みじかい",
@@ -5239,7 +5454,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "短い みじかい 짧다 N5",
+    "searchText": "短い みじかい 짧다 短 N5",
     "levels": [
       "N5"
     ],
@@ -5249,7 +5464,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "短"
   },
   {
     "id": "word-上-うえ",
@@ -5274,7 +5490,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "上"
   },
   {
     "id": "word-勉強-べんきょう",
@@ -5285,7 +5502,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "勉強 べんきょう 어렵다, 경험, 수업 N5",
+    "searchText": "勉強 べんきょう 어렵다, 경험, 수업 勉 強 N5",
     "levels": [
       "N5"
     ],
@@ -5295,7 +5512,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "勉 強"
   },
   {
     "id": "word-散歩-さんぽ",
@@ -5306,7 +5524,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "散歩 さんぽ 관련 표현 N5",
+    "searchText": "散歩 さんぽ 관련 표현 散 歩 N5",
     "levels": [
       "N5"
     ],
@@ -5316,7 +5534,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "散 歩"
   },
   {
     "id": "word-医者-いしゃ",
@@ -5327,7 +5546,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "医者 いしゃ 관련 표현 N5",
+    "searchText": "医者 いしゃ 관련 표현 医 者 N5",
     "levels": [
       "N5"
     ],
@@ -5337,7 +5556,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "医 者"
   },
   {
     "id": "word-弱い-よわい",
@@ -5348,7 +5568,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "弱い よわい 관련 표현 N5",
+    "searchText": "弱い よわい 관련 표현 弱 N5",
     "levels": [
       "N5"
     ],
@@ -5358,7 +5578,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "弱"
   },
   {
     "id": "word-家族-かぞく",
@@ -5369,7 +5590,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "家族 かぞく 가족 N5",
+    "searchText": "家族 かぞく 가족 家 族 N5",
     "levels": [
       "N5"
     ],
@@ -5379,7 +5600,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "家 族"
   },
   {
     "id": "word-撮る-とる",
@@ -5390,7 +5612,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "撮る とる 가져가다, 하다 N5",
+    "searchText": "撮る とる 가져가다, 하다 撮 N5",
     "levels": [
       "N5"
     ],
@@ -5400,7 +5622,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "撮"
   },
   {
     "id": "word-カメラ-かめら",
@@ -5421,7 +5644,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-両親-りょうしん",
@@ -5432,7 +5656,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "両親 りょうしん 둘 다, 부모 N5",
+    "searchText": "両親 りょうしん 둘 다, 부모 両 親 N5",
     "levels": [
       "N5"
     ],
@@ -5442,7 +5666,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "両 親"
   },
   {
     "id": "word-お母さん-おかあさん",
@@ -5453,7 +5678,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "お母さん おかあさん 관련 표현 N5",
+    "searchText": "お母さん おかあさん 관련 표현 母 N5",
     "levels": [
       "N5"
     ],
@@ -5463,7 +5688,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "母"
   },
   {
     "id": "word-晴れる-はれる",
@@ -5474,7 +5700,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "晴れる はれる 이다, 하다 N5",
+    "searchText": "晴れる はれる 이다, 하다 晴 N5",
     "levels": [
       "N5"
     ],
@@ -5484,7 +5710,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "晴"
   },
   {
     "id": "word-寝る-ねる",
@@ -5495,7 +5722,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "寝る ねる 하다, 침대하다 N5",
+    "searchText": "寝る ねる 하다, 침대하다 寝 N5",
     "levels": [
       "N5"
     ],
@@ -5509,7 +5736,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "寝"
   },
   {
     "id": "word-安い-やすい",
@@ -5520,7 +5748,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "安い やすい 관련 표현 N5",
+    "searchText": "安い やすい 관련 표현 安 N5",
     "levels": [
       "N5"
     ],
@@ -5530,7 +5758,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "安"
   },
   {
     "id": "word-暗い-くらい",
@@ -5541,7 +5770,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "暗い くらい 관련 표현 N5",
+    "searchText": "暗い くらい 관련 표현 暗 N5",
     "levels": [
       "N5"
     ],
@@ -5551,7 +5780,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "暗"
   },
   {
     "id": "word-ゼロ-ぜろ",
@@ -5572,7 +5802,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-下-した",
@@ -5597,7 +5828,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 2
+    "duplicateCount": 2,
+    "usedKanji": "下"
   },
   {
     "id": "word-ベッド-べっど",
@@ -5618,7 +5850,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-疲れる-つかれる",
@@ -5629,7 +5862,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "疲れる つかれる 되다 하다, 하다 N5",
+    "searchText": "疲れる つかれる 되다 하다, 하다 疲 N5",
     "levels": [
       "N5"
     ],
@@ -5639,7 +5872,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "疲"
   },
   {
     "id": "word-飛行機-ひこうき",
@@ -5650,12 +5884,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "飛行機 ひこうき 비행기 N5",
+    "searchText": "飛行機 ひこうき 비행기 飛 行 機 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "飛 行 機"
   },
   {
     "id": "word-耳-みみ",
@@ -5671,7 +5906,8 @@
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "耳"
   },
   {
     "id": "word-外-がい",
@@ -5687,7 +5923,8 @@
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "外"
   },
   {
     "id": "word-映画館-えいがかん",
@@ -5698,12 +5935,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "映画館 えいがかん 관련 표현 N5",
+    "searchText": "映画館 えいがかん 관련 표현 映 画 館 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "映 画 館"
   },
   {
     "id": "word-建物-たてもの",
@@ -5714,12 +5952,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "建物 たてもの 관련 표현 N5",
+    "searchText": "建物 たてもの 관련 표현 建 物 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "建 物"
   },
   {
     "id": "word-午前-ごぜん",
@@ -5730,12 +5969,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "午前 ごぜん 아침 N5",
+    "searchText": "午前 ごぜん 아침 午 前 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "午 前"
   },
   {
     "id": "word-冷たい-つめたい",
@@ -5746,12 +5986,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "冷たい つめたい 춥다 N5",
+    "searchText": "冷たい つめたい 춥다 冷 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "冷"
   },
   {
     "id": "word-冷蔵庫-れいぞうこ",
@@ -5762,12 +6003,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "冷蔵庫 れいぞうこ 관련 표현 N5",
+    "searchText": "冷蔵庫 れいぞうこ 관련 표현 冷 蔵 庫 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "冷 蔵 庫"
   },
   {
     "id": "word-コップ-こっぷ",
@@ -5783,7 +6025,8 @@
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-嫌い-きらい",
@@ -5794,12 +6037,13 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "嫌い きらい 관련 표현 N5",
+    "searchText": "嫌い きらい 관련 표현 嫌 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "嫌"
   },
   {
     "id": "word-ページ-ぺーじ",
@@ -5820,7 +6064,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-私-わたし",
@@ -5841,7 +6086,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "私"
   },
   {
     "id": "word-私-わたくし",
@@ -5862,7 +6108,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "私"
   },
   {
     "id": "word-取る-とる",
@@ -5873,7 +6120,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "取る とる 잡다, 하다, 들다, 줍다, 가져가다 N5",
+    "searchText": "取る とる 잡다, 하다, 들다, 줍다, 가져가다 取 N5",
     "levels": [
       "N5"
     ],
@@ -5883,7 +6130,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "取"
   },
   {
     "id": "word-あなた-no-reading",
@@ -5904,7 +6152,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-二人-ふたり",
@@ -5915,7 +6164,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "二人 ふたり 사람들 N5",
+    "searchText": "二人 ふたり 사람들 二 人 N5",
     "levels": [
       "N5"
     ],
@@ -5925,7 +6174,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "二 人"
   },
   {
     "id": "word-写真-しゃしん",
@@ -5936,7 +6186,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "写真 しゃしん 관련 표현 N5",
+    "searchText": "写真 しゃしん 관련 표현 写 真 N5",
     "levels": [
       "N5"
     ],
@@ -5946,7 +6196,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "写 真"
   },
   {
     "id": "word-結婚-けっこん",
@@ -5957,7 +6208,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "結婚 けっこん 결혼 N5",
+    "searchText": "結婚 けっこん 결혼 結 婚 N5",
     "levels": [
       "N5"
     ],
@@ -5967,7 +6218,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "結 婚"
   },
   {
     "id": "word-学生-がくせい",
@@ -5978,7 +6230,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "学生 がくせい 관련 표현 N5",
+    "searchText": "学生 がくせい 관련 표현 学 生 N5",
     "levels": [
       "N5"
     ],
@@ -5988,7 +6240,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "学 生"
   },
   {
     "id": "word-渡す-わたす",
@@ -5999,7 +6252,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "渡す わたす 가로질러하다, 하다 N5",
+    "searchText": "渡す わたす 가로질러하다, 하다 渡 N5",
     "levels": [
       "N5"
     ],
@@ -6009,7 +6262,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "渡"
   },
   {
     "id": "word-言葉-ことば",
@@ -6020,7 +6274,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "言葉 ことば 언어, 표현 N5",
+    "searchText": "言葉 ことば 언어, 표현 言 葉 N5",
     "levels": [
       "N5"
     ],
@@ -6030,7 +6284,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "言 葉"
   },
   {
     "id": "word-手紙-てがみ",
@@ -6041,7 +6296,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "手紙 てがみ 관련 표현 N5",
+    "searchText": "手紙 てがみ 관련 표현 手 紙 N5",
     "levels": [
       "N5"
     ],
@@ -6051,7 +6306,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "手 紙"
   },
   {
     "id": "word-生徒-せいと",
@@ -6062,7 +6318,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "生徒 せいと 관련 표현 N5",
+    "searchText": "生徒 せいと 관련 표현 生 徒 N5",
     "levels": [
       "N5"
     ],
@@ -6072,7 +6328,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "生 徒"
   },
   {
     "id": "word-学校-がっこう",
@@ -6083,7 +6340,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "学校 がっこう 학교 N5",
+    "searchText": "学校 がっこう 학교 学 校 N5",
     "levels": [
       "N5"
     ],
@@ -6093,7 +6350,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "学 校"
   },
   {
     "id": "word-本-ほん",
@@ -6114,7 +6372,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "本"
   },
   {
     "id": "word-毎年-まいとし",
@@ -6125,7 +6384,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "毎年 まいとし 관련 표현 N5",
+    "searchText": "毎年 まいとし 관련 표현 毎 年 N5",
     "levels": [
       "N5"
     ],
@@ -6135,7 +6394,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "毎 年"
   },
   {
     "id": "word-止まる-とまる",
@@ -6146,7 +6406,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "止まる とまる 하다, 이다 N5",
+    "searchText": "止まる とまる 하다, 이다 止 N5",
     "levels": [
       "N5"
     ],
@@ -6156,7 +6416,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "止"
   },
   {
     "id": "word-先生-せんせい",
@@ -6167,7 +6428,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "先生 せんせい 형태 주소 N5",
+    "searchText": "先生 せんせい 형태 주소 先 生 N5",
     "levels": [
       "N5"
     ],
@@ -6177,7 +6438,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "先 生"
   },
   {
     "id": "word-男-おとこ",
@@ -6198,7 +6460,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "男"
   },
   {
     "id": "word-女-おんな",
@@ -6219,7 +6482,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "女"
   },
   {
     "id": "word-文章-ぶんしょう",
@@ -6230,7 +6494,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "文章 ぶんしょう 방식, 물건, 기사, 통로 N5",
+    "searchText": "文章 ぶんしょう 방식, 물건, 기사, 통로 文 章 N5",
     "levels": [
       "N5"
     ],
@@ -6240,7 +6504,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "文 章"
   },
   {
     "id": "word-大学-だいがく",
@@ -6251,7 +6516,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "大学 だいがく 관련 표현 N5",
+    "searchText": "大学 だいがく 관련 표현 大 学 N5",
     "levels": [
       "N5"
     ],
@@ -6261,7 +6526,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "大 学"
   },
   {
     "id": "word-クラス-くらす",
@@ -6282,7 +6548,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-習う-ならう",
@@ -6293,7 +6560,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "習う ならう 이다, 하다, 배우다, 공부하다 N5",
+    "searchText": "習う ならう 이다, 하다, 배우다, 공부하다 習 N5",
     "levels": [
       "N5"
     ],
@@ -6303,7 +6570,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "習"
   },
   {
     "id": "word-マッチ-まっち",
@@ -6324,7 +6592,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": ""
   },
   {
     "id": "word-紙-かみ",
@@ -6345,7 +6614,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "紙"
   },
   {
     "id": "word-面白い-おもしろい",
@@ -6356,7 +6626,7 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "面白い おもしろい 재미있다 N5",
+    "searchText": "面白い おもしろい 재미있다 面 白 N5",
     "levels": [
       "N5"
     ],
@@ -6366,7 +6636,8 @@
         "exampleMeaningKo": ""
       }
     ],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "面 白"
   },
   {
     "id": "word-少し-すこし",
@@ -6377,11 +6648,12 @@
     "exampleMeaningKo": "",
     "level": "N5",
     "reviewType": "word",
-    "searchText": "少し すこし 관련 표현 N5",
+    "searchText": "少し すこし 관련 표현 少 N5",
     "levels": [
       "N5"
     ],
     "examples": [],
-    "duplicateCount": 1
+    "duplicateCount": 1,
+    "usedKanji": "少"
   }
 ]

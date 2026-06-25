@@ -42,6 +42,7 @@ type WordItem = {
   japanese: string;
   reading: string;
   meaningKo: string;
+  usedKanji: string;
   meaningEn?: string;
   exampleJapanese: string;
   exampleMeaningKo: string;

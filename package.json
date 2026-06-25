@@ -5,7 +5,11 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "data:used-kanji": "node scripts/add-used-kanji.mjs",
+    "notion:schema": "node scripts/notion-vocab.mjs schema",
+    "notion:pull": "node scripts/notion-vocab.mjs pull",
+    "notion:sync": "node scripts/notion-vocab.mjs sync"
   },
   "dependencies": {
     "next": "16.2.9",
