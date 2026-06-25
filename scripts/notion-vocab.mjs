@@ -17,7 +17,7 @@ const config = {
   koreanProp: process.env.NOTION_KOREAN_PROP || "Korean",
   japaneseProp: process.env.NOTION_JAPANESE_PROP || "Japanese",
   readingProp: process.env.NOTION_READING_PROP || "Reading",
-  usedKanjiProp: process.env.NOTION_USED_KANJI_PROP || "Used Kanji",
+  kanjiProp: process.env.NOTION_KANJI_PROP || "한자",
   levelProp: process.env.NOTION_LEVEL_PROP || "Level"
 };
 
@@ -254,7 +254,7 @@ async function runSync() {
   const writable = {
     japanese: canWriteProperty(schema[config.japaneseProp]),
     reading: canWriteProperty(schema[config.readingProp]),
-    usedKanji: canWriteProperty(schema[config.usedKanjiProp]),
+    kanji: canWriteProperty(schema[config.kanjiProp]),
     level: schema[config.levelProp]?.type === "select"
   };
 
@@ -271,8 +271,8 @@ async function runSync() {
     if (writable.reading && !propertyToText(page.properties?.[config.readingProp])) {
       patch[config.readingProp] = textProperty(localWord.reading || "");
     }
-    if (writable.usedKanji && !propertyToText(page.properties?.[config.usedKanjiProp])) {
-      patch[config.usedKanjiProp] = textProperty(localWord.usedKanji || "");
+    if (writable.kanji && !propertyToText(page.properties?.[config.kanjiProp])) {
+      patch[config.kanjiProp] = textProperty(localWord.kanji || "");
     }
     if (writable.level && !propertyToText(page.properties?.[config.levelProp])) {
       patch[config.levelProp] = selectProperty(localWord.level || "Other");

@@ -22,7 +22,7 @@ NOTION_DATABASE_ID=381881bd102c80f9adb6cd76cc412371
 NOTION_KOREAN_PROP=Korean
 NOTION_JAPANESE_PROP=Japanese
 NOTION_READING_PROP=Reading
-NOTION_USED_KANJI_PROP=Used Kanji
+NOTION_KANJI_PROP=한자
 NOTION_LEVEL_PROP=Level
 ```
 
@@ -46,7 +46,7 @@ npm run notion:sync -- --dry-run
 ```
 
 The sync command matches each Notion row's Korean column against `app/database/words.json`.
-When a match is found, it can fill the Japanese, Reading, Used Kanji, and Level columns.
+When a match is found, it can fill the Japanese, Reading, Kanji, and Level columns.
 
 To write changes to Notion after checking the preview:
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T01:09:26.891Z",
+  "generatedAt": "2026-06-25T01:29:46.668Z",
   "words": {
     "total": 1772,
     "translatedToKorean": 1772,
@@ -11,7 +11,7 @@
       "N1": 122,
       "Other": 671
     },
-    "withUsedKanji": 1447
+    "withKanji": 1432
   },
   "kanji": {
     "total": 2136,

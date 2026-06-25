@@ -12,7 +12,7 @@ const STORE = {
   dataVersion: "japanese-study:data-version"
 };
 
-const DATA_VERSION = "2026-06-25-used-kanji-v1";
+const DATA_VERSION = "2026-06-25-word-kanji-v1";
 
 const ratingLabels = {
   forgot: "모름",
@@ -63,8 +63,11 @@ function speak(text) {
   window.speechSynthesis.speak(utterance);
 }
 
-function extractUsedKanji(value) {
-  return Array.from(new Set(String(value || "").match(/[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]/gu) || [])).join(" ");
+function extractWordKanji(value, kanjiItems = []) {
+  const jouyouSet = new Set(kanjiItems.map((item) => item.character).filter(Boolean));
+  return Array.from(new Set(String(value || "").match(/[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]/gu) || []))
+    .filter((character) => !jouyouSet.size || jouyouSet.has(character))
+    .join(" ");
 }
 
 function addDays(days) {
@@ -312,7 +315,7 @@ function JapaneseStudy({ state, onBack }) {
   const [form, setForm] = useState({
     japanese: "",
     reading: "",
-    usedKanji: "",
+    kanji: "",
     meaningKo: "",
     exampleJapanese: "",
     exampleMeaningKo: ""
@@ -325,7 +328,7 @@ function JapaneseStudy({ state, onBack }) {
   const searchResults = state.words.filter((word) => {
     if (wordLevel !== "all" && word.level !== wordLevel) return false;
     if (!searchable) return true;
-    return [word.meaningKo, word.japanese, word.reading, word.usedKanji, word.exampleMeaningKo]
+    return [word.meaningKo, word.japanese, word.reading, word.kanji, word.exampleMeaningKo]
       .join(" ")
       .toLowerCase()
       .includes(searchable);
@@ -343,20 +346,20 @@ function JapaneseStudy({ state, onBack }) {
   function submitWord(event) {
     event.preventDefault();
     const id = editing || `custom-word-${Date.now()}`;
-    const usedKanji = form.usedKanji || extractUsedKanji(form.japanese);
+    const kanji = form.kanji || extractWordKanji(form.japanese, state.kanji);
     const nextWord = {
       id,
       source: "직접 추가",
       ...form,
-      usedKanji,
-      searchText: [form.japanese, form.reading, form.meaningKo, usedKanji].filter(Boolean).join(" ")
+      kanji,
+      searchText: [form.japanese, form.reading, form.meaningKo, kanji].filter(Boolean).join(" ")
     };
     const exists = state.words.some((word) => word.id === id);
     const next = exists ? state.words.map((word) => (word.id === id ? nextWord : word)) : [nextWord, ...state.words];
     state.persistWords(next);
     if (!savedSet.has(id)) state.persistSavedWords([...state.savedWords, id]);
     setEditing(null);
-    setForm({ japanese: "", reading: "", usedKanji: "", meaningKo: "", exampleJapanese: "", exampleMeaningKo: "" });
+    setForm({ japanese: "", reading: "", kanji: "", meaningKo: "", exampleJapanese: "", exampleMeaningKo: "" });
   }
 
   function editWord(word) {
@@ -364,7 +367,7 @@ function JapaneseStudy({ state, onBack }) {
     setForm({
       japanese: word.japanese,
       reading: word.reading,
-      usedKanji: word.usedKanji || extractUsedKanji(word.japanese),
+      kanji: word.kanji || extractWordKanji(word.japanese, state.kanji),
       meaningKo: word.meaningKo,
       exampleJapanese: word.exampleJapanese,
       exampleMeaningKo: word.exampleMeaningKo
@@ -453,7 +456,7 @@ function JapaneseStudy({ state, onBack }) {
             {revealed ? (
               <div className="answer">
                 <p>{activeCard.meaningKo}</p>
-                {activeCard.usedKanji ? <small>이용된 한자: {activeCard.usedKanji}</small> : null}
+                {activeCard.kanji ? <small>한자: {activeCard.kanji}</small> : null}
                 <small>{activeCard.exampleJapanese}</small>
                 <small>{activeCard.exampleMeaningKo}</small>
               </div>
@@ -524,7 +527,7 @@ function WordCard({ word, saved, onSave, onEdit }) {
       </div>
       <h2>{word.japanese}</h2>
       <p className="reading">{word.reading}</p>
-      {word.usedKanji ? <p className="used-kanji">이용된 한자: {word.usedKanji}</p> : null}
+      {word.kanji ? <p className="word-kanji">한자: {word.kanji}</p> : null}
       <p>{word.meaningKo}</p>
       <small>{word.exampleJapanese}</small>
       <small>{word.exampleMeaningKo}</small>
@@ -547,14 +550,14 @@ function WordForm({ form, setForm, editing, onSubmit, onCancel }) {
       {[
         ["japanese", "일본어"],
         ["reading", "히라가나"],
-        ["usedKanji", "이용된 한자"],
+        ["kanji", "한자"],
         ["meaningKo", "뜻"],
         ["exampleJapanese", "예문"],
         ["exampleMeaningKo", "예문 뜻"]
       ].map(([key, label]) => (
         <label key={key}>
           {label}
-          <input value={form[key]} onChange={(event) => setForm({ ...form, [key]: event.target.value })} required={!["usedKanji", "exampleMeaningKo"].includes(key)} />
+          <input value={form[key]} onChange={(event) => setForm({ ...form, [key]: event.target.value })} required={!["kanji", "exampleMeaningKo"].includes(key)} />
         </label>
       ))}
       <div className="inline-actions">

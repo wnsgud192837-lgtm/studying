@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "data:used-kanji": "node scripts/add-used-kanji.mjs",
+    "data:kanji": "node scripts/add-word-kanji.mjs",
     "notion:schema": "node scripts/notion-vocab.mjs schema",
     "notion:pull": "node scripts/notion-vocab.mjs pull",
     "notion:sync": "node scripts/notion-vocab.mjs sync"

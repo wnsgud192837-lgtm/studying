@@ -19,7 +19,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "一 応"
+    "kanji": "一 応"
   },
   {
     "id": "word-どうせ-no-reading",
@@ -41,7 +41,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-早速-さっそく",
@@ -67,7 +67,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "早 速"
+    "kanji": "早 速"
   },
   {
     "id": "word-散らかる-ちらかる",
@@ -89,7 +89,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "散"
+    "kanji": "散"
   },
   {
     "id": "word-やっぱり-no-reading",
@@ -119,7 +119,7 @@
       }
     ],
     "duplicateCount": 3,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-素直-すなお",
@@ -141,7 +141,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "素 直"
+    "kanji": "素 直"
   },
   {
     "id": "word-清掃-せいそう",
@@ -163,7 +163,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "清 掃"
+    "kanji": "清 掃"
   },
   {
     "id": "word-特定-とくてい",
@@ -189,7 +189,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "特 定"
+    "kanji": "特 定"
   },
   {
     "id": "word-有料-ゆうりょう",
@@ -211,7 +211,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "有 料"
+    "kanji": "有 料"
   },
   {
     "id": "word-脱線-だっせん",
@@ -237,7 +237,7 @@
       }
     ],
     "duplicateCount": 3,
-    "usedKanji": "脱 線"
+    "kanji": "脱 線"
   },
   {
     "id": "word-詰まる-つまる",
@@ -259,7 +259,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "詰"
+    "kanji": "詰"
   },
   {
     "id": "word-統一-とういつ",
@@ -281,7 +281,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "統 一"
+    "kanji": "統 一"
   },
   {
     "id": "word-一旦-いったん",
@@ -307,7 +307,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "一 旦"
+    "kanji": "一 旦"
   },
   {
     "id": "word-感ずる-かんずる",
@@ -333,7 +333,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "感"
+    "kanji": "感"
   },
   {
     "id": "word-テーマ-てーま",
@@ -355,7 +355,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-新幹線-しんかんせん",
@@ -377,7 +377,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "新 幹 線"
+    "kanji": "新 幹 線"
   },
   {
     "id": "word-線路-せんろ",
@@ -399,7 +399,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "線 路"
+    "kanji": "線 路"
   },
   {
     "id": "word-きっかけ-no-reading",
@@ -421,7 +421,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-液体-えきたい",
@@ -443,7 +443,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "液 体"
+    "kanji": "液 体"
   },
   {
     "id": "word-私鉄-してつ",
@@ -465,7 +465,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "私 鉄"
+    "kanji": "私 鉄"
   },
   {
     "id": "word-対策-たいさく",
@@ -491,7 +491,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "対 策"
+    "kanji": "対 策"
   },
   {
     "id": "word-透明-とうめい",
@@ -517,7 +517,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "透 明"
+    "kanji": "透 明"
   },
   {
     "id": "word-真っ黒-まっくろ",
@@ -539,7 +539,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "真 黒"
+    "kanji": "真 黒"
   },
   {
     "id": "word-応ずる-おうずる",
@@ -561,7 +561,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "応"
+    "kanji": "応"
   },
   {
     "id": "word-防犯-ぼうはん",
@@ -583,7 +583,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "防 犯"
+    "kanji": "防 犯"
   },
   {
     "id": "word-マスク-ますく",
@@ -605,7 +605,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-その他-そのほか",
@@ -627,7 +627,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "他"
+    "kanji": "他"
   },
   {
     "id": "word-公共-こうきょう",
@@ -649,7 +649,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "公 共"
+    "kanji": "公 共"
   },
   {
     "id": "word-あふれる-no-reading",
@@ -671,7 +671,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-地面-じめん",
@@ -697,7 +697,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "地 面"
+    "kanji": "地 面"
   },
   {
     "id": "word-輸送-ゆそう",
@@ -719,7 +719,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "輸 送"
+    "kanji": "輸 送"
   },
   {
     "id": "word-資料-しりょう",
@@ -741,7 +741,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "資 料"
+    "kanji": "資 料"
   },
   {
     "id": "word-国立-こくりつ",
@@ -763,7 +763,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "国 立"
+    "kanji": "国 立"
   },
   {
     "id": "word-年度-ねんど",
@@ -785,7 +785,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "年 度"
+    "kanji": "年 度"
   },
   {
     "id": "word-回答-かいとう",
@@ -811,7 +811,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "回 答"
+    "kanji": "回 答"
   },
   {
     "id": "word-項目-こうもく",
@@ -833,7 +833,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "項 目"
+    "kanji": "項 目"
   },
   {
     "id": "word-大して-たいして",
@@ -855,7 +855,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "大"
+    "kanji": "大"
   },
   {
     "id": "word-公衆-こうしゅう",
@@ -872,7 +872,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "公 衆"
+    "kanji": "公 衆"
   },
   {
     "id": "word-割と-わりと",
@@ -889,7 +889,7 @@
     ],
     "examples": [],
     "duplicateCount": 3,
-    "usedKanji": "割"
+    "kanji": "割"
   },
   {
     "id": "word-改正-かいせい",
@@ -906,7 +906,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "改 正"
+    "kanji": "改 正"
   },
   {
     "id": "word-体制-たいせい",
@@ -923,7 +923,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "体 制"
+    "kanji": "体 制"
   },
   {
     "id": "word-温泉-おんせん",
@@ -945,7 +945,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "温 泉"
+    "kanji": "温 泉"
   },
   {
     "id": "word-発揮-はっき",
@@ -967,7 +967,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "発 揮"
+    "kanji": "発 揮"
   },
   {
     "id": "word-塊-かたまり",
@@ -984,7 +984,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "塊"
+    "kanji": "塊"
   },
   {
     "id": "word-各地-かくち",
@@ -1006,7 +1006,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "各 地"
+    "kanji": "各 地"
   },
   {
     "id": "word-回数-かいすう",
@@ -1032,7 +1032,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "回 数"
+    "kanji": "回 数"
   },
   {
     "id": "word-信ずる-しんずる",
@@ -1054,7 +1054,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "信"
+    "kanji": "信"
   },
   {
     "id": "word-録音-ろくおん",
@@ -1076,7 +1076,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "録 音"
+    "kanji": "録 音"
   },
   {
     "id": "word-小学生-しょうがくせい",
@@ -1098,7 +1098,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "小 学 生"
+    "kanji": "小 学 生"
   },
   {
     "id": "word-幼稚-ようち",
@@ -1120,7 +1120,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "幼 稚"
+    "kanji": "幼 稚"
   },
   {
     "id": "word-公式-こうしき",
@@ -1142,7 +1142,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "公 式"
+    "kanji": "公 式"
   },
   {
     "id": "word-剃る-そる",
@@ -1153,7 +1153,7 @@
     "exampleMeaningKo": "",
     "level": "N2",
     "reviewType": "word",
-    "searchText": "剃る そる 하다 剃 N2",
+    "searchText": "剃る そる 하다 N2",
     "levels": [
       "N2"
     ],
@@ -1164,7 +1164,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "剃"
+    "kanji": ""
   },
   {
     "id": "word-元々-もともと",
@@ -1186,7 +1186,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "元"
+    "kanji": "元"
   },
   {
     "id": "word-確率-かくりつ",
@@ -1212,7 +1212,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "確 率"
+    "kanji": "確 率"
   },
   {
     "id": "word-火傷-やけど",
@@ -1234,7 +1234,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "火 傷"
+    "kanji": "火 傷"
   },
   {
     "id": "word-水着-みずぎ",
@@ -1256,7 +1256,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "水 着"
+    "kanji": "水 着"
   },
   {
     "id": "word-防止-ぼうし",
@@ -1278,7 +1278,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "防 止"
+    "kanji": "防 止"
   },
   {
     "id": "word-薬局-やっきょく",
@@ -1300,7 +1300,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "薬 局"
+    "kanji": "薬 局"
   },
   {
     "id": "word-偉い-えらい",
@@ -1322,7 +1322,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "偉"
+    "kanji": "偉"
   },
   {
     "id": "word-成分-せいぶん",
@@ -1344,7 +1344,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "成 分"
+    "kanji": "成 分"
   },
   {
     "id": "word-調節-ちょうせつ",
@@ -1366,7 +1366,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "調 節"
+    "kanji": "調 節"
   },
   {
     "id": "word-屋外-おくがい",
@@ -1388,7 +1388,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "屋 外"
+    "kanji": "屋 外"
   },
   {
     "id": "word-油断-ゆだん",
@@ -1410,7 +1410,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "油 断"
+    "kanji": "油 断"
   },
   {
     "id": "word-直後-ちょくご",
@@ -1432,7 +1432,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "直 後"
+    "kanji": "直 後"
   },
   {
     "id": "word-通用-つうよう",
@@ -1454,7 +1454,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "通 用"
+    "kanji": "通 用"
   },
   {
     "id": "word-いきなり-no-reading",
@@ -1480,7 +1480,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-ビタミン-びたみん",
@@ -1502,7 +1502,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-緯度-いど",
@@ -1524,7 +1524,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "緯 度"
+    "kanji": "緯 度"
   },
   {
     "id": "word-遊園地-ゆうえんち",
@@ -1550,7 +1550,7 @@
       }
     ],
     "duplicateCount": 2,
-    "usedKanji": "遊 園 地"
+    "kanji": "遊 園 地"
   },
   {
     "id": "word-撮影-さつえい",
@@ -1572,7 +1572,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "撮 影"
+    "kanji": "撮 影"
   },
   {
     "id": "word-まぶた-no-reading",
@@ -1594,7 +1594,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-真っ暗-まっくら",
@@ -1616,7 +1616,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "真 暗"
+    "kanji": "真 暗"
   },
   {
     "id": "word-昼寝-ひるね",
@@ -1638,7 +1638,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "昼 寝"
+    "kanji": "昼 寝"
   },
   {
     "id": "word-深夜-しんや",
@@ -1655,7 +1655,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "深 夜"
+    "kanji": "深 夜"
   },
   {
     "id": "word-弱点-じゃくてん",
@@ -1672,7 +1672,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "弱 点"
+    "kanji": "弱 点"
   },
   {
     "id": "word-性能-せいのう",
@@ -1689,7 +1689,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "性 能"
+    "kanji": "性 能"
   },
   {
     "id": "word-シーツ-しーつ",
@@ -1706,7 +1706,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-姿勢-しせい",
@@ -1723,7 +1723,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "姿 勢"
+    "kanji": "姿 勢"
   },
   {
     "id": "word-欧米-おうべい",
@@ -1745,7 +1745,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "欧 米"
+    "kanji": "欧 米"
   },
   {
     "id": "word-順序-じゅんじょ",
@@ -1767,7 +1767,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "順 序"
+    "kanji": "順 序"
   },
   {
     "id": "word-ついで-no-reading",
@@ -1789,7 +1789,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-パターン-ぱたーん",
@@ -1811,7 +1811,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-学年-がくねん",
@@ -1833,7 +1833,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "学 年"
+    "kanji": "学 年"
   },
   {
     "id": "word-各自-かくじ",
@@ -1855,7 +1855,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "各 自"
+    "kanji": "各 自"
   },
   {
     "id": "word-前後-ぜんご",
@@ -1877,7 +1877,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "前 後"
+    "kanji": "前 後"
   },
   {
     "id": "word-職場-しょくば",
@@ -1899,7 +1899,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "職 場"
+    "kanji": "職 場"
   },
   {
     "id": "word-サークル-さーくる",
@@ -1921,7 +1921,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   },
   {
     "id": "word-属する-ぞくする",
@@ -1943,7 +1943,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "属"
+    "kanji": "属"
   },
   {
     "id": "word-性別-せいべつ",
@@ -1965,7 +1965,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "性 別"
+    "kanji": "性 別"
   },
   {
     "id": "word-絞る-しぼる",
@@ -1987,7 +1987,7 @@
       }
     ],
     "duplicateCount": 1,
-    "usedKanji": "絞"
+    "kanji": "絞"
   },
   {
     "id": "word-公表-こうひょう",
@@ -2004,7 +2004,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "公 表"
+    "kanji": "公 表"
   },
   {
     "id": "word-崩す-くずす",
@@ -2021,7 +2021,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "崩"
+    "kanji": "崩"
   },
   {
     "id": "word-成立-せいりつ",
@@ -2038,7 +2038,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "成 立"
+    "kanji": "成 立"
   },
   {
     "id": "word-寿命-じゅみょう",
@@ -2055,7 +2055,7 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": "寿 命"
+    "kanji": "寿 命"
   },
   {
     "id": "word-バイバイ-ばいばい",
@@ -2072,6 +2072,6 @@
     ],
     "examples": [],
     "duplicateCount": 1,
-    "usedKanji": ""
+    "kanji": ""
   }
 ]
